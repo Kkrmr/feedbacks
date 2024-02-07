@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Kkrmr.github.io/feedbacks/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2024-02-07T22:59:42.232Z</updated>
+    <title>feedbacks</title>
+    <updated>2024-02-07T23:46:57.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Kkrmr.github.io/feedbacks/index.html"/>
     <link rel="self" href="https://Kkrmr.github.io/feedbacks/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[開催国カタールがアジア連覇に王手!! 緊急就任から2か月での快挙にスペイン人指揮官「全てを変えたつもりはない」]]></title>
+        <id>https://web.gekisaka.jp/news/detail/?401189-401189-fl</id>
+        <link href="https://web.gekisaka.jp/news/world/detail/?401189-401189-fl"/>
+        <updated>2024-02-07T23:07:04.000Z</updated>
+        <summary type="html"><![CDATA[[2.6 アジア杯準決勝 イラン 2-3 カタール アルトゥママ]　開催国カタールが準決勝でイランとの死闘を制し、前回大会に続く連覇に王手をかけた。大会直前に就任したスペイン出身のマルケス・ロペス監督は、わずか3か月間の在任でタイトルマッチに導いた。　イラン戦ではこれまで採用していた3-5-2のポゼッションスタイルではなく、公式登録199cmの長身SBホマム・アフメドを左サイドハーフで初]]></summary>
+        <author>
+            <name>Gekisaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開催国カタールがアジア連覇に王手!! イランとの大激闘に3-2勝利、前回得点王FWアリが決勝弾]]></title>
         <id>https://web.gekisaka.jp/news/detail/?401186-401186-fl</id>
