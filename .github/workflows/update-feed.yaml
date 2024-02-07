@@ -14,6 +14,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    # to https://github.com/Kkrmr/feedbacks/actions/runs/7821947452/job/21339972849
+    # from https://zenn.dev/osawa_koki/articles/a63b96a2707a8f
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+
     steps:
       - uses: actions/checkout@v2
       - name: Setup Node.js environment
