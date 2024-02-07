@@ -6,3 +6,6 @@
 cacheUrl: https://Kkrmr.github.io/feedbacks/cache.json
 sources:
   - href: https://web.gekisaka.jp/feed?category=foreign
+siteTitle: "feedbacks"
+timezone: Asia/Tokyo
+cacheMaxDays: 14
