@@ -7,7 +7,7 @@ on:
   schedule:
     # 金曜日の 12:00 (JST) に処理を実行する。
     # UTC だと木曜日の 03:00。
-    - cron: "0 3 * * 4"
+    - cron: "30 * * * *"
 
 jobs:
   build:
