@@ -1,13 +1,14 @@
 name: Build site on schedule or main branch update
 
 on:
-  #push:
-  #  branches:
-  #    - main
+  push:
+    branches:
+      - main
   schedule:
-    # 金曜日の 12:00 (JST) に処理を実行する。
-    # UTC だと木曜日の 03:00。
-    - cron: "*/10 * * * 6"
+    # 土曜日の 0:40 (JST) にキューイングする
+    # UTC だと金曜日の 15:40。
+    - cron: "40 15 * * 5"
+  workflow_dispatch:
 
 jobs:
   build:
