@@ -6,14 +6,814 @@
       "siteUrl": "https://web.gekisaka.jp/",
       "articles": [
         {
+          "id": "https://web.gekisaka.jp/news/detail/?401422-401422-fl",
+          "author": "Gekisaka",
+          "description": "【プレミアリーグ第24節】(シェルハースト パーク)クリスタル・パレス 1-3(前半1-0)チェルシー[ク]ジェフェルソン・レルマ(30分)[チ]コナー・ギャラガー2(47分、90分+1)、エンソ・フェルナンデス(90分+4)[ク]ジェフェルソン・レルマ(70分)、ダニエル・ムニョス(79分)[チ]アクセル・ディサシ(90分+2)、ニコラス・ジャク",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401422-401422-fl",
+          "publishedOn": "2024-02-12T22:10:02.000Z",
+          "wordCount": 2786,
+          "title": "クリスタル・パレスvsチェルシー 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401304-401304-fl",
+          "author": "Gekisaka",
+          "description": "【セリエA第24節】(サルデーニャ・アレーナ)カリアリ 1-3(前半0-1)ラツィオ[カ]ジャンルカ・ガエターノ(51分)[ラ]オウンゴール(26分)、チーロ・インモービレ(49分)、フェリペ・アンデルソン(65分)[カ]A. Makoumbou(52分)[ラ]チーロ・インモービレ(45分+1)、アレッシオ・ロマニョーリ(67分)、マティアス・ベシーノ(",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401304-401304-fl",
+          "publishedOn": "2024-02-12T20:50:01.000Z",
+          "wordCount": 2812,
+          "title": "カリアリvsラツィオ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401421-401421-fl",
+          "author": "Gekisaka",
+          "description": "[2.12 プレミアリーグ第24節](シェルハースト パーク)※29:00開始[クリスタル・パレス]先発GK 30 ディーン・ヘンダーソンDF 3 タイリック・ミッチェルDF 12 ダニエル・ムニョスDF 16 ヨアキム・アンデルセンDF 26 クリストファー・リチャーズMF 8 ジェフェルソン・レルマMF 9 ジョルダン・アイェウMF 11 マテ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401421-401421-fl",
+          "publishedOn": "2024-02-12T19:02:02.000Z",
+          "wordCount": 2792,
+          "title": "クリスタル・パレスvsチェルシー スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401407-401407-fl",
+          "author": "Gekisaka",
+          "description": "アジアサッカー連盟(AFC)は12日、アジアカップのベストイレブンを発表した。　開催国のカタールが2連覇を成し遂げた今大会は、波乱が続いた。初出場のタジキスタンが決勝トーナメントに進出すると、これまでベスト8が最高成績だったヨルダンは韓国らを倒して決勝に進出。日本は準々決勝でイランに敗れて優勝を逃している。　AFCが発表したベストイレブンに日本の選手は選ばれなかった。最多選出はカタール",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401407-401407-fl",
+          "publishedOn": "2024-02-12T13:55:08.000Z",
+          "wordCount": 2643,
+          "title": "AFCがアジアカップのベストイレブン発表!! 最多は連覇カタール、日本からの選出なし",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401407/news_401407_1.jpeg?time=20240212225508"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401417-401417-fl",
+          "author": "Gekisaka",
+          "description": "マンチェスター・ユナイテッドがプレミアリーグ3連勝を飾り、UEFAチャンピオンズリーグ出場権獲得争いに生き残った。　11日に開催されたプレミアリーグ第24節で相まみえたのは、勝ち点46で4位につけるアストン・ビラ。勝ち点38で6位のマンチェスター・Uにとって、欧州CL出場権獲得のために絶対に負けられない相手だった。　前半17分にFWラスムス・ホイルンドの得点で先制しながらも、後半22分",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401417-401417-fl",
+          "publishedOn": "2024-02-12T13:42:00.000Z",
+          "wordCount": 2639,
+          "title": "プレミア3連勝のマンU、4位トッテナムとの勝ち点差は6に…指揮官「ネガティブなシナリオは考えない」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401417/news_401417_1.jpg?time=20240212214237"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401415-401415-fl",
+          "author": "Gekisaka",
+          "description": "ソシエダは12日、日本代表MF久保建英との契約を29年まで延長したことを発表した。　22-23シーズンにR・マドリーからソシエダに完全移籍で加入した久保は、シーズンを通して主軸としてプレーして35試合9得点を記録。クラブの10シーズンぶりのUEFAチャンピオンズリーグ出場に貢献した。　2年目を迎えた今季はラ・リーガで18試合6得点3アシストを記録。9月には日本人初の月間最優秀選手賞を受",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401415-401415-fl",
+          "publishedOn": "2024-02-12T12:24:56.000Z",
+          "wordCount": 2647,
+          "title": "久保建英、ソシエダと契約延長した理由を語る「数ある理由の一つとしては…」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401415/news_401415_1.jpg?time=20240212212456"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401403-401403-fl",
+          "author": "Gekisaka",
+          "description": "ソシエダは12日、MF久保建英(22)と2028-29シーズンまでの契約延長を行ったことを発表した。　久保は22-23シーズンにソシエダへ完全移籍し、今季はリーグ戦18試合6ゴール3アシストを記録。9月には日本人選手として初めてリーグの月間最優秀選手賞を受賞した。　クラブは契約延長に際して特製のアニメーション映像も公開している。久保が歌を歌いながら「快く受け入れてくれてありがとう」と感",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401403-401403-fl",
+          "publishedOn": "2024-02-12T12:04:16.000Z",
+          "wordCount": 2655,
+          "title": "久保建英がソシエダと29年夏まで契約延長!! クラブは“本人歌唱”特別アニメ映像を公開",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401403/news_401403_1.jpeg?time=20240212210416"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401414-401414-fl",
+          "author": "Gekisaka",
+          "description": "今冬、ベルギー1部のゲントに移籍したMF横田大祐が負傷離脱したようだ。　川崎F・U-18出身の横田は、高校3年生だった18年夏に海外へと渡り、ドイツのユースチームやラトビア1部でプレーすると、23年2月からポーランド1部のグールニク・ザブジェに在籍。今季リーグ戦18試合7得点を記録すると、今年1月にゲントへの移籍が発表された。　新天地でもすぐさまレギュラーポジションをつかみ、4試合連続",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401414-401414-fl",
+          "publishedOn": "2024-02-12T12:01:48.000Z",
+          "wordCount": 2635,
+          "title": "今冬ゲント移籍で定位置確保、MF横田大祐が負傷離脱…指揮官「残念ながら、しばらく彼を失う」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401414/news_401414_1.jpg?time=20240212210148"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401413-401413-fl",
+          "author": "Gekisaka",
+          "description": "10日に行われたチャンピオンシップ(英2部相当)第31節・リーズ対ロザラムの先制点が物議を醸している。　スコアレスで迎えた前半10分、左サイドからリーズのDFジュニオール・フィルポがクロスを送るとボールは相手選手に当たってゴール方向に飛ぶ。これをFWパトリック・バンフォードが合わせてゴールネットを揺らした。するとロザラムの選手たちが一斉に猛抗議。映像ではバンフォードが右腕を上げてボール",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401413-401413-fl",
+          "publishedOn": "2024-02-12T11:54:26.000Z",
+          "wordCount": 2647,
+          "title": "昨季来日の主審、右腕でのゴールに気づけず得点認定…リーズFWは堂々“神の腕”アピールのゴールパフォ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401413/news_401413_1.jpeg?time=20240212205426"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401412-401412-fl",
+          "author": "Gekisaka",
+          "description": "ハノーファー(独2部)は12日、DF室屋成が負傷離脱することを発表した。　室屋は今月9日のハンブルガーSV戦に先発出場すると後半アディショナルタイム8分に右サイドからのクロスで決勝点をアシストして4-3の勝利に貢献。しかしその後に相手選手との接触で負傷し、同アディショナルタイム14分に交代していた。　クラブは12日にMRI検査を実施し、室屋が右太もも裏の筋肉と腱を損傷していることを確認",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401412-401412-fl",
+          "publishedOn": "2024-02-12T11:19:02.000Z",
+          "wordCount": 2636,
+          "title": "室屋成が後半ATに決勝点アシストも負傷交代…ハノーファーが離脱を発表",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401412/news_401412_1.jpeg?time=20240212201902"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401410-401410-fl",
+          "author": "Gekisaka",
+          "description": "今冬、マンチェスター・シティからウエスト・ハムにレンタル移籍したイングランド代表MFカルビン・フィリップスが、マンチェスター・Cでの1年半で最も辛かった瞬間を明かした。『ESPN』が伝えている。　昨季リーズからマンチェスター・Cに加入したK・フィリップスだが、負傷の影響もあって出場機会は限られ、今季もリーグ戦では4試合でしかピッチに立てなかった。EURO2024でのメンバー入りを高める",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401410-401410-fl",
+          "publishedOn": "2024-02-12T10:52:11.000Z",
+          "wordCount": 2638,
+          "title": "イングランド代表MFが明かす、マンCで最も辛かったのは“ペップからの一言”",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401410/news_401410_1.jpg?time=20240212195211"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401405-401405-fl",
+          "author": "Gekisaka",
+          "description": "バルセロナの苦戦が続いている。前日に首位のレアル・マドリー戦で敗れた2位・ジローナとの勝ち点差を縮めるチャンスとなった11日のグラナダ戦で、降格圏のクラブを相手に3-3で引き分けた。　すでにシャビ・エルナンデス監督が今シーズン限りでの退任を表明しているなか、16歳のFWラミネ・ヤマルが2ゴールを決めるも勝利を逃した。これで首位との勝ち点差は10。4位のアトレティコ・マドリーも敗れたこと",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401405-401405-fl",
+          "publishedOn": "2024-02-12T10:08:00.000Z",
+          "wordCount": 2635,
+          "title": "バルセロナのラポルタ会長、暴言&食べ物を投げ飛ばす…降格圏グラナダに引き分けて激怒",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401405/news_401405_1.jpeg?time=20240212185750"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401373-401373-fl",
+          "author": "Gekisaka",
+          "description": "【ラ・リーガ第24節】(Estadi Olímpic Lluís Companys)バルセロナ 3-3(前半1-1)グラナダ[ハ]ラミネ・ヤマル2(14分、80分)、ロベルト・レバンドフスキ(63分)[ク]リカール サンチェス(43分)、ファクンド・ペリストリ(60分)、ミケル(66分)[ハ]フェルミン・ロペス(78分)、シャビ・エルナンデス(6",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401373-401373-fl",
+          "publishedOn": "2024-02-12T09:57:50.000Z",
+          "wordCount": 2801,
+          "title": "バルセロナvsグラナダ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401404-401404-fl",
+          "author": "Gekisaka",
+          "description": "マンチェスター・ユナイテッドのFWラスムス・ホイルンドの勢いが止まらない。　今季、アタランタから加入したデンマーク代表FWは、UEFAチャンピオンズリーグでは6試合5得点と結果を残しながらも、プレミアリーグでは生みの苦しみを味わっていた。しかし、15試合目の出場となった第19節アストン・ビラ戦で待望のリーグ戦初ゴールを記録。すると、勢いに乗った。　第21節トッテナム戦、第22節ウォルバ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401404-401404-fl",
+          "publishedOn": "2024-02-12T09:52:44.000Z",
+          "wordCount": 2634,
+          "title": "アネルカ氏に次ぐリーグ記録に…マンUホイルンド、またもやネット揺らす",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401404/news_401404_1.jpg?time=20240212185244"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401399-401399-fl",
+          "author": "Gekisaka",
+          "description": "フェイエノールトのFW上田綺世が11日、エールディビジ第21節のスパルタ・ロッテルダム戦で加入後初めてフル出場した。　アジアカップ後初めての出場となった上田は、エースFWのサンティアゴ・ヒメネスが負傷していることもあってリーグ戦では初めての先発メンバー入り。チームは2-0で勝利したものの持ち味は発揮できず、ポジション争いでアピールすることはできなかった。　現地メディアの『フットボール・",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401399-401399-fl",
+          "publishedOn": "2024-02-12T09:15:00.000Z",
+          "wordCount": 2637,
+          "title": "上田綺世は初フル出場も苦戦…「良いストライカーならば」と元FWが指摘した動きとは",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401399/news_401399_1.jpeg?time=20240212180223"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401372-401372-fl",
+          "author": "Gekisaka",
+          "description": "【オランダ・エールディビジ第21節】(スタディオン・フェイエノールト)フェイエノールト 2-0(前半0-0)スパルタ・ロッテルダム[フ]ダヴィド ハンツコ(57分)、L. Geertruida(63分)[ス]P. Clement(34分)、Metinho(86分)観衆:47,500人[フェイエノールト]先発GK 22 ティモン ヴェレンロイ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401372-401372-fl",
+          "publishedOn": "2024-02-12T09:02:23.000Z",
+          "wordCount": 2794,
+          "title": "フェイエノールトvsスパルタ・ロッテルダム 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401397-401397-fl",
+          "author": "Gekisaka",
+          "description": "レアル・マドリーは11日、イングランド代表MFジュード・ベリンガムがクラブの医療部門の検査を複数受けた結果、左足首の重度のねん挫と診断されたことを発表した。　10日に行われたラ・リーガ第24節ジローナ戦で先発出場したベリンガムは2得点を奪う活躍を見せるも、後半12分に負傷交代していた。クラブは、13日に行われるUEFAチャンピオンズリーグ決勝トーナメント1回戦第1戦ライプツィヒ戦の招集",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401397-401397-fl",
+          "publishedOn": "2024-02-12T08:49:09.000Z",
+          "wordCount": 2634,
+          "title": "R・マドリーに痛手…ベリンガムが全治3週間の負傷、CLライプツィヒ戦含む4試合を欠場か",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401397/news_401397_1.jpg?time=20240212174909"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401396-401396-fl",
+          "author": "Gekisaka",
+          "description": "精巣がんと診断されてから約1年半後、コートジボワール代表のFWセバスティアン・ハラーがアフリカネーションズカップ決勝で優勝を導くゴールを決めた。　ハラーは2022年7月6日にアヤックスからドルトムントへ移籍することが決定。しかし同18日に腫瘍が見つかって離脱することが決まり、のちに精巣がんと診断された。半年間の治療を行い、23年1月に戦列復帰。翌月には移籍後初ゴールを記録し、選手キャリ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401396-401396-fl",
+          "publishedOn": "2024-02-12T08:13:39.000Z",
+          "wordCount": 2645,
+          "title": "がん診断から約1年半...コートジボワール代表FWがアフリカ制覇導く逆転V弾",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401396/news_401396_1.jpeg?time=20240212171339"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401394-401394-fl",
+          "author": "Gekisaka",
+          "description": "U-23アルゼンチン代表は11日、引き分け以下で予選敗退となる状況でパリオリンピックサッカー南米予選の決勝リーグ最終節・ブラジル戦を行い、1-0で勝利して出場権を獲得した。敗れたブラジルは2連覇中ながら予選で姿を消すことになった。　A代表でも強いライバル関係にあるブラジルを倒し、パリ行きを確定。『TNTスポーツ』はハビエル・マスチェラーノ監督が「選手たちは再びオリンピック予選を通過した",
+          "link": "https://web.gekisaka.jp/news/olympic/detail/?401394-401394-fl",
+          "publishedOn": "2024-02-12T07:47:19.000Z",
+          "wordCount": 2630,
+          "title": "アルゼンチンがパリ五輪出場権獲得!! メッシの参戦可能性にマスチェラーノ監督「扉は開いている」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401394/news_401394_1.jpeg?time=20240212164719"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401361-401361-fl",
+          "author": "Gekisaka",
+          "description": "【フランス・リーグアン第21節】(スタッド・デュ・ムストワール)ロリアン 2-0(前半0-0)スタッド・ランス[ロ]M. Bamba(70分)、ティエムエ・バカヨコ(87分)[ロ]ローラン アベルジェル(31分)[ス]バンジャマン・スタンブリ(41分)観衆:15,096人├伊東純也と中村敬斗が先発入り!! スタッド・ランスのロリアン戦メンバー発表└伊東純也は",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401361-401361-fl",
+          "publishedOn": "2024-02-12T06:00:02.000Z",
+          "wordCount": 2793,
+          "title": "ロリアンvsスタッド・ランス 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401370-401370-fl",
+          "author": "Gekisaka",
+          "description": "【プレミアリーグ第24節】(ヴィラ・パーク)アストン・ビラ 1-2(前半0-1)マンチェスター・U[ア]ドウグラス・ルイス(67分)[マ]ラスムス・ホイルンド(17分)、スコット・マクトミネイ(86分)[ア]クレマン・ラングレ(45分+4)、マティ・キャッシュ(60分)、ムサ・ディアビ(71分)[マ]カゼミーロ(37分)、コビー・メイヌー(45分+",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401370-401370-fl",
+          "publishedOn": "2024-02-12T04:30:02.000Z",
+          "wordCount": 2788,
+          "title": "アストン・ビラvsマンチェスター・U 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401382-401382-fl",
+          "author": "Gekisaka",
+          "description": "11日に行われたスコティッシュカップの5回戦で、セルティックのFW古橋亨梧とFW前田大然が揃ってゴールを決めている。　シャドーポジションで先発した古橋は前半15分、MFルイス・パルマの左クロスに走り込むと、右足ワンタッチで流し込んで先制点を決める。　前田は後半8分、MFマット・オライリーのシュートがポストに当たって跳ね返ったボールを右足で押し込んだ。　2-0で勝利したセルティックは、3",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401382-401382-fl",
+          "publishedOn": "2024-02-12T03:36:32.000Z",
+          "wordCount": 2635,
+          "title": "セルティック古橋&前田アベック弾!カップ戦で8強進出",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401382/news_401382_1.jpg?time=20240212123632"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401380-401380-fl",
+          "author": "Gekisaka",
+          "description": "サッカー男子でオリンピックを連覇をブラジル代表が、南米予選で敗退した。　4チームで上位2チームに与えられる本戦出場権を争う戦いだが、ブラジルは初戦でパラグアイに0-1で敗戦。厳しい船出となったが、2戦目でベネズエラに勝利したことで、2位で最終戦を迎えていた。　そして最終戦のアルゼンチン戦では引き分け以上で本戦行きを決めることになったが、0-1で敗戦。順位でアルゼンチンに逆転を許して、2",
+          "link": "https://web.gekisaka.jp/news/olympic/detail/?401380-401380-fl",
+          "publishedOn": "2024-02-12T02:52:59.000Z",
+          "wordCount": 2651,
+          "title": "サッカー男子五輪連覇中のブラジルが予選敗退の波乱…パラグアイとアルゼンチンがパリ五輪出場へ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401380/news_401380_1.jpg?time=20240212115259"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401379-401379-fl",
+          "author": "Gekisaka",
+          "description": "スタッド・ランスのFW伊東純也が、11日に行われたリーグアンの第21節ロリアン戦で先発フル出場を果たした。　アジアカップに出場した日本代表に帯同していた伊東だが、性加害疑惑の週刊誌報道が出たことで大会中にチームを離脱。体調が不安視されたが、チームに戻って調整を続けていた。　FW中村敬斗とともに先発出場したゲームでは、お互いに持ち味を発揮。中村は後半27分に交代したが、伊東は最後までピッ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401379-401379-fl",
+          "publishedOn": "2024-02-12T02:19:15.000Z",
+          "wordCount": 2634,
+          "title": "伊東純也が週刊誌報道後初フル出場、Sランス監督「我々は彼を大歓迎する」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401379/news_401379_1.jpg?time=20240212111915"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401378-401378-fl",
+          "author": "Gekisaka",
+          "description": "[2.11 プレミアリーグ第24節 アストン・ビラ 1-2 マンチェスター・U]　プレミアリーグは11日、第24節を開催し、{{c|マンチェスター・ユナイテッド}がアストン・ビラのホームに乗り込み、2-1の勝利を収めて3連勝を飾った。　前半17分に試合を動かしたのはアウェーのマンチェスター・Uだった。MFブルーノ・フェルナンデスが蹴り出したCKをDFハリー・マグワイアがヘッドで落とすと、",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401378-401378-fl",
+          "publishedOn": "2024-02-12T02:04:51.000Z",
+          "wordCount": 2652,
+          "title": "途中出場のマクトミネイが決勝点!! マンU、アストン・ビラに競り勝ってプレミア3連勝!!",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401378/news_401378_1.jpg?time=20240212110451"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401376-401376-fl",
+          "author": "Gekisaka",
+          "description": "[2.11 プレミアリーグ第24節 ウエスト・ハム 0-6 アーセナル]　プレミアリーグは11日、第24節を開催し、日本代表DF冨安健洋が所属するアーセナルがウエスト・ハムのホームに乗り込み、6-0で快勝した。冨安はメンバー外となった。　4日のプレミア第23節リバプール戦で3-1の勝利を収めて3連勝を飾ったアーセナル。ウエスト・ハム相手に攻勢をかけると、前半32分にMFデクラン・ライスが",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401376-401376-fl",
+          "publishedOn": "2024-02-12T01:45:08.000Z",
+          "wordCount": 2652,
+          "title": "アーセナルが大量6発のゴールショー!! ウエスト・ハム撃破で4連勝…冨安はベンチ外",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401376/news_401376_1.jpg?time=20240212104508"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401362-401362-fl",
+          "author": "Gekisaka",
+          "description": "【プレミアリーグ第24節】(ロンドン スタジアム)ウエスト・ハム 0-6(前半0-4)アーセナル[ア]ウィリアン・サリバ(32分)、ブカヨ・サカ2(41分、63分)、ガブリエル・マガリャンイス(44分)、レアンドロ・トロサール(45分+2)、デクラン・ライス(65分)[ウ]エドソン アルバレス(9分)、アルフォンス・アレオラ(38分)、モハメド・クト",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401362-401362-fl",
+          "publishedOn": "2024-02-12T01:45:08.000Z",
+          "wordCount": 2787,
+          "title": "ウエスト・ハムvsアーセナル 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401375-401375-fl",
+          "author": "Gekisaka",
+          "description": "11日に行われたフランス・リーグアンの第21節の二ース戦で、モナコに所属する日本代表MF南野拓実が今季5アシスト目を記録して勝利に貢献している。　アジアカップから復帰後、リーグ戦では初の先発となった南野は1-1の後半5分、右サイドを抜け出してクロスを上げてMFデニス・ザカリアの勝ち越し弾をアシスト。同9分には退場者も誘発した。　チームはその後、再び同点とされたが、後半32分にMFアレク",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401375-401375-fl",
+          "publishedOn": "2024-02-12T01:31:07.000Z",
+          "wordCount": 2633,
+          "title": "モナコMF南野拓実がアシスト記録、上位対決の勝利に貢献",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401375/news_401375_1.jpg?time=20240212103107"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401374-401374-fl",
+          "author": "Gekisaka",
+          "description": "コートジボワール代表が11日に行われたアフリカネーションズカップの決勝でナイジェリア代表を2-1で下し、4大会ぶり3度目の優勝を飾った。大会最優秀選手は、ナイジェリア代表のDFウィリアム・トロースト・エコングが受賞している。　強豪国同士の対戦となった決勝は、前半38分にCKからウィリアム・トロースト・エコングがヘディングを叩きこんでナイジェリアが先制。前半を1点リードで折り返すことに成",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401374-401374-fl",
+          "publishedOn": "2024-02-12T00:43:22.000Z",
+          "wordCount": 2630,
+          "title": "コートジボワールが開催地V!大会期間中の監督交代、激闘乗り越え4大会ぶり3度目アフリカ王者に",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401374/news_401374_1.jpg?time=20240212094322"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401371-401371-fl",
+          "author": "Gekisaka",
+          "description": "[2.11 ラ・リーガ第24節](Estadi Olímpic Lluís Companys)※29:00開始[バルセロナ]先発GK 1 マルク・アンドレ・テア・シュテーゲンDF 2 ジョアン・カンセロDF 5 イニゴ・マルティネスDF 23 ジュール・クンデDF 33 Pau CubarsíMF 15 アンドレアス・クリステンセンMF 21 フレンキ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401371-401371-fl",
+          "publishedOn": "2024-02-11T19:57:01.000Z",
+          "wordCount": 2804,
+          "title": "バルセロナvsグラナダ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401368-401368-fl",
+          "author": "Gekisaka",
+          "description": "[2.11 オランダ・エールディビジ第21節](スタディオン・フェイエノールト)※28:00開始[フェイエノールト]先発GK 22 ティモン ヴェレンロイターDF 3 T. BeelenDF 4 L. GeertruidaDF 5 Q. HartmanDF 33 ダヴィド ハンツコMF 6 R. ZerroukiMF 10 C. StengsMF 14 Igor",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401368-401368-fl",
+          "publishedOn": "2024-02-11T19:09:01.000Z",
+          "wordCount": 2796,
+          "title": "フェイエノールトvsスパルタ・ロッテルダム スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401350-401350-fl",
+          "author": "Gekisaka",
+          "description": "スタッド・ランスは11日、敵地でリーグアン第21節のロリアン戦を行う。午後3時(日本時間午後11時)のキックオフを前に登録メンバーが発表され、FW伊東純也とFW中村敬斗が揃って先発メンバーに選出された。　伊東と中村はアジアカップに参戦していたため、スタッド・ランスでの出場は中村が決勝点を決めた昨年12月20日の第17節ル・アーブル戦(◯1-0)以来となる。伊東は今季ここまで17試合2ゴ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401350-401350-fl",
+          "publishedOn": "2024-02-11T16:30:12.000Z",
+          "wordCount": 2712,
+          "title": "伊東純也と中村敬斗が先発入り!! スタッド・ランスのロリアン戦メンバー発表",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401350/news_401350_1.jpeg?time=20240212013012"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401360-401360-fl",
+          "author": "Gekisaka",
+          "description": "[2.11 リーグアン第21節 ロリアン 2-0 スタッド・ランス]　スタッド・ランスは11日、敵地でリーグアン第21節のロリアン戦を行って0-2で敗れた。日本代表としてアジアカップに参加していたFW伊東純也とFW中村敬斗はこの試合から復帰し、いきなりの先発起用となった。　前半14分、中村に決定機が訪れる。右からのクロスボールがファーサイドで待つ中村へ。左足で狙いすましたシュートはGKを",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401360-401360-fl",
+          "publishedOn": "2024-02-11T15:56:00.000Z",
+          "wordCount": 2648,
+          "title": "伊東純也はフル出場、守備面での貢献も…中村敬斗の決定機は好守に阻まれスタッド・ランス2連敗",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401360/news_401360_1.jpeg?time=20240212005600"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401359-401359-fl",
+          "author": "Gekisaka",
+          "description": "[2.11 プレミアリーグ第24節](ヴィラ・パーク)※25:30開始[アストン・ビラ]先発GK 1 エミリアーノ・マルティネスDF 2 マティ・キャッシュDF 3 ジエゴ・カルロスDF 15 アレックス・モレノDF 17 クレマン・ラングレMF 6 ドウグラス・ルイスMF 7 ジョン・マッギンMF 31 レオン・ベイリーMF 41 ジェイコブ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401359-401359-fl",
+          "publishedOn": "2024-02-11T15:32:01.000Z",
+          "wordCount": 2792,
+          "title": "アストン・ビラvsマンチェスター・U スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401028-401028-fl",
+          "author": "Gekisaka",
+          "description": "【フランス・リーグアン第20節】(Stade Auguste-Delaune)スタッド・ランス 2-3(前半0-3)トゥールーズ[ス]テディ・テウマ(49分)、セルヒオ・アキエメ(90分+1)[ト]C. Mawissa(11分)、S. Babicka(31分)、タイス・ダリンガ(45分+2)[ス]バンジャマン・スタンブリ(21分)、ティボー デ スメッ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401028-401028-fl",
+          "publishedOn": "2024-02-11T14:20:02.000Z",
+          "wordCount": 2804,
+          "title": "スタッド・ランスvsトゥールーズ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401352-401352-fl",
+          "author": "Gekisaka",
+          "description": "[2.11 フランス・リーグアン第21節](スタッド・デュ・ムストワール)※23:00開始[ロリアン]先発GK 38 イボン ムヴォゴDF 3 モンタサル タルビDF 32 N. AdjeiDF 95 S. TouréMF 6 イムラン・ルザMF 7 P. KatserisMF 19 ローラン アベルジェルMF 21 ジュリアン ポンソーMF 37 テオ ル ブリM",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401352-401352-fl",
+          "publishedOn": "2024-02-11T13:49:01.000Z",
+          "wordCount": 2800,
+          "title": "ロリアンvsスタッド・ランス スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401348-401348-fl",
+          "author": "Gekisaka",
+          "description": "[2.11 プレミアリーグ第24節](ロンドン スタジアム)※23:00開始[ウエスト・ハム]先発GK 23 アルフォンス・アレオラDF 4 クル・ズマDF 5 ブラディミール・ツォウファルDF 27 ナイフ・アゲルドDF 33 エメルソン・パルミエリMF 2 ベン・ジョンソンMF 7 ジェームズ・ウォード・プラウズMF 14 モハメド・",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401348-401348-fl",
+          "publishedOn": "2024-02-11T13:02:01.000Z",
+          "wordCount": 2795,
+          "title": "ウエスト・ハムvsアーセナル スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401346-401346-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401346-401346-pn",
+          "publishedOn": "2024-02-11T12:40:00.000Z",
+          "wordCount": 2862,
+          "title": "開催国カタールがアジア杯連覇!! 聖地で喜びを爆発させる選手たち(24枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401346/news_401346_1.jpg?time=20240211213833"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401345-401345-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401345-401345-pn",
+          "publishedOn": "2024-02-11T12:30:00.000Z",
+          "wordCount": 2833,
+          "title": "愛する妻に捧げる“手品”パフォーマンス!! アフィフが見せた『S』の意味(15枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401345/news_401345_1.jpg?time=20240211212902"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401343-401343-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401343-401343-pn",
+          "publishedOn": "2024-02-11T12:24:00.000Z",
+          "wordCount": 2878,
+          "title": "アジア杯の主役はFWアクラム・アフィフ!! 史上初の決勝ハット、8G3AでMVP&得点王ダブル受賞(30枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401343/news_401343_1.jpg?time=20240211212335"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401341-401341-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401341-401341-pn",
+          "publishedOn": "2024-02-11T12:23:17.000Z",
+          "wordCount": 2879,
+          "title": "大観衆の歴史的決勝戦…カタールW杯決勝と同じ聖地に集まった86492人のサポーター(32枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401341/news_401341_1.jpg?time=20240211212317"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401339-401339-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401339-401339-pn",
+          "publishedOn": "2024-02-11T12:22:00.000Z",
+          "wordCount": 2864,
+          "title": "W杯決勝スタジアムでの歴史的決戦…大声量で開催国をも圧倒したヨルダンサポーター(27枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401339/news_401339_1.jpg?time=20240211211346"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401338-401338-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401338-401338-pn",
+          "publishedOn": "2024-02-11T12:20:00.000Z",
+          "wordCount": 2833,
+          "title": "開催国カタール、就任1か月半のスペイン人指揮官が連覇に導く(16枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401338/news_401338_1.jpg?time=20240211210238"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401337-401337-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401337-401337-pn",
+          "publishedOn": "2024-02-11T12:08:00.000Z",
+          "wordCount": 2843,
+          "title": "浮き球を左足一閃!! ヨルダンFWアルナイマトが一時同点に追いつく豪快ハーフボレー弾(18枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401337/news_401337_1.jpg?time=20240211205521"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401336-401336-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401336-401336-pn",
+          "publishedOn": "2024-02-11T12:06:00.000Z",
+          "wordCount": 2856,
+          "title": "モロッコ人指揮官と共に大躍進…ヨルダンが史上初のアジア杯準優勝(24枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401336/news_401336_1.jpg?time=20240211205041"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401335-401335-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401335-401335-pn",
+          "publishedOn": "2024-02-11T12:04:00.000Z",
+          "wordCount": 2808,
+          "title": "深夜になっても熱狂収まらず…アジア杯優勝ムードに沸くドーハ中心部(8枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401335/news_401335_1.jpg?time=20240211202956"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401334-401334-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401334-401334-pn",
+          "publishedOn": "2024-02-11T12:02:00.000Z",
+          "wordCount": 2820,
+          "title": "VAR介入相次いだアジア杯決勝…セレモニーの記念撮影ではまさかのトラブルも(10枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401334/news_401334_1.jpg?time=20240211202400"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?401332-401332-pn",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダン代表を3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8ゴールで単独得点王にも輝き、自国大会の主役となった。●AFC",
+          "link": "https://web.gekisaka.jp/photonews/world/detail/?401332-401332-pn",
+          "publishedOn": "2024-02-11T12:00:00.000Z",
+          "wordCount": 2825,
+          "title": "ルサイルスタジアムに大会史上最多86492人が集結!! カタールvsヨルダンは歴史的決勝戦に(12枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401332/news_401332_1.jpg?time=20240211201556"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401316-401316-fl",
+          "author": "Gekisaka",
+          "description": "【ブンデスリーガ第21節】(バイアレーナ)レバークーゼン 3-0(前半1-0)バイエルン[レ]ヨシプ・スタニシッチ(18分)、アレックス・グリマルド(50分)、ジェレミー・フリンポン(90分+5)[レ]エドモン・タプソバ(64分)、アミン・アドリ(77分)、ルーカス・フラデツキー(83分)[ハ]S. Boey(36分)、レオン・ゴレツカ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401316-401316-fl",
+          "publishedOn": "2024-02-11T10:40:01.000Z",
+          "wordCount": 2787,
+          "title": "レバークーゼンvsバイエルン 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401331-401331-fl",
+          "author": "Gekisaka",
+          "description": "ゴールキーパー大国ドイツの若き守護神が、日本代表入りも視野に入れているようだ。ドイツ『キッカー』が1月31日にフォレンダムGK長田澪(登録名:ミオ・バックハウス/19)のインタビュー記事を掲載した。　ドイツ人の父と日本人の母を持つ長田は、メンヒェングラートバッハで生まれ、川崎で幼少期を過ごした。川崎フロンターレの育成組織でサッカーを始め、DF高井幸大(川崎F)、DF松長根悠仁(福島)ら",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401331-401331-fl",
+          "publishedOn": "2024-02-11T10:23:22.000Z",
+          "wordCount": 2641,
+          "title": "GK大国ドイツの若き守護神・長田澪が日本代表入りも視野に「日本からの関心は嬉しい」「時間をかけて考える」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401331/news_401331_1.jpg?time=20240211192322"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401315-401315-fl",
+          "author": "Gekisaka",
+          "description": "【ラ・リーガ第24節】(サンティアゴ・ベルナベウ)R・マドリー 4-0(前半2-0)ジローナ[R]ビニシウス・ジュニオール(6分)、ジュード・ベリンガム2(35分、54分)、ロドリゴ・ゴエス(61分)[R]フェルラン・メンディ(76分)[シ]フアンペ(21分)、ヤン・コウト(68分)観衆:76,585人[レアル・マドリー]",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401315-401315-fl",
+          "publishedOn": "2024-02-11T10:10:02.000Z",
+          "wordCount": 2789,
+          "title": "R・マドリーvsジローナ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401311-401311-fl",
+          "author": "Gekisaka",
+          "description": "【ラ・リーガ第24節】(アノエタ)ソシエダ 0-1(前半0-0)オサスナ[オ]アンテ・ブディミル(49分)観衆:32,905人[ソシエダ]先発GK 1 アレックス・レミロDF 5 イゴール・スベルディアDF 20 ジョン・パチェコDF 25 ハビ・ガランDF 39 J. Aramburu(72分→DF 18 アマリ トラオレ)MF 4",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401311-401311-fl",
+          "publishedOn": "2024-02-11T09:30:02.000Z",
+          "wordCount": 2813,
+          "title": "ソシエダvsオサスナ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401307-401307-fl",
+          "author": "Gekisaka",
+          "description": "【ブンデスリーガ第21節】(ボルシアパルク)ボルシアMG 0-0(前半0-0)ダルムシュタット[タ]クリストフ・ツィマーマン(56分)、ティム・スカルケ(65分)、マルセル・シューエン(75分)、アンドレアス・ミュラー(82分)、マテイ・マグリカ(90分+2)観衆:46,121人[ボルシアMG]先発GK 33 モリッツ・ニコラスDF 3 板倉滉D",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401307-401307-fl",
+          "publishedOn": "2024-02-11T09:10:02.000Z",
+          "wordCount": 2784,
+          "title": "ボルシアMGvsダルムシュタット 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401328-401328-fl",
+          "author": "Gekisaka",
+          "description": "セルティックOBのクリス・サットン氏が、今季ゴール数を伸ばせていないFW古橋亨梧について言及した。イギリス『デイリー・レコード』が10日に伝えている。　古橋は21年夏にヴィッセル神戸からセルティックに加入し、アンジェ・ポステコグルー前監督のもとでブレイク。1年目から得点を量産すると、昨季はスコティッシュ・プレミアシップで27ゴールを挙げて得点王に輝いた。　しかし、今季就任したブレンダ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401328-401328-fl",
+          "publishedOn": "2024-02-11T03:47:27.000Z",
+          "wordCount": 2637,
+          "title": "セルティックOBが古橋亨梧の起用法に不満を吐露「ロジャースはベストを引き出す方法を見つけられていない」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401328/news_401328_1.jpg?time=20240211124727"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401327-401327-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 セリエA第24節 カリアリ 1-3 ラツィオ]　セリエA第24節が10日に開催され、MF鎌田大地が所属する9位ラツィオはアウェーで18位カリアリに3-1で勝利した。リーグ戦3試合ぶりの白星。ベンチスタートの鎌田は後半33分に投入され、公式戦6試合ぶりの出場を果たした。　敵地に乗り込んだラツィオは前半26分、FKの流れからペナルティエリア左のFWグスタフ・イサクセンが折り返すと",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401327-401327-fl",
+          "publishedOn": "2024-02-11T03:41:50.000Z",
+          "wordCount": 2657,
+          "title": "ラツィオ鎌田大地が6試合ぶり出場! 今後の去就は「まだ分からない」サッリ監督に関する質問には…",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401327/news_401327_1.jpg?time=20240211124150"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401258-401258-fl",
+          "author": "Gekisaka",
+          "description": "ヨルダン代表は10日、同国史上初のアジアカップ決勝戦で、開催国かつ前回王者のカタール代表と対戦する。過去の決勝トーナメントでは1勝もしたことがなく、大会前の優勝予想でもほとんど名前の挙がらなかったダークホースによる快進撃。大会前は大きな批判に晒されていたモロッコ出身の指揮官は、決戦を前に「この結果はチーム全員の協力と努力のおかげだ」と胸を張った。　昨年の国際Aマッチで2勝2分6敗に終わ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401258-401258-fl",
+          "publishedOn": "2024-02-11T03:34:22.000Z",
+          "wordCount": 2640,
+          "title": "アジア杯“台風の目”ヨルダン指揮官、歴史的決勝前の批判質問に「耳を傾けるつもりはない」森保J戦の1-6大敗、レジェンドFW追放を経て初優勝なるか",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401258/news_401258_1.jpg?time=20240211123422"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401308-401308-fl",
+          "author": "Gekisaka",
+          "description": "【プレミアリーグ第24節】(アンフィールド)リバプール 3-1(前半1-1)バーンリー[リ]ディオゴ・ジョタ(31分)、ルイス・ディアス(52分)、ダルウィン・ヌニェス(79分)[ハ]ダラ・オシェイ(45分)[リ]ジャレル クアンサー(19分)、遠藤航(33分)、ユルゲン・クロップ(39分)、ダルウィン・ヌニェス(69分)[ハ]ダラ・オシェ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401308-401308-fl",
+          "publishedOn": "2024-02-11T03:10:01.000Z",
+          "wordCount": 2791,
+          "title": "リバプールvsバーンリー 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401323-401323-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 プレミアリーグ第24節 リバプール 3-1 バーンリー]　プレミアリーグは10日、第24節を開催した。日本代表MF遠藤航が所属するリバプールはホームでバーンリーと対戦し、3-1で勝利。アジア杯から帰ってきた遠藤は中盤の底で先発出場し、後半アディショナルタイム6分までプレーした。　前節、アーセナルに黒星を喫したリバプールは首位キープに向けて2試合ぶりの勝利を狙う。対するバーンリ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401323-401323-fl",
+          "publishedOn": "2024-02-11T02:00:14.000Z",
+          "wordCount": 2656,
+          "title": "リバプールは3発快勝で首位キープ! 前線3枚が揃い踏み、遠藤航は後半ATまでプレー",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401323/news_401323_1.jpg?time=20240211110014"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401309-401309-fl",
+          "author": "Gekisaka",
+          "description": "【プレミアリーグ第24節】(Tottenham Hotspur Stadium)トッテナム 2-1(前半0-1)ブライトン[ト]パペ・マタル・サール(61分)、ブレナン・ジョンソン(90分+6)[フ]パスカル・グロス(17分)[ト]ジェームズ・マディソン(35分)、パペ・マタル・サール(61分)[フ]ファクンド・ブオナノッテ(65分)、ヘ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401309-401309-fl",
+          "publishedOn": "2024-02-11T01:30:02.000Z",
+          "wordCount": 2793,
+          "title": "トッテナムvsブライトン 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401320-401320-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 プレミアリーグ第24節 ルートン・タウン 1-3 シェフィールド・U]　プレミアリーグは10日、第24節を開催。シェフィールド・ユナイテッドは敵地でDF橋岡大樹所属のルートン・タウンと対戦し、3-1で勝利した。1月30日に加入した橋岡はメンバー外で、プレミアリーグデビューはお預けとなっている。　ともに昇格組の両チーム。ルートン・タウンはここ3戦無敗で2試合ぶりの勝利を狙う。最",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401320-401320-fl",
+          "publishedOn": "2024-02-11T00:47:54.000Z",
+          "wordCount": 2649,
+          "title": "シェフィールド・Uがルートン・タウンを破って8試合ぶり白星! 橋岡大樹はメンバー外でデビューはお預け",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401320/news_401320_1.jpg?time=20240211094754"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401314-401314-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 アジア杯決勝 ヨルダン 1-3 カタール ルサイル]　アジアカップは10日、決勝戦を行い、カタール代表が2019年の前回大会に続く連覇を成し遂げた。エースFWアクラム・アフィフは大会史上初の決勝戦ハットトリックを記録。また22年のワールドカップ決勝も行われたルサイル・スタジアムには8万6492人の大観衆が来場し、1試合の来場者数で大会史上最多を記録した。　開催国で前回王者のカ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401314-401314-fl",
+          "publishedOn": "2024-02-11T00:34:34.000Z",
+          "wordCount": 2643,
+          "title": "カタールFWアフィフは史上初の決勝ハットでMVP&得点王ダブル受賞!! 観衆8万6492人も歴代最多、記録ずくめのアジア杯に",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401314/news_401314_1.jpg?time=20240211093434"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401319-401319-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 アジア杯決勝 ヨルダン 1-3 カタール ルサイル]　アジアカップ決勝トーナメントでの記念すべき初白星からダークホース的な快進撃を続け、史上初めて決勝にまでたどり着いたヨルダン代表だったが、最後は連覇を狙う開催国カタールの前に屈した。　シュート数では16対8、ボール保持率でも58%とカタールを大きく上回ったが、この日は8万6千人の大観衆を前に決定力が欠如。前半の終わり際と後半",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401319-401319-fl",
+          "publishedOn": "2024-02-11T00:29:53.000Z",
+          "wordCount": 2640,
+          "title": "歴史的アジア杯準優勝にヨルダン指揮官「新たな地平を切り拓いた」自国リーグに苦言も",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401319/news_401319_1.jpg?time=20240211092953"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401318-401318-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 アジア杯決勝 ヨルダン 1-3 カタール ルサイル]　スクランブルでの監督就任からわずか1か月半、カタールのサッカー界をよく知るスペイン人指揮官がアジア連覇の栄光をもたらした。試合後、マルケス・ロペス監督は「おそらく美しいフットボールではなかったが……」と自嘲気味に振り返りつつも、「誰もが覚えているのは勝者だ。トロフィーを獲得できて非常に嬉しく思う」と胸を張った。　カタール代",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401318-401318-fl",
+          "publishedOn": "2024-02-10T23:09:31.000Z",
+          "wordCount": 2644,
+          "title": "アジア連覇のカタール代表、スペイン人指揮官は緊急就任1か月半での快挙「美しいフットボールではなかったが…」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401318/news_401318_1.jpg?time=20240211080931"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401317-401317-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 アジア杯決勝 ヨルダン 1-3 カタール ルサイル]　前代未聞の“手品パフォーマンス”は、晴れ舞台を見守ってくれた愛する妻へのメッセージだった。　カタール代表FWアクラム・アフィフ(アルサッド)はアジアカップ決勝の前半22分、自ら獲得したPKを右に決め、先制ゴールを奪うと、ソックスに隠し持っていたカードを使ってゴールパフォーマンスを披露。自らの写真を中継カメラにアピールしたか",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401317-401317-fl",
+          "publishedOn": "2024-02-10T21:23:58.000Z",
+          "wordCount": 2647,
+          "title": "初観戦の『S』に捧げた“手品パフォ”…カタールFWアフィフが史上初の決勝3発、アジア杯MVP&得点王に",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401317/news_401317_1.jpg?time=20240211062358"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401302-401302-fl",
+          "author": "Gekisaka",
+          "description": "【プレミアリーグ第24節】(エティハド スタジアム)マンチェスター・C 2-0(前半0-0)エバートン[マ]アーリング・ハーランド2(71分、85分)[エ]イドリッサ・ゲイェ(54分)、ジェームズ・ガーナー(90分+7)└マンCが暫定首位! エバートンに苦戦もリーグ戦6連勝、2ゴールのハーランドは今季16点目で得点ランク単独トップ[",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401302-401302-fl",
+          "publishedOn": "2024-02-10T19:50:02.000Z",
+          "wordCount": 2789,
+          "title": "マンチェスター・Cvsエバートン 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401310-401310-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 アジア杯決勝 ヨルダン 1-3 カタール ルサイル]　アジアカップは10日、ルサイル・スタジアムで決勝戦を行い、開催国のカタール代表が2019年の前回大会に続く連覇を果たした。エースFWアクラム・アフィフが3度のPKを決めて決勝史上初のハットトリックの大活躍を見せ、ダークホースのヨルダンを3-1で撃破。アフィフは手品のようなゴールパフォーマンスでも大観衆を沸かせた他、今大会8",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401310-401310-fl",
+          "publishedOn": "2024-02-10T18:28:01.000Z",
+          "wordCount": 2655,
+          "title": "開催国カタールがアジア杯連覇!! エースFWアフィフがPK3発に手品パフォで大暴れ、単独得点王も受賞",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401310/news_401310_1.jpg?time=20240211032801"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401305-401305-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 ラ・リーガ第24節](サンティアゴ・ベルナベウ)※26:30開始[レアル・マドリー]先発GK 13 アンドリー・ルニンDF 2 ダニエル・カルバハルDF 17 ルーカス・バスケスDF 18 オーレリアン・チュアメニDF 23 フェルラン・メンディMF 5 ジュード・ベリンガムMF 8 トニ・クロースMF 12 エドゥアルド・カマビ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401305-401305-fl",
+          "publishedOn": "2024-02-10T17:35:02.000Z",
+          "wordCount": 2799,
+          "title": "R・マドリーvsジローナ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401312-401312-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 プレミアリーグ第24節 トッテナム 2-1 ブライトン]　プレミアリーグは10日に第24節を行った。日本代表MF三笘薫が所属するブライトンはトッテナムに1-2で敗戦。アジアカップから帰還した三笘はフル出場した。　ブライトンは開始すぐにチャンスを得る。FWダニー・ウェルベックが敵陣PA内で倒されてPKを奪取する。MFパスカル・グロスがPKを決め切り、ブライトンが先制に成功した。",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401312-401312-fl",
+          "publishedOn": "2024-02-10T17:27:51.000Z",
+          "wordCount": 2654,
+          "title": "アジア杯から帰還した三笘がフル出場も…ブライトンは先制成功からトッテナムに後半AT逆転弾を許す",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401312/news_401312_1.jpg?time=20240211022751"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401303-401303-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 アジア杯決勝 ヨルダン-カタール]　10日に行われているアジアカップ決勝戦で、先制点を決めたカタールのエースが驚きのゴールパフォーマンスを披露した。　前半20分、カタールFWアクラム・アフィフは左からの突破でペナルティエリア内を攻め込むと、ヨルダンDFに倒されてPKを獲得。自らキッカーを務め、同22分に冷静なグラウンダーシュートをゴール左隅に流し込んだ。アフィフはこれで今大会",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401303-401303-fl",
+          "publishedOn": "2024-02-10T17:01:13.000Z",
+          "wordCount": 2642,
+          "title": "アジア連覇へカタール先制!! 決めたエースが異例の“手品”パフォーマンス",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401303/news_401303_1.jpg?time=20240211020113"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401306-401306-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 ブンデスリーガ第21節](バイアレーナ)※26:30開始[レバークーゼン]先発GK 1 ルーカス・フラデツキーDF 3 ピエロ・インカピエDF 4 ヨナタン・ターDF 12 エドモン・タプソバMF 2 ヨシプ・スタニシッチMF 8 ロベルト・アンドリヒMF 10 フロリアン・ビルツMF 19 ネイサン・テラMF 20 アレックス",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401306-401306-fl",
+          "publishedOn": "2024-02-10T16:38:01.000Z",
+          "wordCount": 2798,
+          "title": "レバークーゼンvsバイエルン スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401299-401299-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 ラ・リーガ第24節](アノエタ)※24:15開始[ソシエダ]先発GK 1 アレックス・レミロDF 5 イゴール・スベルディアDF 20 ジョン・パチェコDF 25 ハビ・ガランDF 39 J. AramburuMF 4 マルティン・スビメンディMF 8 ミケル・メリノMF 22 ベニャト・トゥリエンテスFW 12 A. Zakhary",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401299-401299-fl",
+          "publishedOn": "2024-02-10T15:29:01.000Z",
+          "wordCount": 2816,
+          "title": "ソシエダvsオサスナ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401301-401301-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 プレミアリーグ第24節 マンチェスター・C 2-0 エバートン]　プレミアリーグは10日に第24節を行った。マンチェスター・シティとエバートンの対戦は、シティが2-0で勝利した。　1試合未消化で暫定首位リバプールを追いかけるシティ。ホームにエバートンを迎えるが、下位に沈む相手からゴールを奪えずに前半はスコアレスで折り返す。　後半に入ってもチャンスを決め切れない。しかし後半25",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401301-401301-fl",
+          "publishedOn": "2024-02-10T14:39:26.000Z",
+          "wordCount": 2649,
+          "title": "マンCが暫定首位! エバートンに苦戦もリーグ戦6連勝、2ゴールのハーランドは今季16点目で得点ランク単独トップ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401301/news_401301_1.jpg?time=20240210233926"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401296-401296-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 ブンデスリーガ第21節](ボルシアパルク)※23:30開始[ボルシアMG]先発GK 33 モリッツ・ニコラスDF 3 板倉滉DF 30 ニコ・エルベディDF 39 マキシミリアン・ベーバーMF 8 ユリアン・バイグルMF 9 フランク・オノラMF 10 フロリアン・ノイハウスMF 17 クアディオ・コネMF 20 ルカ・ネッツFW 13",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401296-401296-fl",
+          "publishedOn": "2024-02-10T14:33:01.000Z",
+          "wordCount": 2794,
+          "title": "ボルシアMGvsダルムシュタット スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401300-401300-fl",
+          "author": "Gekisaka",
+          "description": "アジアカップは10日、開催国で前回王者のカタールと今大会のダークホースとなったヨルダンの決勝戦を行う。2022年のワールドカップ決勝と同じく特別な仕様に彩られたルサイル・スタジアムでの最終決戦。午後6時(日本時間11日午前0時)のキックオフを前にスターティングメンバーが発表された。　カタールは同国史上初の連覇を狙う一戦。準決勝のイラン戦(○3-2)から先発2人を入れ替え、主将のMFハッ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401300-401300-fl",
+          "publishedOn": "2024-02-10T14:14:57.000Z",
+          "wordCount": 2780,
+          "title": "アジア杯決勝のスタメン発表!! ヨルダンvsカタール“アラブ対決”は8万8千人超満員へ、ともに準決勝から先発2人変更",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401300/news_401300_1.jpg?time=20240210231457"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401295-401295-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 セリエA第24節](サルデーニャ・アレーナ)※23:00開始[カリアリ]先発GK 22 シモーネ・スクフェットDF 26 ジェリー・ミナDF 28 ガブリエレ・ザッパDF 33 アダム・オベルトMF 8 ナイタン・ナンデスMF 10 ニコラス・ビオラMF 14 アレッサンドロ・デイオラMF 29 A. MakoumbouMF 37 Pa",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401295-401295-fl",
+          "publishedOn": "2024-02-10T14:03:01.000Z",
+          "wordCount": 2813,
+          "title": "カリアリvsラツィオ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401298-401298-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 プレミアリーグ第24節](Tottenham Hotspur Stadium)※24:00開始[トッテナム]先発GK 13 グリエルモ・ビカーリオDF 17 クリスティアン・ロメロDF 23 ペドロ・ポロDF 37 ミッキー・ファン・デ・フェンDF 38 デスティニー・ウドジェMF 10 ジェームズ・マディソンMF 29 パペ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401298-401298-fl",
+          "publishedOn": "2024-02-10T14:02:01.000Z",
+          "wordCount": 2795,
+          "title": "トッテナムvsブライトン スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401297-401297-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 プレミアリーグ第24節](アンフィールド)※24:00開始[リバプール]先発GK 62 クィービーン・ケレハーDF 4 フィルヒル・ファン・ダイクDF 26 アンドリュー・ロバートソンDF 66 トレント・アレクサンダー・アーノルドDF 78 ジャレル クアンサーMF 3 遠藤航MF 10 アレクシス・マック・アリスターMF 17 カーテ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401297-401297-fl",
+          "publishedOn": "2024-02-10T14:02:01.000Z",
+          "wordCount": 2790,
+          "title": "リバプールvsバーンリー スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401291-401291-fl",
+          "author": "Gekisaka",
+          "description": "[2.10 プレミアリーグ第24節](エティハド スタジアム)※21:30開始[マンチェスター・シティ]先発GK 31 エデルソン・モラレスDF 3 ルベン・ディアスDF 5 ジョン・ストーンズDF 6 ナタン・アケDF 25 マヌエル・アカンジMF 11 ジェレミ ドクMF 16 ロドリMF 19 フリアン・アルバレスMF 27 マテウス・ヌネスM",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401291-401291-fl",
+          "publishedOn": "2024-02-10T12:50:02.000Z",
+          "wordCount": 2795,
+          "title": "マンチェスター・Cvsエバートン スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401281-401281-fl",
+          "author": "Gekisaka",
+          "description": "アルヒラル(サウジアラビア1部)のブラジル代表FWネイマールが元Jリーガーに注目する姿をカメラに捉えられた。ブラジル版『ESPN』が伝えている。　昨年10月の代表戦で左膝の前十字靭帯と半月板を断裂し、長期離脱を余儀なくされたネイマール。今月7日に古巣サントスとコリンチャンスの試合をスタンドで観戦した。　その様子がサントスの公式YouTubeチャンネルで公開され、映像の中でネイマールはピ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401281-401281-fl",
+          "publishedOn": "2024-02-10T09:24:01.000Z",
+          "wordCount": 2639,
+          "title": "「あれは誰だ?」現地観戦のネイマールが元Jリーガーに熱視線",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401281/news_401281_1.jpg?time=20240210182401"
+        },
+        {
           "id": "https://web.gekisaka.jp/news/detail/?401275-401275-fl",
           "author": "Gekisaka",
           "description": "[2.9 ブンデスリーガ第21節 ドルトムント 3-0 フライブルク]　ブンデスリーガ第21節が9日に行われ、日本代表MF堂安律が所属する7位フライブルクは敵地で4位ドルトムントに0-3で敗れた。これでリーグ戦3連敗。アジアカップ帰りの堂安はベンチスタートとなり、後半14分から途中出場した。　ホームのドルトムントは前半16分に先制。MFマルセル・ザビッツァーがドリブルからペナルティエリア",
           "link": "https://web.gekisaka.jp/news/world/detail/?401275-401275-fl",
-          "publishedOn": "2024-02-10T00:57:26.000Z",
+          "publishedOn": "2024-02-10T05:36:24.000Z",
           "wordCount": 2647,
           "title": "フライブルクがドルトムントに3失点敗戦で3連敗…アジア杯帰りの堂安律は後半途中から出場",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401275/news_401275_1.jpg?time=20240210095726"
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401275/news_401275_1.jpg?time=20240210143624"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?401271-401271-fl",
+          "author": "Gekisaka",
+          "description": "【ブンデスリーガ第21節】(ジグナル・イドゥナ・パルク)ドルトムント 3-0(前半2-0)フライブルク[ト]ドニエル・マーレン2(16分、45分+7)、ニクラス・フュルクルク(87分)[ト]ユリアン・リエルソン(14分)、ドニエル・マーレン(73分)観衆:81,365人[ドルトムント]先発GK 1 グレゴール・コベルDF 4 ニコ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401271-401271-fl",
+          "publishedOn": "2024-02-10T05:00:02.000Z",
+          "wordCount": 2780,
+          "title": "ドルトムントvsフライブルク 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
         },
         {
           "id": "https://web.gekisaka.jp/photonews/detail/?401273-401273-pn",
@@ -26,6 +826,16 @@
           "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401273/news_401273_1.jpg?time=20240210080825"
         },
         {
+          "id": "https://web.gekisaka.jp/news/detail/?401266-401266-fl",
+          "author": "Gekisaka",
+          "description": "ホスト国として出場したW杯での惨敗を経て、前回アジアカップ王者のカタール代表が連覇に王手をかけている。ヨルダンとの決勝戦を翌日に控えた9日、記者会見に出席したFWハッサン・アルハイドス(アルサッド)は「まさか決勝に進めるとは誰も思っていなかった。まさかこんなパフォーマンスを届けられるとは誰も思っていなかった」と大会の歩みを振り返り、チームの団結力を誇った。　前回アジアカップ王者のカター",
+          "link": "https://web.gekisaka.jp/news/world/detail/?401266-401266-fl",
+          "publishedOn": "2024-02-09T23:02:16.000Z",
+          "wordCount": 2649,
+          "title": "アジア杯決勝は兄弟対決? スペイン流表現で連覇誓ったカタール指揮官「2位は敗者の1番手という言葉がある」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401266/news_401266_1.jpg?time=20240210080216"
+        },
+        {
           "id": "https://web.gekisaka.jp/photonews/detail/?401272-401272-pn",
           "author": "Gekisaka",
           "description": "アジアカップは10日、ルサイル・スタジアムで決勝戦を行う。カタール対ヨルダンのアラブ対決を前に9日夜、ドーハ市内中心部は決戦ムードに包まれていた。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
@@ -36,16 +846,6 @@
           "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401272/news_401272_1.jpg?time=20240210075307"
         },
         {
-          "id": "https://web.gekisaka.jp/news/detail/?401271-401271-fl",
-          "author": "Gekisaka",
-          "description": "【ブンデスリーガ第21節】(ジグナル・イドゥナ・パルク)ドルトムント 3-0(前半2-0)フライブルク[ト]ドニエル・マーレン2(16分、45分+7)、ニクラス・フュルクルク(87分)[ト]ユリアン・リエルソン(14分)、ドニエル・マーレン(73分)観衆:81,365人[ドルトムント]先発GK 1 グレゴール・コベルDF 4 ニコ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401271-401271-fl",
-          "publishedOn": "2024-02-09T22:20:02.000Z",
-          "wordCount": 2780,
-          "title": "ドルトムントvsフライブルク 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
           "id": "https://web.gekisaka.jp/news/detail/?401269-401269-fl",
           "author": "Gekisaka",
           "description": "[2.9 ブンデスリーガ第21節](ジグナル・イドゥナ・パルク)※28:30開始[ドルトムント]先発GK 1 グレゴール・コベルDF 4 ニコ・シュロッターベックDF 22 イアン マートセンDF 25 ニクラス・ジューレDF 26 ユリアン・リエルソンMF 11 マルコ・ロイスMF 20 マルセル・ザビッツァーMF 23 エムレ・ジャンMF 4",
@@ -54,16 +854,6 @@
           "wordCount": 2788,
           "title": "ドルトムントvsフライブルク スタメン発表",
           "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401266-401266-fl",
-          "author": "Gekisaka",
-          "description": "ホスト国として出場したW杯での惨敗を経て、前回アジアカップ王者のカタール代表が連覇に王手をかけている。ヨルダンとの決勝戦を翌日に控えた9日、記者会見に出席したFWハッサン・アルハイドス(アルサッド)は「まさか決勝に進めるとは誰も思っていなかった。まさかこんなパフォーマンスを届けられるとは誰も思っていなかった」と大会の歩みを振り返り、チームの団結力を誇った。　前回アジアカップ王者のカター",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401266-401266-fl",
-          "publishedOn": "2024-02-09T14:07:30.000Z",
-          "wordCount": 2649,
-          "title": "アジア杯決勝は兄弟対決? スペイン流表現で連覇誓ったカタール指揮官「2位は敗者の1番手という言葉がある」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401266/news_401266_1.jpg?time=20240210080216"
         },
         {
           "id": "https://web.gekisaka.jp/news/detail/?401260-401260-fl",
@@ -84,16 +874,6 @@
           "wordCount": 2633,
           "title": "香港でのメッシ欠場騒動、主催者はチケット代半額返金を決断…損失は8億円超か",
           "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401259/news_401259_1.jpg?time=20240209202548"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401258-401258-fl",
-          "author": "Gekisaka",
-          "description": "ヨルダン代表は10日、同国史上初のアジアカップ決勝戦で、開催国かつ前回王者のカタール代表と対戦する。過去の決勝トーナメントでは1勝もしたことがなく、大会前の優勝予想でもほとんど名前の挙がらなかったダークホースによる快進撃。大会前は大きな批判に晒されていたモロッコ出身の指揮官は、決戦を前に「この結果はチーム全員の協力と努力のおかげだ」と胸を張った。　昨年の国際Aマッチで2勝2分6敗に終わ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401258-401258-fl",
-          "publishedOn": "2024-02-09T11:13:07.000Z",
-          "wordCount": 2640,
-          "title": "アジア杯“台風の目”ヨルダン指揮官、歴史的決勝前の批判質問に「耳を傾けるつもりはない」森保J戦の1-6大敗、レジェンドFW追放を経て初優勝なるか",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401258/news_401258_1.jpg?time=20240210080302"
         },
         {
           "id": "https://web.gekisaka.jp/news/detail/?401257-401257-fl",
@@ -224,1116 +1004,6 @@
           "wordCount": 2858,
           "title": "森保Jも圧倒された大声援…アジア杯準決勝でも熱く鼓舞したイラン代表サポーター(24枚)",
           "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401216/news_401216_1.jpg?time=20240208205111"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401215-401215-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは7日、準決勝を行い、カタールがイランを3-2で下した。前回王者の開催国カタールはアジア連覇に王手。10日の決勝でヨルダンと対戦する。一方、準々決勝で日本代表を破ったイランは最後の最後まで追い上げたが、48年ぶりのアジア制覇には届かなかった。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401215-401215-pn",
-          "publishedOn": "2024-02-08T12:07:00.000Z",
-          "wordCount": 2848,
-          "title": "ドリブル、クロス、シュート、全部ハイレベル…“神出鬼没”5G3Aのアクラム・アフィフ(20枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401215/news_401215_1.jpg?time=20240208203725"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401213-401213-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは7日、準決勝を行い、カタールがイランを3-2で下した。前回王者の開催国カタールはアジア連覇に王手。10日の決勝でヨルダンと対戦する。一方、準々決勝で日本代表を破ったイランは最後の最後まで追い上げたが、48年ぶりのアジア制覇には届かなかった。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401213-401213-pn",
-          "publishedOn": "2024-02-08T12:05:00.000Z",
-          "wordCount": 2840,
-          "title": "前回王者カタールが連覇に王手! 選手たちは大観衆の前で喜び爆発(16枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401213/news_401213_1.jpg?time=20240208202619"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401212-401212-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは7日、準決勝を行い、カタールがイランを3-2で下した。前回王者の開催国カタールはアジア連覇に王手。10日の決勝でヨルダンと対戦する。一方、準々決勝で日本代表を破ったイランは最後の最後まで追い上げたが、48年ぶりのアジア制覇には届かなかった。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401212-401212-pn",
-          "publishedOn": "2024-02-08T12:02:00.000Z",
-          "wordCount": 2861,
-          "title": "死闘の幕開けは超絶バイシクル弾!! イランFWアズムンが大会屈指のスーパーゴール(22枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401212/news_401212_1.jpg?time=20240208201906"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401211-401211-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは7日、準決勝を行い、カタールがイランを3-2で下した。前回王者の開催国カタールはアジア連覇に王手。10日の決勝でヨルダンと対戦する。一方、準々決勝で日本代表を破ったイランは最後の最後まで追い上げたが、48年ぶりのアジア制覇には届かなかった。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401211-401211-pn",
-          "publishedOn": "2024-02-08T12:00:00.000Z",
-          "wordCount": 2840,
-          "title": "森保Jを倒したイランは48年ぶりアジア制覇ならず…開催国カタールと死闘も4強敗退(16枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401211/news_401211_1.jpg?time=20240208201447"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401207-401207-fl",
-          "author": "Gekisaka",
-          "description": "フランス・リーグアンは11日に第21節を行う。スタッド・ランスは敵地でロリアンと対戦。日本代表FW伊東純也の出場の可能性について『beIN SPORTS』が伝えている。　伊東は1月から行われているアジアカップの日本代表メンバーとして大会に参加。しかし大会期間中の1月末に伊東の性加害疑惑を伝えた週刊誌の影響が考慮され、日本代表チームからの離脱が発表されていた。　スタッド・ランスは伊東の疑",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401207-401207-fl",
-          "publishedOn": "2024-02-08T08:31:16.000Z",
-          "wordCount": 2642,
-          "title": "11日のリーグ戦に伊東純也は出場? 海外メディアも注目「クラブ経営陣の立場が明確になる」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401207/news_401207_1.jpg?time=20240208173116"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401205-401205-fl",
-          "author": "Gekisaka",
-          "description": "リバプールの次期指揮官をスーパーコンピュータがリストアップした。英『SPORTBIBLE』が伝えている。　2015-16シーズンからリバプールを指揮し、18-19シーズンにはUEFAチャンピオンズリーグ制覇、翌シーズンには30年ぶりのプレミアリーグ優勝も果たしたユルゲン・クロップ監督。先月末に伝えられた今シーズン限りでの退任はサッカー界に大きな衝撃を与えた。　発表直後から次期指揮官の噂",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401205-401205-fl",
-          "publishedOn": "2024-02-08T07:36:18.000Z",
-          "wordCount": 2642,
-          "title": "最適監督候補特定スパコン「コーチファインダー」、クロップ退任後のリバプール指揮官をリストアップ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401205/news_401205_1.jpg?time=20240208163618"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401202-401202-fl",
-          "author": "Gekisaka",
-          "description": "元Jリーガーの林陵平氏が自身のX(旧ツイッター/@Ryohei_h11)で投稿した内容がファンの共感を集めているようだ。　林氏が反応したのは、顔のシミに効くとされる医薬品の広告に描かれた男性のイラスト。「クロップだと思ったの私だけですか?」と泣き笑いの絵文字を付けてリポストすると、フォロワーから「激似w」「爆笑」「ほんとだwwww」「まさかと思ったけどホントにクロップ」「似すぎです」「",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401202-401202-fl",
-          "publishedOn": "2024-02-08T05:53:53.000Z",
-          "wordCount": 2642,
-          "title": "「クロップだと思った」元Jリーガー林陵平氏に共感続々「激似」「まさか」「進撃の巨人のジーク」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401202/news_401202_1.jpg?time=20240208145353"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401199-401199-fl",
-          "author": "Gekisaka",
-          "description": "チェルシーに所属するDFチアゴ・シウバの妻イザベル・シウバさんが、クラブにマウリシオ・ポチェッティーノ監督の解任を求めたことを謝罪した。イギリス『メトロ』が伝えている。　プレミアリーグで現在11位に低迷するチェルシーは、4日にホームで行われた第23節ウォルバーハンプトン戦で2-4と惨敗。その試合後、イザベルさんはX(旧ツイッター)で「変えるべき時が来た。これ以上待てば、手遅れになる」と",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401199-401199-fl",
-          "publishedOn": "2024-02-08T04:59:00.000Z",
-          "wordCount": 2635,
-          "title": "チェルシーDFチアゴ・シウバの妻がSNS投稿を謝罪「衝撃を与えてしまって申し訳ない」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401199/news_401199_1.jpg?time=20240208134830"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401195-401195-fl",
-          "author": "Gekisaka",
-          "description": "インテル・マイアミのアルゼンチン代表FWリオネル・メッシがヴィッセル神戸とのプレシーズンマッチ後、ユニフォームを渡しに行くシーンが話題となっている。　ベンチスタートのメッシは神戸戦の後半15分に途中出場し、さすがのプレーで国立競技場を沸かせた。試合はスコアレスのまま90分が終了。PK戦を4-3で制した神戸が勝利を収めた。　メッシが試合後に向かったのは神戸のGKコーチを務めるシジマール氏",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401195-401195-fl",
-          "publishedOn": "2024-02-08T02:45:40.000Z",
-          "wordCount": 2646,
-          "title": "海外メディア「宝物を持ち帰った」メッシが神戸側にユニフォームを渡しに向かうシーンが話題に",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401195/news_401195_1.jpg?time=20240208114540"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401192-401192-fl",
-          "author": "Gekisaka",
-          "description": "[2.7 ベルギー・カップ準決勝第1戦 クラブ・ブルージュ 2-1 サンジロワーズ]　ロイヤル・ユニオン・サンジロワーズの日本代表DF町田浩樹が7日、敵地で開催されたベルギー・カップ準決勝第1戦クラブ・ブルージュ戦で今季初得点を挙げた。　先日までアジアカップに参戦していた町田は、0-2の後半13分に途中出場。同44分にクラブ・ブルージュのMF本間至恩も投入されると、迎えたアディショナルタ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401192-401192-fl",
-          "publishedOn": "2024-02-08T00:37:00.000Z",
-          "wordCount": 2666,
-          "title": "アジア杯帰りの町田浩樹が今季初得点! サンジロワーズは本間至恩も出場したクラブ・ブルージュに敗れる",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401192/news_401192_1.jpg?time=20240208093640"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401189-401189-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 アジア杯準決勝 イラン 2-3 カタール アルトゥママ]　開催国カタールが準決勝でイランとの死闘を制し、前回大会に続く連覇に王手をかけた。大会直前に就任したスペイン出身のマルケス・ロペス監督は、わずか3か月間の在任でタイトルマッチに導いた。　イラン戦ではこれまで採用していた3-5-2のポゼッションスタイルではなく、公式登録199cmの長身SBホマム・アフメドを左サイドハーフで初",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401189-401189-fl",
-          "publishedOn": "2024-02-07T23:07:04.000Z",
-          "wordCount": 2650,
-          "title": "開催国カタールがアジア連覇に王手!! 緊急就任から2か月での快挙にスペイン人指揮官「全てを変えたつもりはない」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401189/news_401189_1.jpg?time=20240208080704"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401186-401186-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 アジア杯準決勝 イラン 2-3 カタール アルトゥママ]　アジアカップは7日、準決勝を行い、カタールがイランを3-2で下した。前回王者の開催国カタールはアジア連覇に王手。10日の決勝でヨルダンと対戦する。一方、準々決勝で日本代表を破ったイランは最後の最後まで追い上げたが、48年ぶりのアジア制覇には届かなかった。　準々決勝でウズベキスタンとの死闘をPK戦で制した開催国カタールと、",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401186-401186-fl",
-          "publishedOn": "2024-02-07T22:23:19.000Z",
-          "wordCount": 2663,
-          "title": "開催国カタールがアジア連覇に王手!! イランとの大激闘に3-2勝利、前回得点王FWアリが決勝弾",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401186/news_401186_1.jpg?time=20240208072319"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401188-401188-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 アジア杯準決勝 イラン 2-3 カタール アルトゥママ]　準々決勝で日本代表相手に劇的な勝利を挙げ、48年ぶりのアジア制覇に前進していたイランだったが、最後は前回王者カタールとの死闘に惜しくも敗れた。試合後、記者会見に出席したアミール・ガレノイ監督は「全ての責任は私にある。連盟でも、選手でもなく、敗戦の責任があるのは私だけだ。人生最悪の日の一つだ」と痛ましい表情で話した。　試合",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401188-401188-fl",
-          "publishedOn": "2024-02-07T22:03:07.000Z",
-          "wordCount": 2650,
-          "title": "森保J破ったイランは4強敗退…選手かばった失意の指揮官「全責任は私に」「イラン国民に謝罪したい」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401188/news_401188_1.jpg?time=20240208070307"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401025-401025-fl",
-          "author": "Gekisaka",
-          "description": "【オランダ・エールディビジ第20節】(AFASスタディオン)AZ 0-1(前半0-1)フェイエノールト[フ]M. Wieffer(6分)[A]ヨルディ クラーシ(7分)、ダニ・デ・ウィット(37分)[フ]サンティアゴ・ヒメネス(45分+3)観衆:18,414人[AZ]先発GK 20 R. Owusu-OduroDF 3 W. GoesDF",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401025-401025-fl",
-          "publishedOn": "2024-02-07T19:10:01.000Z",
-          "wordCount": 2813,
-          "title": "AZvsフェイエノールト 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401028-401028-fl",
-          "author": "Gekisaka",
-          "description": "【フランス・リーグアン第20節】(Stade Auguste-Delaune)スタッド・ランス 2-3(前半0-3)トゥールーズ[ス]テディ・テウマ(49分)、セルヒオ・アキエメ(90分+1)[ト]C. Mawissa(11分)、S. Babicka(31分)、タイス・ダリンガ(45分+2)[ス]バンジャマン・スタンブリ(21分)、ティボー デ スメッ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401028-401028-fl",
-          "publishedOn": "2024-02-07T14:20:02.000Z",
-          "wordCount": 2804,
-          "title": "スタッド・ランスvsトゥールーズ 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401180-401180-fl",
-          "author": "Gekisaka",
-          "description": "[2.7 親善試合 神戸 0-0(PK4-3)インテル・マイアミ 国立]　DFジョルディ・アルバがJリーグ王者の強さを認めた。インテル・マイアミはヴィッセル神戸と0-0の末、PK戦で屈した。試合後、J・アルバは「ヴィッセル神戸は本当に手強い相手だった」と力を込めて振り返った。　神戸は序盤から攻勢を強めた。最前線のFW大迫勇也を中心に、MF井出遥也やMF佐々木大樹、FWジェアン・パトリ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401180-401180-fl",
-          "publishedOn": "2024-02-07T13:45:26.000Z",
-          "wordCount": 2644,
-          "title": "百戦錬磨のジョルディ・アルバがJリーグ王者との試合を振り返る「ヴィッセル神戸は本当に手強い相手だった」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401180/news_401180_1.jpg?time=20240207224526"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401178-401178-fl",
-          "author": "Gekisaka",
-          "description": "川崎フロンターレを退団した元ブラジル代表FWレアンドロ・ダミアン(34)の新天地は、コリチーバ(ブラジル2部)となる見込みのようだ。ブラジル『グローボ』が伝えている。　同メディアによると、今週メディカルチェックを受け、シーズン終了までの契約にサインする予定だという。コリチーバでは先月末にアルジェリア代表FWイスラム・スリマニが双方合意で契約解除。同選手に代わる新しいストライカーを探して",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401178-401178-fl",
-          "publishedOn": "2024-02-07T12:59:53.000Z",
-          "wordCount": 2635,
-          "title": "川崎F退団の34歳FWレアンドロ・ダミアン、ついに新天地が決定か",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401178/news_401178_1.jpg?time=20240207215953"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401162-401162-fl",
-          "author": "Gekisaka",
-          "description": "チェルシーのマウリシオ・ポチェッティーノ監督に対する圧力が高まる中、クラブは同指揮官の処遇決定をシーズン終了まで待つつもりのようだ。イギリス『フットボール・ロンドン』が伝えている。　チームは今季就任したポチェッティーノ監督の下、現在プレミアリーグで11位と苦戦。公式戦では直近6試合で2勝しかしていない。　本拠地スタンフォード・ブリッジで2-4の敗戦を喫した4日のプレミアリーグ第23節ウ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401162-401162-fl",
-          "publishedOn": "2024-02-07T12:46:45.000Z",
-          "wordCount": 2639,
-          "title": "チェルシー不振で圧力が高まるポチェッティーノ監督…クラブはシーズン終了後に処遇決断か",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401162/news_401162_1.jpg?time=20240207214645"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401174-401174-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは6日、準決勝を行い、韓国がヨルダンに0-2で敗れた。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401174-401174-pn",
-          "publishedOn": "2024-02-07T12:22:00.000Z",
-          "wordCount": 2862,
-          "title": "カタールにも轟いた声援…無念の4強敗退も中東まで駆け付けた韓国サポーター(26枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401174/news_401174_1.jpg?time=20240207211612"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401173-401173-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは6日、準決勝を行い、韓国がヨルダンに0-2で敗れた。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401173-401173-pn",
-          "publishedOn": "2024-02-07T12:20:00.000Z",
-          "wordCount": 2879,
-          "title": "スコアラー完全的中の予言少年も!? 大歓声で歴史的快挙を後押ししたヨルダンサポーター(30枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401173/news_401173_1.jpg?time=20240207211147"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401172-401172-fl",
-          "author": "Gekisaka",
-          "description": "[2.7 親善試合 神戸 0-0(PK4-3)インテル・マイアミ 国立]　7日、Jリーグ王者のヴィッセル神戸とインテル・マイアミ(MLS)の親善試合が国立競技場で行われ、0-0の末にPK戦へ。神戸が4-3で勝利した。インテル・マイアミのFWリオネル・メッシはベンチスタートも後半14分から途中出場した。　神戸は新加入選手2人が先発。GKオビ・パウエル・オビンナ(←横浜FM)と古巣復帰のD",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401172-401172-fl",
-          "publishedOn": "2024-02-07T12:16:25.000Z",
-          "wordCount": 2675,
-          "title": "国立競技場にメッシ登場、ファン沸騰スーパープレー見せる! J王者・神戸はGK新井の活躍でインテル・マイアミとのPK戦制す",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401172/news_401172_1.jpg?time=20240207211625"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401170-401170-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは6日、準決勝を行い、韓国がヨルダンに0-2で敗れた。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401170-401170-pn",
-          "publishedOn": "2024-02-07T12:12:00.000Z",
-          "wordCount": 2852,
-          "title": "90分×4、120分×2と驚異のフル稼働も…ソン・フンミンは失意のアジア杯4強(20枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401170/news_401170_1.jpg?time=20240207210057"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401169-401169-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは6日、準決勝を行い、韓国がヨルダンに0-2で敗れた。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401169-401169-pn",
-          "publishedOn": "2024-02-07T12:10:00.000Z",
-          "wordCount": 2854,
-          "title": "ヨルダン唯一の欧州組MFアルタマリが1G1A! ソンのお株奪う大活躍に質問殺到「レアル?アーセナル?マンU?」(20枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401169/news_401169_1.jpg?time=20240207205020"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401168-401168-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは6日、準決勝を行い、韓国がヨルダンに0-2で敗れた。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401168-401168-pn",
-          "publishedOn": "2024-02-07T12:07:00.000Z",
-          "wordCount": 2825,
-          "title": "ゴールに登って大騒ぎ!! ヨルダン24歳FWアルナイマトが初のアジア決勝に導く先制ループ弾(12枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401168/news_401168_1.jpg?time=20240207203654"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401166-401166-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは6日、準決勝を行い、韓国がヨルダンに0-2で敗れた。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401166-401166-pn",
-          "publishedOn": "2024-02-07T12:05:00.000Z",
-          "wordCount": 2825,
-          "title": "歴史的快挙!! 中東の大声援受けたヨルダン、韓国破って史上初のアジア杯決勝へ(12枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401166/news_401166_1.jpg?time=20240207202955"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401134-401134-fl",
-          "author": "Gekisaka",
-          "description": "アジアカップ準々決勝で日本を破ったイランは7日、準決勝で開催国のカタールと対戦する。6日の前日会見に出席したアルデシル・ガレノイ監督とMFサイード・エザトラヒは、中3日での決戦に向けて「日本戦のことは忘れなければならない」と口を揃えた。　日本と戦った3日の準々決勝では最後の最後に試合を決めたイラン。前半28分に守備陣の連係ミスから失点を喫したものの、ハイボール攻撃を徹底した後半10分に",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401134-401134-fl",
-          "publishedOn": "2024-02-07T12:03:03.000Z",
-          "wordCount": 2638,
-          "title": "逆転劇導く“日本分析”明かしたイラン指揮官「2つの戦術的指示を出した」アジア連盟への公然批判も",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401134/news_401134_1.jpg?time=20240207210303"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401165-401165-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは6日、準決勝を行い、韓国がヨルダンに0-2で敗れた。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401165-401165-pn",
-          "publishedOn": "2024-02-07T12:03:00.000Z",
-          "wordCount": 2830,
-          "title": "ヨルダンに封じられた攻撃陣…パリSG所属イ・ガンイン、ウルブス所属ファン・ヒチャン(10枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401165/news_401165_1.jpg?time=20240207201954"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401164-401164-pn",
-          "author": "Gekisaka",
-          "description": "アジアカップは6日、準決勝を行い、韓国がヨルダンに0-2で敗れた。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。●AFCアジアカップ2023特集▶久保・三笘・冨安らが参戦!CL・EL決勝トーナメント全試合見るならWOWOWで!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401164-401164-pn",
-          "publishedOn": "2024-02-07T12:00:00.000Z",
-          "wordCount": 2858,
-          "title": "64年ぶりアジア制覇狙った韓国、ヨルダンに屈して4強敗退(20枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401164/news_401164_1.jpg?time=20240207201428"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401167-401167-fl",
-          "author": "Gekisaka",
-          "description": "[2.7 親善試合 神戸-インテル・マイアミ 国立]　ベンチスタートだったインテル・マイアミのFWリオネル・メッシが、後半15分から途中出場した。　前半はベンチに座ったままだったメッシだが、後半が始まると同時にベンチ裏のウォームアップエリアに出てチームメイトとボール回しを始める。ファンの声援ににこやかに手を振る場面も見られた。　そして後半15分、メッシはMFデビット・ルイズと交代で国立競",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401167-401167-fl",
-          "publishedOn": "2024-02-07T11:35:44.000Z",
-          "wordCount": 2616,
-          "title": "メッシが大歓声に乗せられ途中出場!!神戸との親善試合、0-0の後半15分から登場",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401167/news_401167_1.jpg?time=20240207203544"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401163-401163-fl",
-          "author": "Gekisaka",
-          "description": "[2.7 親善試合 神戸-インテル・マイアミ 国立]　インテル・マイアミのMFセルヒオ・ブスケツが前半25分に負傷交代となった。　国立競技場で行うヴィッセル神戸との親善試合に先発したブスケツは、FW大迫勇也とボールを奪い合った際に左足首を大迫に踏まれた。　ブスケツはその場で治療を試みたあと、自ら歩いてピッチ外に出て回復を待ったが、悔しそうな表情を浮かべたまま、そのままベンチ裏へと引き上",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401163-401163-fl",
-          "publishedOn": "2024-02-07T10:47:17.000Z",
-          "wordCount": 2643,
-          "title": "前半25分でブスケツが負傷交代…大迫とボールを奪い合った際に足首痛める",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401163/news_401163_1.jpg?time=20240207194717"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401157-401157-fl",
-          "author": "Gekisaka",
-          "description": "パリSGに所属するフランス代表FWキリアン・ムバッペのレアル・マドリー移籍は、すでに決定的とみられているようだ。スペイン『マルカ』が報じている。　移籍専門ジャーナリストのファブリツィオ・ロマーノ氏は5日、ムバッペの代理人とレアルの役員会がパリSGの許可を得て、極秘裏に移籍交渉を進めていることを明かした。　すると6日には、元パリSG女子選手で現在は同クラブのアンバサダーを務めるロール・ブ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401157-401157-fl",
-          "publishedOn": "2024-02-07T09:02:20.000Z",
-          "wordCount": 2636,
-          "title": "元パリSG選手が告白「ムバッペのレアル・マドリー移籍は決まったと聞いている」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401157/news_401157_1.jpg?time=20240207180220"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401161-401161-fl",
-          "author": "Gekisaka",
-          "description": "[2.7 親善試合 神戸-インテル・マイアミ 国立]　プレシーズンツアーを行うインテル・マイアミは7日、国立競技場で親善試合を行い、Jリーグ王者のヴィッセル神戸と対戦する。午後7時のキックオフに先立ち、両チームがスターティングメンバーを発表。FWリオネル・メッシはメンバー入りを果たしたが、ベンチスタートとなった。　2022年のカタールワールドカップでアルゼンチン代表を優勝に導いたメッシ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401161-401161-fl",
-          "publishedOn": "2024-02-07T08:59:34.000Z",
-          "wordCount": 2718,
-          "title": "メッシがメンバー入り! 国立登場のインテル・マイアミがスタメン発表…スアレス、ブスケツ、J・アルバは先発",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401161/news_401161_1.jpg?time=20240207175934"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401147-401147-fl",
-          "author": "Gekisaka",
-          "description": "日本代表MF南野拓実が所属するモナコがサッカー漫画『ブルーロック』をオマージュしたポスターを公開した。　日本代表の一員として、カタールで開催されているアジア杯に出場していた南野。3日に行われた準々決勝イラン戦の後半22分から出場したものの、チームは1-2の逆転負けを喫してモナコへと戻ることとなった。　ここからが驚きだった。4日に開催されたリーグアン第20節ル・アーブル戦でベンチ入りを果",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401147-401147-fl",
-          "publishedOn": "2024-02-07T05:09:24.000Z",
-          "wordCount": 2656,
-          "title": "「癖が強すぎる」「いい意味でヤバい」「これは…(笑)」モナコが公開、南野拓実の“ポスター”にファン反応",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401147/news_401147_1.jpg?time=20240207140924"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401153-401153-fl",
-          "author": "Gekisaka",
-          "description": "チェルシーのアルゼンチン代表MFエンソ・フェルナンデスがクラブからの退団を検討しているようだ。『フットボール・トランスファーズ』が伝えた。　01年1月17日生まれの23歳は、アルゼンチン代表の一員として出場した22年カタールW杯で世界一に輝き、その名を世界中に轟かせた。そして、当時の英国史上最高額となる約170億円の移籍金でベンフィカからチェルシーに加入。だが、在籍1年以上が経過しても",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401153-401153-fl",
-          "publishedOn": "2024-02-07T03:44:27.000Z",
-          "wordCount": 2637,
-          "title": "MFエンソ・フェルナンデスがチェルシー退団を希望か…ネックは31年までの長期契約",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401153/news_401153_1.jpg?time=20240207124427"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401152-401152-fl",
-          "author": "Gekisaka",
-          "description": "サウジアラビアのアルナスルがマンチェスター・ユナイテッドDFラファエル・バラン獲得に関心を示しているようだ。英『デイリースター』が報じた。　21-22シーズンにレアル・マドリーからマンチェスター・Uに加入したバランは徐々に存在感を高めると、22-23シーズンのカラバオ杯制覇に貢献。しかし、在籍3年目を迎えた今季は出場機会が限られ、23試合を消化したプレミアリーグで14試合の出場にとどま",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401152-401152-fl",
-          "publishedOn": "2024-02-07T03:37:24.000Z",
-          "wordCount": 2638,
-          "title": "バランがマンU退団で再びC・ロナウドと同僚に!? アルナスルが年俸約93億円オファー準備か",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401152/news_401152_1.jpg?time=20240207123724"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401148-401148-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 アジア杯準決勝 ヨルダン 2-0 韓国 アルラーヤン]　2-0で試合終了の笛が吹かれると、選手たちはまるで優勝したかのようにピッチを駆け回り、歴史的躍進劇の歓喜を分かち合った。ヨルダン代表は史上初のアジアカップ決勝進出。準決勝ではホームさながらの大歓声の中、優勝候補の一角と目された韓国を見事に破り、大会の台風の目となった。　ヨルダン代表を率いるのはモロッコ出身のフセイン・アムー",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401148-401148-fl",
-          "publishedOn": "2024-02-07T03:17:35.000Z",
-          "wordCount": 2651,
-          "title": "ヨルダンが史上初のアジア杯決勝へ!! “W杯躍進国”モロッコ出身指揮官が抱く野望「今後数年で日本や韓国と同様に…」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401148/news_401148_1.jpg?time=20240207121735"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401151-401151-fl",
-          "author": "Gekisaka",
-          "description": "FA杯は6日、各地で4回戦再試合1日目を開催した。　MF坂元達裕が所属するコベントリーはシェフィールド・ウェンズデイと対戦。前半を1-1で折り返した試合は、後半に3点を奪ったコベントリーが4-1の勝利を収めて4回戦突破を決めた。先発した坂元は後半21分までプレーしている。　なお、5回戦の組み合わせ抽選はすでに行われており、6部以降のクラブで46年ぶりの5回戦進出を果たしたメイドストーン",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401151-401151-fl",
-          "publishedOn": "2024-02-07T01:59:44.000Z",
-          "wordCount": 2659,
-          "title": "坂元達裕所属コベントリーがFA杯4回戦突破!! 46年ぶりベスト16進出の6部クラブと対戦へ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401151/news_401151_1.jpg?time=20240207105944"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401146-401146-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 コパ・デル・レイ準決勝 マジョルカ 0-0 ソシエダ]　コパ・デル・レイ(スペイン国王杯)は6日、準決勝第1戦を行い、MF久保建英所属のソシエダがマジョルカと0-0で引き分けた。久保は日本代表として出場したアジアカップ準々決勝イラン戦(●1-2)から中2日で先発出場。さっそくフル出場を果たし、チームに欠かせない存在感を見せた。　久保は3日のアジア杯準々決勝イラン戦に先発出場し、",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401146-401146-fl",
-          "publishedOn": "2024-02-06T22:37:55.000Z",
-          "wordCount": 2649,
-          "title": "久保建英、アジア杯後中2日で国王杯にフル出場!! 古巣ホームでアシスト未遂も",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401146/news_401146_1.jpg?time=20240207073755"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401145-401145-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 アジア杯準決勝 ヨルダン 2-0 韓国 アルラーヤン]　64年ぶりのアジア王座を狙う韓国の夢を打ち砕いたのは、ヨルダン唯一の欧州組アタッカーだった。背番号10のMFムサ・アルタマリ(モンペリエ)はアジアカップ準決勝で1ゴール1アシスト。いずれも自身の鋭いプレッシングから攻撃を完結させており、獅子奮迅のパフォーマンスで母国を史上初のアジア決勝に導いた。　試合を通じて明らかな違いを",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401145-401145-fl",
-          "publishedOn": "2024-02-06T22:02:06.000Z",
-          "wordCount": 2644,
-          "title": "ヨルダン10番MFアルタマリに会見で質問殺到「レアル、アーセナル、マンUにどう?」韓国打ち砕く圧巻1G1A!",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401145/news_401145_1.jpg?time=20240207070206"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401144-401144-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 アジア杯準決勝 ヨルダン 2-0 韓国 アルラーヤン]　呆然と立ち尽くした。韓国代表は準決勝でヨルダンに0-2で敗れ、ベスト4敗退。1960年大会以来、64年ぶりとなるアジア制覇を逃すホイッスルが鳴り響くと、4万2850人の大観衆で埋め尽くされたスタンドが熱狂に包まれる中、ピッチ上のFWソン・フンミン(トッテナム)はしばらくの間、動けなかった。　完全アウェーの雰囲気の中、立ち上",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401144-401144-fl",
-          "publishedOn": "2024-02-06T21:05:05.000Z",
-          "wordCount": 2648,
-          "title": "4強敗退にソン・フンミン呆然…韓国は64年ぶりアジア制覇ならず「ロッカールームでキャプテンのソニーは…」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401144/news_401144_1.jpg?time=20240207060505"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401142-401142-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 アジア杯準決勝 ヨルダン 2-0 韓国 アルラーヤン]　64年ぶりのアジア制覇を狙う韓国代表だったが、最後は初の4強入りで勢いに乗る中東勢のヨルダンに屈した。試合後、ユルゲン・クリンスマン監督は「決勝進出という大きな目標があったので敗れてがっかりしている。ヨルダンを称えたい」と振り返りつつ、「立ち上がりの30分間、押されたことで試合を難しくしてしまった」と敗因を語った。　グルー",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401142-401142-fl",
-          "publishedOn": "2024-02-06T20:52:38.000Z",
-          "wordCount": 2641,
-          "title": "“ゾンビ”韓国64年ぶりVならず…笑顔を批判されたクリンスマン監督が反論「指導者として当然」森保J敗退にも言及",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401142/news_401142_1.jpg?time=20240207055238"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400735-400735-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第22節】(The City Ground)N・フォレスト 1-2(前半0-0)アーセナル[N]タイウォ・アウォニイ(89分)[ア]ガブリエル・ジェズス(65分)、ブカヨ・サカ(72分)[ア]ガブリエル・ジェズス(40分)観衆:29,387人[ノッティンガム・フォレスト]先発GK 1 マット・ターナーDF 15",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400735-400735-fl",
-          "publishedOn": "2024-02-06T19:40:01.000Z",
-          "wordCount": 2789,
-          "title": "N・フォレストvsアーセナル 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400968-400968-fl",
-          "author": "Gekisaka",
-          "description": "【ブンデスリーガ第20節】(Allianz Arena)バイエルン 3-1(前半1-1)ボルシアMG[ハ]A. Pavlović(45分)、ハリー・ケイン(70分)、マタイス・デ・リフト(86分)[ホ]ニコ・エルベディ(35分)[ホ]フロリアン・ノイハウス(30分)観衆:75,000人[バイエルン]先発GK 1 マヌエル・ノイアーDF",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400968-400968-fl",
-          "publishedOn": "2024-02-06T19:30:02.000Z",
-          "wordCount": 2789,
-          "title": "バイエルンvsボルシアMG 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401141-401141-fl",
-          "author": "Gekisaka",
-          "description": "[2.6 アジア杯準決勝 ヨルダン 2-0 韓国 アルラーヤン]　アジアカップは6日、アフメド・ビン・アリ・スタジアムで準決勝を行い、韓国がヨルダンに0-2で敗れた。FWソン・フンミンら豪華攻撃陣が不発に終わり、DFリーダー不在の国内組守備陣が圧倒されて2失点。ホームのような圧巻の大歓声を受けたヨルダンが史上初の4強入りからなおも快進撃を続け、歴史的な決勝進出を果たした。　準々決勝でオー",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401141-401141-fl",
-          "publishedOn": "2024-02-06T16:59:20.000Z",
-          "wordCount": 2660,
-          "title": "韓国、アジア杯4強で敗れる!! 圧巻の大声援受けたヨルダンが史上初の決勝進出",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401141/news_401141_1.jpg?time=20240207015920"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401129-401129-fl",
-          "author": "Gekisaka",
-          "description": "カメルーンサッカー連盟(FECAFOOT)は5日に理事会を行ったことを発表した。　理事会ではアフリカネーションズカップにおけるカメルーン代表の成績について話し合われたという。カメルーンは4大会連続で決勝トーナメントに進出するもベスト16止まりで大会を去っていた。　そうしたなか、代表チームの選考に深く関わっていたとされるサミュエル・エトー会長が辞意を表明。早期敗退の責任を取る形とみられた",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401129-401129-fl",
-          "publishedOn": "2024-02-06T14:54:54.000Z",
-          "wordCount": 2628,
-          "title": "成績不振でカメルーン連盟・エトー会長が辞意表明も…全会一致で留任決定",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401129/news_401129_1.jpeg?time=20240206235454"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401027-401027-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第23節】(オールド トラフォード)マンチェスター・U 3-0(前半1-0)ウエスト・ハム[マ]ラスムス・ホイルンド(23分)、アレハンドロ・ガルナチョ2(49分、84分)[ウ]トマーシュ・ソウチェク(37分)観衆:73,612人└21歳ホイルンド先制弾&19歳ガルナチョ2発!! マンU、ウエスト・ハムに3発快勝で2連勝[マン",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401027-401027-fl",
-          "publishedOn": "2024-02-06T14:00:02.000Z",
-          "wordCount": 2796,
-          "title": "マンチェスター・Uvsウエスト・ハム 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400880-400880-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第22節】(モリニュー・スタジアム)ウォルバーハンプトン 3-4(前半0-2)マンチェスター・U[ウ]パブロ・サラビア(71分)、マキシミリアン・キルマン(85分)、ペドロ・ネト(90分+5)[マ]マーカス・ラッシュフォード(5分)、ラスムス・ホイルンド(22分)、スコット・マクトミネイ(75分)、コビー・メイヌー(90分+7)[",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400880-400880-fl",
-          "publishedOn": "2024-02-06T14:00:02.000Z",
-          "wordCount": 2784,
-          "title": "ウォルバーハンプトンvsマンチェスター・U 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401140-401140-fl",
-          "author": "Gekisaka",
-          "description": "1960年以来64年ぶりのアジアカップ制覇を狙う韓国代表は6日、準決勝でヨルダン代表と対戦する。守備の要を担うDFキム・ミンジェ(バイエルン)が累積警告で出場停止の中、午後6時(日本時間7日午前0時)のキックオフを前にスターティングメンバーが発表され、鹿島などでJリーグ経験を持つDFチョン・スンヒョン(蔚山現代)が先発した。　韓国は準優勝だった2015年以来、2大会ぶりの決勝進出がかか",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401140-401140-fl",
-          "publishedOn": "2024-02-06T13:51:56.000Z",
-          "wordCount": 2714,
-          "title": "64年ぶりアジア制覇狙う韓国代表、準決勝スタメン発表! バイエルンDF出場停止でGK&4バック全員が蔚山所属",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401140/news_401140_1.jpeg?time=20240206225156"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401135-401135-fl",
-          "author": "Gekisaka",
-          "description": "スタッド・ランスは6日、公式Xを通じてアジアカップに参加していたFW伊東純也とFW中村敬斗がトレーニングに合流したことを報告した。　日本は3日の準々決勝でイランに1-2で敗れ、ベスト8で大会を去った。翌日にスタッド・ランスはリーグ戦を行ったが伊東と中村はメンバー外となり、チームは2-3で敗れている。　クラブが投稿した写真ではトレーニングの合間にピース姿で写真に映る中村のほか『週刊新潮』",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401135-401135-fl",
-          "publishedOn": "2024-02-06T11:13:01.000Z",
-          "wordCount": 2645,
-          "title": "伊東純也と中村敬斗が揃ってスタッド・ランスのトレーニングに参加、クラブが写真公開",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401135/news_401135_1.jpeg?time=20240206201301"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401132-401132-fl",
-          "author": "Gekisaka",
-          "description": "5日に行われたラ・リーガ第23節のラージョ対セビージャで、ラージョサポーターが思わぬ方法で相手選手を妨害して問題になっている。　1-1で迎えた前半32分、セビージャのMFルーカス・オカンポスが左サイドからロングスローをするため、観客席の手前から助走の準備をする。すると最前列にいたラージョサポーターの少年グループの1人が人差し指でオカンポスの臀部を突いた。オカンポスは即座に不快感を示すと",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401132-401132-fl",
-          "publishedOn": "2024-02-06T10:50:13.000Z",
-          "wordCount": 2660,
-          "title": "セビージャMFが相手サポから“セクハラ”被害…「女子サッカーならどうなるかは明らか」と同様の厳罰求める",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401132/news_401132_1.jpeg?time=20240206195013"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401133-401133-fl",
-          "author": "Gekisaka",
-          "description": "6日、千葉市内でインテル・マイアミがプレシーズンマッチの前日練習を行った。7日に国立競技場でJ1王者・ヴィッセル神戸と対戦する。　二転三転の前日練習となった。もともと午後4時半からのスタートだったが、5日に1時間遅れとなる午後5時半への変更が発表される。しかし、きょう昼の前日会見で改めて当初の予定通りとなる午後4時半の開始に戻り、さらに最終的には冒頭15分のみ公開となった。撮影エリア",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401133-401133-fl",
-          "publishedOn": "2024-02-06T10:17:43.000Z",
-          "wordCount": 2643,
-          "title": "香港では怪我で欠場したメッシ…あす国立でプレーできる? 前日練習でスアレス、ブスケツらとビブス組としてプレー",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401133/news_401133_1.jpg?time=20240206191743"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?401126-401126-pn",
-          "author": "Gekisaka",
-          "description": "プレミアリーグは4日、第23節を各地で開催した。アーセナルはリバプールと対戦し、3-1で勝利した。●プレミアリーグ2023-24特集",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?401126-401126-pn",
-          "publishedOn": "2024-02-06T09:24:11.000Z",
-          "wordCount": 2808,
-          "title": "アーセナルはFW陣の活躍で首位リバプールに3発快勝!! リーグ戦3連勝で首位と勝ち点2差に迫る(7枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401126/news_401126_1.jpg?time=20240206182411"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401032-401032-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第23節】(エミレーツ スタジアム)アーセナル 3-1(前半1-1)リバプール[ア]ブカヨ・サカ(14分)、ガブリエル・マルティネッリ(67分)、レアンドロ・トロサール(90分+2)[リ]オウンゴール(45分+3)[リ]イブラヒマ・コナテ(88分)[ア]ベン・ホワイト(31分)、ガブリエル・マガリャンイス(57分)、ヤ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401032-401032-fl",
-          "publishedOn": "2024-02-06T09:24:11.000Z",
-          "wordCount": 2792,
-          "title": "アーセナルvsリバプール 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401127-401127-fl",
-          "author": "Gekisaka",
-          "description": "NECナイメヘン(オランダ)は5日にクラブ月間ベストプレー賞であるモーメント・オブ・ザ・マンスの1月度受賞選手を発表し、DFファン・ウェルメスケルケン・際が選出された。　ファン・ウェルメスケルケンは1月17日に行った国内杯3回戦のゴー・アヘッド・イーグルス戦に先発出場すると、後半27分にペナルティーエリアの外から浮き玉をダイレクトボレーで合わせてゴールネットを揺らした。本人も思わず頭を",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401127-401127-fl",
-          "publishedOn": "2024-02-06T09:02:03.000Z",
-          "wordCount": 2667,
-          "title": "ファン・ウェルメスケルケン・際が蘭クラブ月間表彰に選出!! 川崎F加入発表直前に驚愕ボレー弾",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401127/news_401127_1.jpeg?time=20240206180203"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401122-401122-fl",
-          "author": "Gekisaka",
-          "description": "パリオリンピック男子サッカー競技の南米予選決勝リーグが5日から始まった。五輪2連覇中のU-23ブラジル代表が予選敗退の危機に瀕している。　南米予選は1月20日に開幕し、5チーム×2グループの1次リーグから各組上位2チームが決勝リーグに進出した。勝ち進んだブラジル、パラグアイ、アルゼンチン、ベネズエラが1回戦総当たり方式のリーグ戦を行い、上位2チームがパリ五輪の出場権を獲得する。　リオ五",
-          "link": "https://web.gekisaka.jp/news/olympic/detail/?401122-401122-fl",
-          "publishedOn": "2024-02-06T07:59:40.000Z",
-          "wordCount": 2641,
-          "title": "五輪2連覇中のブラジルが敗退危機…パリ行きを目指す南米予選決勝リーグが開幕",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401122/news_401122_1.jpeg?time=20240206165940"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401117-401117-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 リーグドゥ第23節 ポー 2-2 オセール]　オセールの元日本代表FWオナイウ阿道が4日、フランス・リーグドゥ(2部)第23節ポー戦(△2-2)で今季8得点目を記録した。　2試合ぶりにスタメン復帰したオナイウは前半2分、ペナルティエリア右のDFポール・ジョリーからのクロスに反応。ヘディングでゴール左に押し込み、先制弾を奪った。　オナイウにとっては4戦ぶりとなる今季8点目。そのま",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401117-401117-fl",
-          "publishedOn": "2024-02-06T05:51:00.000Z",
-          "wordCount": 2689,
-          "title": "オセールの元日本代表FWオナイウが今季8ゴール目! スタメン復帰で開始早々にヘディング弾",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401117/news_401117_1.jpg?time=20240206144920"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401108-401108-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第23節】(Gtech Community Stadium)ブレントフォード 1-3(前半1-1)マンチェスター・C[フ]ニール・モペイ(21分)[マ]フィル・フォーデン3(45分+3、53分、70分)[フ]ニール・モペイ(31分)観衆:17,096人└マンCはブレントフォードに先制許すも…躍動フォーデンのハットトリックで逆転、1試合未消化",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401108-401108-fl",
-          "publishedOn": "2024-02-06T04:20:01.000Z",
-          "wordCount": 2790,
-          "title": "ブレントフォードvsマンチェスター・C 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401114-401114-fl",
-          "author": "Gekisaka",
-          "description": "7日に国立競技場でヴィッセル神戸とプレシーズンマッチを行うために来日したインテル・マイアミのFWリオネル・メッシが前日会見に登壇した。　アジアツアーを行うインテル・マイアミは、1月30日にアルヒラル、2月2日にアルナスルとサウジアラビアで2試合を消化。2月4日に香港で香港選抜と試合を行い、同5日に来日した。　メッシはサウジアラビアでの2試合には先発したが、香港での試合には出場しなかっ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401114-401114-fl",
-          "publishedOn": "2024-02-06T03:23:55.000Z",
-          "wordCount": 2635,
-          "title": "メッシが来日会見、香港での欠場は「運が悪かった」と説明、神戸戦出場は「まだ分からない」も意欲的?",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401114/news_401114_1.jpg?time=20240206122355"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401113-401113-fl",
-          "author": "Gekisaka",
-          "description": "バルセロナのジョアン・ラポルタ会長は監督がシャビ・エルナンデスでなければ解任していたと明かし、シーズン終了前に解任することはないと改めて明言した。スペイン『マルカ』が報じている。　昨季にバルセロナをラ・リーガ優勝へと導いたシャビ監督は、先月27日にホームで行われた第22節ビジャレアル戦で3-5の敗戦を喫した後、今年6月での退任を発表した。　今季はすでにスペインスーパーカップとコパ・デル",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401113-401113-fl",
-          "publishedOn": "2024-02-06T02:58:39.000Z",
-          "wordCount": 2641,
-          "title": "今季成績は他の監督なら解任と認めるも…バルセロナ会長がシャビの退任表明に「驚いた」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401113/news_401113_1.jpg?time=20240206115839"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401109-401109-fl",
-          "author": "Gekisaka",
-          "description": "ラツィオのMF鎌田大地が4日、敵地で行われたセリエA第23節アタランタ戦(●1-3)で出番なしに終わり、これで直近の公式戦5試合連続の欠場となった。　いずれの試合もベンチ入りしながら最後までマウリツィオ・サッリ監督から声がかからなかった鎌田。イタリア『ラ・ラツィオ・シアーモ・ノイ』は「ダイチ・カマダはラツィオのレーダーから完全に消えた」と指摘し、「コッパ・イタリア、イタリア・スーパーカ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401109-401109-fl",
-          "publishedOn": "2024-02-06T01:55:32.000Z",
-          "wordCount": 2636,
-          "title": "鎌田大地が5試合連続で出番なし…地元メディア「ラツィオのレーダーから完全に消えた」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401109/news_401109_1.jpg?time=20240206105532"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401035-401035-fl",
-          "author": "Gekisaka",
-          "description": "【セリエA第23節】(アトレティ・アズーリ・ディターリア)アタランタ 3-1(前半2-0)ラツィオ[ア]マリオ・パシャリッチ(16分)、シャルル・デ・ケテラーレ2(43分、76分)[ラ]チーロ・インモービレ(84分)[ア]マリオ・パシャリッチ(9分)、ジャン・ピエロ・ガスペリーニ(9分)、エデルソン(78分)[ラ]フェリペ・アンデルソン(45分)、",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401035-401035-fl",
-          "publishedOn": "2024-02-06T01:55:32.000Z",
-          "wordCount": 2804,
-          "title": "アタランタvsラツィオ 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401111-401111-fl",
-          "author": "Gekisaka",
-          "description": "[2.5 プレミアリーグ第23節 ブレントフォード 1-3 マンチェスター・C]　プレミアリーグは5日に第23節を行った。マンチェスター・シティはブレントフォードに3-1で勝利した。　1試合未消化ながら首位争いに食い込むシティ。序盤から攻勢を強めるが、得点を奪うことができない。すると前半21分、ブレントフォードに先制を許す。GKマルク・フレッケンのロングキックからFWニール・モペイにカウ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401111-401111-fl",
-          "publishedOn": "2024-02-06T01:21:54.000Z",
-          "wordCount": 2649,
-          "title": "マンCはブレントフォードに先制許すも…躍動フォーデンのハットトリックで逆転、1試合未消化で首位リバプールと勝ち点2差",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401111/news_401111_1.jpg?time=20240206102154"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401039-401039-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 プレミアリーグ第23節 アーセナル 3-1 リバプール]　プレミアリーグは4日に第23節を行った。DF冨安健洋が所属するアーセナルとMF遠藤航が所属するリバプールの対戦は、アーセナルが3-1で勝利。3位アーセナルが首位リバプールに今季2敗目をつけ、暫定2位に浮上した。　冨安と遠藤はアジア杯招集のために不在。上位対決は序盤からチャンスを作り出すが、均衡を破ったのはアーセナル。前半",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401039-401039-fl",
-          "publishedOn": "2024-02-06T01:13:32.000Z",
-          "wordCount": 2654,
-          "title": "アーセナルが首位リバプールとの上位対決を制す、首位まで勝ち点2差の2位浮上",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401039/news_401039_1.jpg?time=20240206101332"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401037-401037-fl",
-          "author": "Gekisaka",
-          "description": "国際サッカー連盟(FIFA)は4日、2026年の北中米ワールドカップの大会スケジュールを発表した。　開幕戦は26年6月11日にメキシコ・メキシコシティのエスタディオ・アステカ(8万7000人収容)、決勝戦は7月19日にアメリカ・ニューヨークのメットライフスタジアム(8万2500人収容)でそれぞれ開催されることが決定。出場国数が前回までの32から48に拡大されることに伴い、大会期間は史上",
-          "link": "https://web.gekisaka.jp/news/worldcup/detail/?401037-401037-fl",
-          "publishedOn": "2024-02-05T20:35:59.000Z",
-          "wordCount": 2635,
-          "title": "2026年W杯は6.11メキシコ開幕!! 決勝は7.19ニューヨークで史上最長39日間、GLは中6日の可能性も",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401037/news_401037_1.jpg?time=20240206053559"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401103-401103-fl",
-          "author": "Gekisaka",
-          "description": "[2.5 プレミアリーグ第23節](Gtech Community Stadium)※29:00開始[ブレントフォード]先発GK 1 マルク・フレッケンDF 5 イーサン・ピノックDF 16 ベン・ミーDF 22 ネイサン・コリンズMF 6 クリスティアン・ノアゴールMF 8 マティアス・イェンセンMF 12 セルヒオ・レギロンMF 27 ビタリー・",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401103-401103-fl",
-          "publishedOn": "2024-02-05T19:02:02.000Z",
-          "wordCount": 2795,
-          "title": "ブレントフォードvsマンチェスター・C スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401100-401100-fl",
-          "author": "Gekisaka",
-          "description": "アジアカップを戦う韓国代表は5日、準決勝ヨルダン戦の前日会見にMFファン・インボム(レッドスター)を登壇させた。同選手は延長戦の死闘となった準々決勝オーストラリア戦で失点に絡むボールロストをし、批判に晒されていたボランチ。それでも矢面に立つ覚悟で会見場にやってきた背番号6は力強く奮起を誓った。　会見で韓国の記者からミスについて問われたファン・インボムは「明日のチャンスを得る前にしてミス",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401100-401100-fl",
-          "publishedOn": "2024-02-05T17:13:15.000Z",
-          "wordCount": 2629,
-          "title": "準々決勝で痛恨ボールロスト…“矢面”会見に臨んだ韓国代表MFの覚悟「サッカーを選んだ小さい頃の自分に感謝」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401100/news_401100_1.jpg?time=20240206021315"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401094-401094-fl",
-          "author": "Gekisaka",
-          "description": "アジアカップを戦う韓国代表のユルゲン・クリンスマン監督は5日、準決勝ヨルダン戦の前日会見に出席し、ドイツ代表のエースストライカーとしてW杯とEUROを制した経験をもとにトーナメントで勝ち進む秘訣を明かした。　クリンスマン監督は1990年、ドイツ代表のエースストライカーとしてイタリアW杯を優勝。その後も94年のアメリカ大会、98年のフランス大会に出場し、W杯通算10得点を記録した。また9",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401094-401094-fl",
-          "publishedOn": "2024-02-05T14:53:57.000Z",
-          "wordCount": 2637,
-          "title": "死闘に次ぐ死闘の“通称ゾンビ”韓国代表…常勝ドイツ知る指揮官は自信の笑み「そうやってステップを踏んでいく」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401094/news_401094_1.jpg?time=20240205235357"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401093-401093-fl",
-          "author": "Gekisaka",
-          "description": "マンチェスター・ユナイテッドのアルゼンチン代表DFリサンドロ・マルティネスが再び離脱する可能性があるようだ。　中足骨骨折で長期離脱していたL・マルティネスだが、年明けのプレミアリーグ第21節トッテナム戦で復帰。FA杯4回戦ニューポート戦でスターティングメンバーに名を連ねると、続くウォルバーハンプトン戦、ウエスト・ハム戦でも先発出場を果たした。　しかし、ウエスト・ハム戦の後半21分にDF",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401093-401093-fl",
-          "publishedOn": "2024-02-05T13:46:00.000Z",
-          "wordCount": 2637,
-          "title": "マンU、L・マルティネスが再び負傷離脱か…指揮官「大事に至らないことを祈るしかない」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401093/news_401093_1.jpg?time=20240205214044"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401091-401091-fl",
-          "author": "Gekisaka",
-          "description": "リバプールのオランダ代表DFフィルヒル・ファン・ダイクが自身のミスが絡んで喫した失点を悔やんだ。『ESPN』が伝えている。　4日に開催されたプレミアリーグ第23節でアーセナルのホームに乗り込んだリバプール。前半14分に先制点を献上も、アディショナルタイムにオウンゴールで試合を振り出しに戻す。しかし、後半22分に予期せぬミスから勝ち越しゴールを許してしまう。　アーセナル陣内から放り込まれ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401091-401091-fl",
-          "publishedOn": "2024-02-05T12:58:00.000Z",
-          "wordCount": 2637,
-          "title": "痛恨ミスで決勝点献上…ファン・ダイク「僕の責任だ」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401091/news_401091_1.jpg?time=20240205211430"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401090-401090-fl",
-          "author": "Gekisaka",
-          "description": "ブラジルで誰もが嘆きたくなるようなPK判定が4日に発生した。現地メディア『グローボ』などが伝えている。　驚きのプレーが発生したのはブラジル北東部のクラブが参加するカップ戦、コパ・ド・ノルデステでのABC対マラニョン。グループリーグでの対戦は2-1でマラニョンがリードして後半アディショナルタイムに突入する。同点を目指すABCが攻め込むとゴール前にボールがこぼれるが、マラニョンのGKが飛び",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401090-401090-fl",
-          "publishedOn": "2024-02-05T12:09:09.000Z",
-          "wordCount": 2626,
-          "title": "後半ATにGKが決死のキャッチ、興奮した味方がボールを叩いてPK献上",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401090/news_401090_1.jpeg?time=20240205210909"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401089-401089-fl",
-          "author": "Gekisaka",
-          "description": "アーセナルMFマルティン・ウーデゴーアの試合後のセレブレーションに、リバプールのレジェンドは怒りを覚えたようだ。英紙『デイリーメール』が伝えている。　4日に開催されたプレミアリーグ第23節で首位のリバプールをホームに迎えたアーセナル。前半14分にMFブカヨ・サカのゴールで先制するも、アディショナルタイムにオウンゴールで追い付かれてしまう。しかし、後半22分にFWガブリエル・マルティネッ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401089-401089-fl",
-          "publishedOn": "2024-02-05T11:37:17.000Z",
-          "wordCount": 2638,
-          "title": "試合後カメラマンに“変身”したウーデゴーア…リバプールレジェンドは苦言",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401089/news_401089_1.jpg?time=20240205203717"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401088-401088-fl",
-          "author": "Gekisaka",
-          "description": "元ブラジル代表DFダニエウ・アウベスの裁判が5日、スペインで始まった。『ムンド・デポルティーボ』や『マルカ』などが伝えている。　バルセロナやユベントスなどでプレーしたD・アウベスは、2022年12月末にバルセロナのナイトクラブで女性に性的暴行を行った容疑で収監されている。当初は行為自体を否定していたが、その後離婚を恐れて嘘をついたことを昨年に認めて合意の上だったと主張していた。裁判は5",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401088-401088-fl",
-          "publishedOn": "2024-02-05T11:34:34.000Z",
-          "wordCount": 2626,
-          "title": "性的暴行容疑のダニエウ・アウベス、裁判が始まる…最大禁錮12年の可能性",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401088/news_401088_1.jpeg?time=20240205203434"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401087-401087-fl",
-          "author": "Gekisaka",
-          "description": "国際サッカー連盟(FIFA)は4日に2026年北中米ワールドカップの大会スケジュールを発表後、現時点での決定事項に関する補足説明を公式サイトで行った。　アメリカ、メキシコ、カナダの3か国で行われるW杯は史上最多となる48チームが参加し、26年6月11日に開幕すると7月19日まで史上最長となる39日間にわたって開催される。選手の疲労面が心配されるがグループリーグが中5～6日ほどと長くなっ",
-          "link": "https://web.gekisaka.jp/news/worldcup/detail/?401087-401087-fl",
-          "publishedOn": "2024-02-05T10:56:00.000Z",
-          "wordCount": 2666,
-          "title": "3か国開催の26年北中米W杯、各グループを3地域に分けて長距離移動回避へ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401087/news_401087_1.jpeg?time=20240205194942"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401038-401038-fl",
-          "author": "Gekisaka",
-          "description": "【ラ・リーガ第23節】(サンティアゴ・ベルナベウ)R・マドリー 1-1(前半1-0)A・マドリー[R]ブラヒム・ディアス(20分)[A]マルコス・ジョレンテ(90分+3)[A]サウール・ニゲス(37分)、マリオ・エルモソ(38分)、パブロ・バリオス(85分)、メンフィス・デパイ(90分+5)観衆:76,732人└先発予定のビニシウスが試合直前に負",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401038-401038-fl",
-          "publishedOn": "2024-02-05T10:30:01.000Z",
-          "wordCount": 2787,
-          "title": "R・マドリーvsA・マドリー 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401086-401086-fl",
-          "author": "Gekisaka",
-          "description": "元イングランド代表MFジェシー・リンガードのKリーグ行きの可能性を、英『デイリースター』が報じている。　下部組織から育ったマンチェスター・ユナイテッドやウエスト・ハムなどでプレーし、昨季限りでN・フォレストを退団したリンガードは現在は無所属の状態が続いている。　今季初めには古巣となるウエスト・ハムへの復帰が噂されたが実現せず。そして、その後はスティーブン・ジェラード監督が率いるサウジア",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401086-401086-fl",
-          "publishedOn": "2024-02-05T10:14:53.000Z",
-          "wordCount": 2632,
-          "title": "元イングランド代表MFリンガードの新天地は韓国か…FCソウル加入で口頭合意と報道",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401086/news_401086_1.jpg?time=20240205191453"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401082-401082-fl",
-          "author": "Gekisaka",
-          "description": "ファビオ・カリーレ監督騒動に揺れるサントス(ブラジル)に新たなトラブルが発生したようだ。マレーシアで地元クラブと親善試合を行うことを発表したが、相手クラブが否定する異例の事態が起きている。　サントスは今月2日、ロシアの強豪クラブ・ゼニトらと対戦するイクオリティ・カップに参加することを発表。大会はカタールで行われるが、終了後の同17日にクラブ初のアジアツアーとしてマレーシアでケダ・ダルル",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401082-401082-fl",
-          "publishedOn": "2024-02-05T09:42:52.000Z",
-          "wordCount": 2629,
-          "title": "カリーレ監督騒動のサントスに新トラブル…アジアツアー発表も相手クラブが否定「公式に承認した事実はない」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401082/news_401082_1.jpeg?time=20240205184252"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401070-401070-fl",
-          "author": "Gekisaka",
-          "description": "MF西翼(33)が3日、2023シーズンをもって現役を引退することを発表した。　西はルーテル学院高と専修大で育成年代を過ごし、大学を卒業した2013年にポーランド4部リーグで海外挑戦を始めた。その後はスロバキアでもプレーして18年に韓国1部の大邱FCに加入。大邱FCではAFCチャンピオンズリーグ(ACL)に12試合出場し、19年大会のメルボルン・ビクトリー戦ではMF本田圭佑とも戦った。",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401070-401070-fl",
-          "publishedOn": "2024-02-05T09:02:14.000Z",
-          "wordCount": 2630,
-          "title": "ACLで本田圭佑とも対戦…MF西翼が現役引退を発表「悲しさや後悔などは一切ありません」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401070/news_401070_1.jpeg?time=20240205180214"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401066-401066-fl",
-          "author": "Gekisaka",
-          "description": "ラ・リーガで首位に立つレアル・マドリーは4日、ホームでアトレティコ・マドリーとの“マドリード・ダービー”を行って1-1で引き分けた。　R・マドリーは先に試合を行った2位のジローナが引き分けたため勝ち点差を開くチャンスだったが、キックオフ直前にアクシデントが発生。先発メンバーに名を連ねていたFWビニシウス・ジュニオールがウォーミングアップ中に負傷し、急遽FWブラヒム・ディアスを起用するこ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401066-401066-fl",
-          "publishedOn": "2024-02-05T08:41:00.000Z",
-          "wordCount": 2644,
-          "title": "先発予定のビニシウスが試合直前に負傷…R・マドリーはアトレティコと引き分けて次節天王山",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401066/news_401066_1.jpeg?time=20240205173234"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401061-401061-fl",
-          "author": "Gekisaka",
-          "description": "シントトロイデンは4日のベルギー・リーグ第24節でセルクル・ブルージュと対戦し、1-4で敗れた。3試合ぶりの敗戦となったが、DF小川諒也が加入後初アシストを記録している。　MF藤田譲瑠チマ、MF伊藤涼太郎、MF山本理仁が先発出場したシントトロイデンだが、後半22分までに4失点を喫する苦しい展開を強いられる。トルステン・フィンク監督は同25分に小川を投入して反撃を試みた。すると後半アディ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401061-401061-fl",
-          "publishedOn": "2024-02-05T07:51:46.000Z",
-          "wordCount": 2649,
-          "title": "小川諒也がシントトロイデン加入後初アシスト!! 起用に応える絶品クロス",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401061/news_401061_1.jpeg?time=20240205165146"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401056-401056-fl",
-          "author": "Gekisaka",
-          "description": "アジアカップの戦いからゲントに戻ったばかりの日本代表DF渡辺剛が4日に行われたアンデルレヒト戦に先発出場した。後半32分まで出場している。　渡辺はアジア杯を戦った日本代表に選ばれており、グループリーグ第3戦のインドネシア戦に途中出場していた。最終戦となった準々決勝のイラン戦では、ベンチ入りしたものの出番はなかった。　チームは0-1で敗戦。4試合勝ちなし(1分3敗)で、順位は5位に後退し",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401056-401056-fl",
-          "publishedOn": "2024-02-05T05:43:16.000Z",
-          "wordCount": 2633,
-          "title": "アジア杯日本代表、ゲントDF渡辺剛がイラン戦翌日ゲームに即先発",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401056/news_401056_1.jpg?time=20240205144316"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401051-401051-fl",
-          "author": "Gekisaka",
-          "description": "元日本代表の本田圭佑と吉田麻也がX(旧ツイッター)で掛け合いをみせている。　まずは本田が吉田がパーソナリティを務めるTOKYO FMのラジオ番組の記事を引用。吉田が名古屋グランパスでプロキャリアを始めた1年目のキャンプで同部屋だった本田のエピソードとして、サッカーゲームでよく対戦させられた話や、本田がメインで吉田がラップを担当するヒップホップ曲の練習をひたすらさせられたという内容の",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401051-401051-fl",
-          "publishedOn": "2024-02-05T04:47:08.000Z",
-          "wordCount": 2633,
-          "title": "本田圭佑と吉田麻也がXで軽妙な掛け合い「カラオケに行こう」名古屋時代を懐かしむ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401051/news_401051_1.jpg?time=20240205134708"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401049-401049-fl",
-          "author": "Gekisaka",
-          "description": "パリSGのFWキリアン・ムバッペが今度こそレアル・マドリーに移籍するかもしれない。3日に『ESPN』が関係者が今夏の移籍を認めたと報じている。　これまでも幾度となくレアル・マドリー移籍の可能性が報じられてきたムバッペだが、「ついに実現することになりそうだ」という。『ESPN』はある関係者の話として、ムバッペがパリSGが行った年俸アップの提案を拒否。フリートランスファーでの移籍を選択する",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401049-401049-fl",
-          "publishedOn": "2024-02-05T03:50:22.000Z",
-          "wordCount": 2636,
-          "title": "ムバッペが今度こそレアル・マドリー移籍を決断か…ESPN報道、年俸半額でも“夢”を優先",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401049/news_401049_1.jpg?time=20240205125022"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401043-401043-fl",
-          "author": "Gekisaka",
-          "description": "インテル・マイアミは4日に香港で香港選抜と対戦し、4-1で勝利した。しかしFWリオネル・メッシやFWルイス・スアレスはベンチ入りしたものの、出番はなし。高額な観戦チケットにも関わらず満員近くが詰めかけたスタンドからは、容赦ないブーイングが浴びせられた。　アジアツアーを行うインテル・マイアミはこれまでサウジアラビアで2試合を消化。1月30日にアルヒラル、2月2日にアルナスルと戦い、メッシ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401043-401043-fl",
-          "publishedOn": "2024-02-05T02:48:56.000Z",
-          "wordCount": 2635,
-          "title": "メッシ、スアレス香港での親善試合欠場に容赦ないブーイング…主催者も怒りの声明、スポンサー資金は減額か",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401043/news_401043_1.jpg?time=20240205114856"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401029-401029-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第23節】(スタンフォード ブリッジ)チェルシー 2-4(前半1-2)ウォルバーハンプトン[チ]コール・パーマー(19分)、チアゴ・シウバ(86分)[ウ]マテウス・クーニャ3(22分、63分、82分)、オウンゴール(43分)[チ]マロ ギュスト(30分)、モイセス・カイセド(56分)、ベン・チルウェル(78分)[ウ]ネウソン・セメド",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401029-401029-fl",
-          "publishedOn": "2024-02-05T01:20:02.000Z",
-          "wordCount": 2793,
-          "title": "チェルシーvsウォルバーハンプトン 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401041-401041-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 プレミアリーグ第23節 マンチェスター・U 3-0 ウエスト・ハム]　プレミアリーグは4日、第23節を開催し、ウエスト・ハムをホームに迎えたマンチェスター・ユナイテッドが3-0の完封勝利を収め、2連勝を飾った。　前節ウォルバーハンプトン戦で4-3と打ち合いを制し、リーグ戦3試合ぶりの白星を手にしたマンチェスター・U。ウエスト・ハム戦でも幸先良く先制に成功する。前半23分、MFカ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401041-401041-fl",
-          "publishedOn": "2024-02-05T01:06:56.000Z",
-          "wordCount": 2650,
-          "title": "21歳ホイルンド先制弾&19歳ガルナチョ2発!! マンU、ウエスト・ハムに3発快勝で2連勝",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401041/news_401041_1.jpg?time=20240205100656"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401040-401040-fl",
-          "author": "Gekisaka",
-          "description": "モナコに戻った日本代表MF南野拓実が、アジアカップの準々決勝から中0日でリーグ戦出場を果たした。　ベンチ入りだけでなく、途中出場も果たした。南野は3日にカタールで行われたアジア杯の準々決勝イラン戦に後半22分から途中出場。しかし逆転負けを喫すると、選手たちはそれぞれのチームに戻っていた。　アジア杯はAマッチデーの開催ではないため、欧州各国ではリーグ戦が開催されている。モナコも4日に第2",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401040-401040-fl",
-          "publishedOn": "2024-02-05T00:56:19.000Z",
-          "wordCount": 2634,
-          "title": "南野がアジア杯から中0日の異例強行出場、指揮官「彼は参加したいと」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401040/news_401040_1.jpg?time=20240205095619"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401033-401033-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 ラ・リーガ第23節](サンティアゴ・ベルナベウ)※29:00開始[レアル・マドリー]先発GK 13 アンドリー・ルニンDF 2 ダニエル・カルバハルDF 6 ナチョ・フェルナンデスDF 17 ルーカス・バスケスDF 23 フェルラン・メンディMF 5 ジュード・ベリンガムMF 8 トニ・クロースMF 12 エドゥアルド・カマビンカ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401033-401033-fl",
-          "publishedOn": "2024-02-04T20:00:02.000Z",
-          "wordCount": 2794,
-          "title": "R・マドリーvsA・マドリー スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400879-400879-fl",
-          "author": "Gekisaka",
-          "description": "【ラ・リーガ第20節】(コリセウム・アルフォンソ・ペレス)ヘタフェ 0-2(前半0-1)R・マドリー[R]ホセル2(14分、56分)[ヘ]ジェネ(26分)[R]フェルラン・メンディ(30分)、オーレリアン・チュアメニ(90分+3)、カルロ・アンチェロッティ(90分+4)観衆:15,264人[ヘタフェ]先発GK 13 ダビド・ソリアDF 4",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400879-400879-fl",
-          "publishedOn": "2024-02-04T16:10:01.000Z",
-          "wordCount": 2792,
-          "title": "ヘタフェvsR・マドリー 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401030-401030-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 セリエA第23節](アトレティ・アズーリ・ディターリア)※26:00開始[アタランタ]先発GK 29 マルコ・カルネセッキDF 19 ベラト・ジムシティDF 23 セアド・コラシナツDF 42 ジョルジョ スカルヴィーニMF 3 エミル・ホルムMF 8 マリオ・パシャリッチMF 13 エデルソンMF 15 マルテン・デ・ローンMF 22 マッテオ・",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401030-401030-fl",
-          "publishedOn": "2024-02-04T16:05:01.000Z",
-          "wordCount": 2812,
-          "title": "アタランタvsラツィオ スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401026-401026-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 プレミアリーグ第23節](エミレーツ スタジアム)※25:30開始[アーセナル]先発GK 22 ダビド・ラヤDF 2 ウィリアン・サリバDF 4 ベン・ホワイトDF 6 ガブリエル・マガリャンイスDF 35 オレクサンドル・ジンチェンコMF 8 マルティン・ウーデゴーアMF 20 ジョルジーニョMF 41 デクラン・ライスFW",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401026-401026-fl",
-          "publishedOn": "2024-02-04T15:32:02.000Z",
-          "wordCount": 2802,
-          "title": "アーセナルvsリバプール スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400988-400988-fl",
-          "author": "Gekisaka",
-          "description": "【ラ・リーガ第23節】(モンティリビ)ジローナ 0-0(前半0-0)ソシエダ[シ]ミチェル(89分)[シ]ヤンヘル・エレーラ(88分)、デイリー・ブリント(90分+7)[ソ]ベニャト・トゥリエンテス(21分)、ブライス・メンデス(45分+1)、イマノル・アルグアシル(45分+1)、イゴール・スベルディア(64分)観衆:13,755人<出場メンバー",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400988-400988-fl",
-          "publishedOn": "2024-02-04T15:10:02.000Z",
-          "wordCount": 2801,
-          "title": "ジローナvsソシエダ 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401013-401013-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 フランス・リーグアン第20節](Stade Auguste-Delaune)※23:00開始[スタッド・ランス]先発GK 94 イェヴァン ディウフDF 2 ジョセフ オクムDF 5 ユニス・アブデルハミドDF 24 エマニュエル アグバドゥDF 25 ティボー デ スメットMF 8 アミル・リシャルドソンMF 10 テディ・テウマMF 26 ハ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401013-401013-fl",
-          "publishedOn": "2024-02-04T14:09:01.000Z",
-          "wordCount": 2797,
-          "title": "スタッド・ランスvsトゥールーズ スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401012-401012-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 プレミアリーグ第23節](オールド トラフォード)※23:00開始[マンチェスター・ユナイテッド]先発GK 24 アンドレ・オナナDF 5 ハリー・マグワイアDF 6 リサンドロ・マルティネスDF 20 ディオゴ・ダロトDF 23 ルーク・ショーMF 8 ブルーノ・フェルナンデスMF 10 マーカス・ラッシュフォードMF 17 アレハン",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401012-401012-fl",
-          "publishedOn": "2024-02-04T14:02:01.000Z",
-          "wordCount": 2794,
-          "title": "マンチェスター・Uvsウエスト・ハム スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401011-401011-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 プレミアリーグ第23節](スタンフォード ブリッジ)※23:00開始[チェルシー]先発GK 28 ジョルジェ ペトロヴィッチDF 2 アクセル・ディサシDF 6 チアゴ・シウバDF 21 ベン・チルウェルDF 27 マロ ギュストMF 7 ラヒーム・スターリングMF 8 エンソ・フェルナンデスMF 20 コール・パーマーMF 23 コナー・キ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401011-401011-fl",
-          "publishedOn": "2024-02-04T14:02:01.000Z",
-          "wordCount": 2794,
-          "title": "チェルシーvsウォルバーハンプトン スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400982-400982-fl",
-          "author": "Gekisaka",
-          "description": "【ラ・リーガ第23節】(メンディソロッサ)アラベス 1-3(前半0-1)バルセロナ[ア]サム・オモロディオン(51分)[ハ]ロベルト・レバンドフスキ(22分)、イルカイ・ギュンドアン(49分)、Vitor Roque(63分)[ハ]Vitor Roque(72分)[ア]サム・オモロディオン(12分)、アレックス・ソラ(90分+7)[ハ]Vit",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400982-400982-fl",
-          "publishedOn": "2024-02-04T13:00:02.000Z",
-          "wordCount": 2811,
-          "title": "アラベスvsバルセロナ 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401009-401009-fl",
-          "author": "Gekisaka",
-          "description": "[2.4 オランダ・エールディビジ第20節](AFASスタディオン)※22:30開始[AZ]先発GK 20 R. Owusu-OduroDF 3 W. GoesDF 5 アレクサンドル ペネトラDF 18 D. Møller WolfeDF 25 リーシェドリ バズールMF 8 ヨルディ クラーシMF 10 ダニ・デ・ウィットMF 16 S. Mijnans",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401009-401009-fl",
-          "publishedOn": "2024-02-04T12:36:01.000Z",
-          "wordCount": 2813,
-          "title": "AZvsフェイエノールト スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?401008-401008-fl",
-          "author": "Gekisaka",
-          "description": "ブライトンのロベルト・デ・ゼルビ監督が、日本代表のアジアカップ敗退を受けてコメントした。イギリス『Sussex Express』が指揮官の言葉を伝えている。　日本は3日、アジア杯準々決勝でイランに敗れて(●1-2)ベスト8で大会を去った。選手たちはそれぞれの所属クラブに戻ってシーズンを再開へ。ブライトンからはMF三笘薫が招集されたが、12月に負った怪我の影響もあり存在感を示すことができ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?401008-401008-fl",
-          "publishedOn": "2024-02-04T12:23:26.000Z",
-          "wordCount": 2641,
-          "title": "ブライトンのデ・ゼルビ監督が日本代表のアジア杯敗退に言及「本当に残念」「最高の選手の一人が帰ってくる」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/402000/401008/news_401008_1.jpg?time=20240204212326"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400969-400969-fl",
-          "author": "Gekisaka",
-          "description": "【ブンデスリーガ第20節】(Europa-Park Stadion)フライブルク 1-3(前半1-2)シュツットガルト[フ]ルーカス・キュブラー(45分+11)[シ]デニズ・ウンダブ(3分)、クリス・フューリッヒ(7分)、マクシミリアン・ミッテルシュテット(74分)[フ]M. Röhl(18分)[フ]マティアス・ギンター(41分)、マキシミ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400969-400969-fl",
-          "publishedOn": "2024-02-04T07:20:02.000Z",
-          "wordCount": 2796,
-          "title": "フライブルクvsシュツットガルト 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400999-400999-fl",
-          "author": "Gekisaka",
-          "description": "シュツットガルトに所属するU-22日本代表DFチェイス・アンリ(19)がブンデスリーガで初のベンチ入りを果たした。　現在19歳のチェイス・アンリは尚志高出身で22年4月に渡独。シュツットガルトのセカンドチームを主戦場とし、ドイツ4部リーグで17試合に出場するなど自身を磨いてきた。　ブンデスリーガは3日に第20節を行い、シュツットガルトは敵地でフライブルクと対戦(○3-1)した。チェイス",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400999-400999-fl",
-          "publishedOn": "2024-02-04T06:34:10.000Z",
-          "wordCount": 2639,
-          "title": "19歳チェイス・アンリがブンデスリーガで初のベンチ入り! シュツットガルトは3発快勝",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/401000/400999/news_400999_1.jpg?time=20240204153410"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400998-400998-fl",
-          "author": "Gekisaka",
-          "description": "アフリカネーションズカップは2日と3日に準々決勝を行い、その結果ベスト4が出揃った。　準決勝は、FWアデモラ・ルックマンの得点でアンゴラを破ったナイジェリアとPK戦の末にカーボベルデを下した南アフリカが激突。もう1試合は、開催国のコートジボワールと優勝候補の一角・エジプトなどを倒して勝ち進んできたコンゴ民主共和国が対戦する。　コートジボワールは4大会ぶり3回目、ナイジェリアは5大会ぶり",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400998-400998-fl",
-          "publishedOn": "2024-02-04T05:47:11.000Z",
-          "wordCount": 2653,
-          "title": "アフリカネーションズ杯の4強出揃う! 準決勝はナイジェリアvs南アフリカ、コートジボワールvsコンゴ民主共和国に決定",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/401000/400998/news_400998_1.jpg?time=20240204144711"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400997-400997-fl",
-          "author": "Gekisaka",
-          "description": "NECナイメヘンに所属するFW小川航基が今季リーグ戦7ゴール目を記録した。　エールディビジは3日に第20節を開催し、NECナイメヘンはホームでヘラクレスと対戦した。小川は6試合連続の先発出場。1トップの位置でピッチに立った。　試合は開始早々の前半3分に失点。1点ビハンドのまま前半を折り返した。すると、後半6分に小川がペナルティキックを沈めて同点。さらに同14分には右サイドからのクロスに",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400997-400997-fl",
-          "publishedOn": "2024-02-04T02:51:31.000Z",
-          "wordCount": 2638,
-          "title": "小川航基が2発で今季7ゴール目! NECナイメヘンを逆転勝利へ導く",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/401000/400997/news_400997_1.jpg?time=20240204115131"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400970-400970-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第23節】(AMEXスタジアム)ブライトン 4-1(前半3-0)クリスタル・パレス[フ]ルイス・ダンク(3分)、ジャック・ヒンシェルウッド(33分)、ファクンド・ブオナノッテ(34分)、ジョアン・ペドロ(85分)[ク]ジャン・フィリップ・マテタ(71分)[フ]ロベルト・デ・ゼルビ(7分)、ダニー・ウェルベック(90",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400970-400970-fl",
-          "publishedOn": "2024-02-04T01:20:02.000Z",
-          "wordCount": 2788,
-          "title": "ブライトンvsクリスタル・パレス 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400995-400995-fl",
-          "author": "Gekisaka",
-          "description": "[2.3 スコティッシュプレミアシップ第24節 アバディーン 1-1 セルティック]　スコティッシュプレミアシップは3日、第24節を開催した。首位セルティックは敵地でアバディーンと対戦。1-1で引き分けた。　リーグ戦5連勝中のセルティックはFW古橋亨梧が最前線で先発出場。FW前田大然とMF旗手怜央はアジア杯に参戦している日本代表の活動でメンバー外となった。　試合は立ち上がりからセルティッ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400995-400995-fl",
-          "publishedOn": "2024-02-04T01:17:33.000Z",
-          "wordCount": 2648,
-          "title": "首位セルティックはアバディーンと1-1ドローで連勝がストップ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/401000/400995/news_400995_1.jpg?time=20240204101733"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400980-400980-fl",
-          "author": "Gekisaka",
-          "description": "[2.3 ラ・リーガ第23節](モンティリビ)※29:00開始[ジローナ]先発GK 13 パウロ・ガッサニーガDF 3 ミゲル・グティエレスDF 17 デイリー・ブリントDF 20 ヤン・コウトDF 25 エリック・ガルシアMF 8 ヴィクトル ツィガンコフMF 14 アレイクス・ガルシアMF 16 サビオMF 21 ヤンヘル・エレーラMF 23",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400980-400980-fl",
-          "publishedOn": "2024-02-03T20:08:01.000Z",
-          "wordCount": 2810,
-          "title": "ジローナvsソシエダ スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400967-400967-fl",
-          "author": "Gekisaka",
-          "description": "[2.3 ラ・リーガ第23節](メンディソロッサ)※26:30開始[アラベス]先発GK 1 アントニオ・シベラDF 3 ルベン・ドゥアルテDF 14 ナウエル・テナグリアDF 16 ラファ・マリンDF 27 ハビ・ロペスMF 6 アンデル・ゲバラMF 7 アレックス・ソラMF 8 アントニオ・ブランコMF 11 ルイス・リオハMF 18 ホン・ク",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400967-400967-fl",
-          "publishedOn": "2024-02-03T17:35:02.000Z",
-          "wordCount": 2816,
-          "title": "アラベスvsバルセロナ スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400737-400737-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第22節】(Kenilworth Road)ルートン・タウン 4-0(前半3-0)ブライトン[ル]イライジャ・アデバヨ3(1分、42分、56分)、チドジー オグベネ(3分)[ル]アルベール・サンビ・ロコンガ(25分)、ジョーダン クラーク(65分)[フ]イゴール(13分)、カルロス バレバ(73分)観衆:10,994人<出場メンバー",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400737-400737-fl",
-          "publishedOn": "2024-02-03T15:10:02.000Z",
-          "wordCount": 2789,
-          "title": "ルートン・タウンvsブライトン 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400960-400960-fl",
-          "author": "Gekisaka",
-          "description": "[2.3 プレミアリーグ第23節](AMEXスタジアム)※24:00開始[ブライトン]先発GK 1 バルト ヴェルブルッヘンDF 3 イゴールDF 5 ルイス・ダンクDF 29 ヤン・ポール・ファン・ヘッケMF 2 タリク・ランプティMF 9 ジョアン・ペドロMF 11 ビリー・ギルモアMF 13 パスカル・グロスMF 40 ファクンド・フ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400960-400960-fl",
-          "publishedOn": "2024-02-03T15:02:01.000Z",
-          "wordCount": 2796,
-          "title": "ブライトンvsクリスタル・パレス スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400956-400956-fl",
-          "author": "Gekisaka",
-          "description": "[2.3 ブンデスリーガ第20節](Allianz Arena)※23:30開始[バイエルン]先発GK 1 マヌエル・ノイアーDF 4 マタイス・デ・リフトDF 15 エリック・ダイアーDF 19 アルフォンソ・デイビスDF 40 ヌセア・マズラウィMF 8 レオン・ゴレツカMF 10 レロイ・サネMF 25 トーマス・ミュラーMF 42 ジャマル",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400956-400956-fl",
-          "publishedOn": "2024-02-03T14:42:02.000Z",
-          "wordCount": 2797,
-          "title": "バイエルンvsボルシアMG スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400958-400958-fl",
-          "author": "Gekisaka",
-          "description": "[2.3 ブンデスリーガ第20節](Europa-Park Stadion)※23:30開始[フライブルク]先発GK 1 ノア・アトゥボルDF 5 マヌエル・グルデDF 17 ルーカス・キュブラーDF 28 マティアス・ギンターDF 33 J. MakengoMF 8 マキシミリアン・エッゲシュタインMF 22 ロランド・サライMF 27 ニコラス",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400958-400958-fl",
-          "publishedOn": "2024-02-03T14:35:01.000Z",
-          "wordCount": 2796,
-          "title": "フライブルクvsシュツットガルト スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400944-400944-fl",
-          "author": "Gekisaka",
-          "description": "マンチェスター・シティのFWアーリング・ハーランドがイングランドでの生活に不満を感じ、レアル・マドリー移籍を希望しているといったスペイン国内の報道について、ジョゼップ・グアルディオラ監督が言及した。イギリス『スカイ・スポーツ』が伝えている。　ハーランドは昨季にドルトムントから加入し、公式戦53試合52ゴールの活躍でシティの3冠達成に大きく貢献した。今季も公式戦23試合19ゴールと得点を",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400944-400944-fl",
-          "publishedOn": "2024-02-03T09:43:25.000Z",
-          "wordCount": 2638,
-          "title": "ハーランドがレアル移籍希望と報道…コメントを求められたペップ「我々より彼らの方が詳しい」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/401000/400944/news_400944_1.jpg?time=20240203184325"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?400939-400939-fl",
-          "author": "Gekisaka",
-          "description": "韓国代表は2日、アジアカップ準々決勝でオーストラリア代表と対戦し、延長戦の末に2-1で勝利を収めた。　前半42分に先制を許した韓国はゴールを奪えないまま終盤を迎えたが、後半アディショナルタイムにエースFWソン・フンミン(トッテナム)がドリブルからPKを獲得。これをFWファン・ヒチャン(ウォルバーハンプトン)が決めて同点に追い付くと、延長前半14分にはソン・フンミンが芸術的な直接FKで逆",
-          "link": "https://web.gekisaka.jp/news/world/detail/?400939-400939-fl",
-          "publishedOn": "2024-02-03T07:03:25.000Z",
-          "wordCount": 2645,
-          "title": "「バケモン」「1人だけマジで世界トップクラス」韓国代表ソン・フンミンの逆転V弾に絶賛相次ぐ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/401000/400939/news_400939_1.jpg?time=20240203160325"
         }
       ]
     }
