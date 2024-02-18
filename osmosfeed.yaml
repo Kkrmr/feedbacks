@@ -8,4 +8,4 @@ sources:
   - href: https://web.gekisaka.jp/feed?category=foreign
 siteTitle: "delayedfeeds"
 timezone: Asia/Tokyo
-cacheMaxDays: 14
+cacheMaxDays: 30
