@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://Kkrmr.github.io/feedbacks/cache.json
+cacheUrl: https://Kkrmr.github.io/delayedfeeds/cache.json
 sources:
   - href: https://web.gekisaka.jp/feed?category=foreign
 siteTitle: "delayedfeeds"
