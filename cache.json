@@ -6,6 +6,956 @@
       "siteUrl": "https://web.gekisaka.jp/",
       "articles": [
         {
+          "id": "https://web.gekisaka.jp/news/detail/?410162-410162-fl",
+          "author": "Gekisaka",
+          "description": "EURO2024で審判ユニフォームを提供しているMacronは27日、グループリーグで話題になったレフェリーファンにユニフォームをプレゼントしたことを報告した。　今大会のEUROではオーストリア対フランスで「審判なしではパーティーは起きない」「レフェリー、シャツをください!」と書かれた段ボールを掲げるグループが目撃されて注目を集めた。審判のユニフォームを着て副審の旗を持参するなどしてい",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410162-410162-fl",
+          "publishedOn": "2024-06-28T14:11:16.000Z",
+          "wordCount": 2579,
+          "title": "「レフェリー、シャツをください!」EUROに突如現れた審判ファン団体、願いが叶う",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410162/news_410162_1.jpg?time=20240628231116"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410125-410125-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第2節】(ジャイアンツ・スタジアム)ウルグアイ 5-0(前半2-0)ボリビア[ウ]ファクンド・ペリストリ(8分)、ダルウィン・ヌニェス(21分)、M. Araújo(77分)、フェデリコ・バルベルデ(81分)、ロドリゴ・ベンタンクール(89分)[ボ]ヨマール ロドリゲス(65分)[ウルグアイ]先",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410125-410125-fl",
+          "publishedOn": "2024-06-28T14:10:01.000Z",
+          "wordCount": 2747,
+          "title": "ウルグアイvsボリビア 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409846-409846-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第1節】(ハードロック・スタジアム)ウルグアイ 3-1(前半1-0)パナマ[ウ]M. Araújo(16分)、ダルウィン・ヌニェス(85分)、マティアス・ビーニャ(90分+1)[パ]アミル ムリージョ(90分+4)[パ]J. Welch(68分)[ウルグアイ]先発GK 1 セルヒオ ロシェDF 4 ロナルド・",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409846-409846-fl",
+          "publishedOn": "2024-06-28T14:10:01.000Z",
+          "wordCount": 2742,
+          "title": "ウルグアイvsパナマ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410159-410159-fl",
+          "author": "Gekisaka",
+          "description": "欧州サッカー連盟(UEFA)審判委員長のロベルト・ロセッティ氏が28日、EURO2024のグループリーグにおけるレフェリングを総括した。重要な判定の際にキャプテンのみが審判員とコミュニケーションを取ることができるという新運用について、「全員が満足している」と手応えを示した。『キッカー』や『STVニュース』などが伝えている。　今大会のEUROではPKなど試合結果に関わる大きな判定が下され",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410159-410159-fl",
+          "publishedOn": "2024-06-28T13:44:31.000Z",
+          "wordCount": 2584,
+          "title": "EUROのGL判定データが公開!! 初採用“主将のみ主審と対話可ルール”にUEFA審判委員長「全員が満足している」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410159/news_410159_1.jpg?time=20240628224431"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?410149-410149-pn",
+          "author": "Gekisaka",
+          "description": "EURO2024(欧州選手権)は26日にグループリーグ第3節を行った。D組はオーストリア代表とオランダ代表が対戦し、オーストリアがオランダに3-2で勝利した。●EURO2024特集",
+          "link": "https://web.gekisaka.jp/photonews/euro/detail/?410149-410149-pn",
+          "publishedOn": "2024-06-28T10:36:35.000Z",
+          "wordCount": 2921,
+          "title": "オーストリアはシュミット&ザビッツァーのゴールでオランダを撃破! 強豪ひしめくD組を首位通過で16強進出(14枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410149/news_410149_1.jpg?time=20240628193635"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409944-409944-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(オリンピアシュタディオン・ベルリン)オランダ 2-3(前半0-1)オーストリア[ラ]コーディ・ガクポ(47分)、メンフィス・デパイ(75分)[ー]オウンゴール(6分)、ロマーノ・シュミット(59分)、マルセル・ザビッツァー(80分)[ー]シュテファン・ポッシュ(32分)、パトリック・ビマー(33分)、L.",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409944-409944-fl",
+          "publishedOn": "2024-06-28T10:36:35.000Z",
+          "wordCount": 2745,
+          "title": "オランダvsオーストリア 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?410141-410141-pn",
+          "author": "Gekisaka",
+          "description": "EURO2024(欧州選手権)は25日にグループリーグ第3節を行った。B組はイタリア代表がクロアチア代表と1-1で引き分け、2位でグループリーグ突破を決めた。●EURO2024特集",
+          "link": "https://web.gekisaka.jp/photonews/euro/detail/?410141-410141-pn",
+          "publishedOn": "2024-06-28T10:35:05.000Z",
+          "wordCount": 2921,
+          "title": "イタリアは試合終了間際にザッカーニ弾でドローに持ち込み16強進出! クロアチアはグループステージ敗退が決定(14枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410141/news_410141_1.jpg?time=20240628193505"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409875-409875-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(レッドブル・アレーナ)クロアチア 1-1(前半0-0)イタリア[ク]ルカ・モドリッチ(55分)[イ]マッティア・ザッカーニ(90分+8)[ク]ルカ スチッチ(24分)、ルカ・モドリッチ(60分)、L. Ivanušec(73分)、マリン・ポングラチッチ(78分)、ヨシプ・スタニシッチ(82分)、マルセロ・ブロゾヒ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409875-409875-fl",
+          "publishedOn": "2024-06-28T10:35:05.000Z",
+          "wordCount": 2752,
+          "title": "クロアチアvsイタリア 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/photonews/detail/?410137-410137-pn",
+          "author": "Gekisaka",
+          "description": "EURO2024(欧州選手権)は27日にグループリーグ第3節を行った。F組はジョージア代表がポルトガル代表を2-0で撃破。強豪から白星を奪い、各組3位のうち上位4チームに入ったためグループリーグ突破を決めた。●EURO2024特集",
+          "link": "https://web.gekisaka.jp/photonews/euro/detail/?410137-410137-pn",
+          "publishedOn": "2024-06-28T10:34:48.000Z",
+          "wordCount": 2931,
+          "title": "ジョージアはクバラツヘリア&ミカウタゼ弾で強豪ポルトガルを撃破! 初出場でグループリーグを突破し欧州16強(14枚)",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410137/news_410137_1.jpg?time=20240628193448"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410046-410046-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(ヴェルティンス・アレーナ)ジョージア 2-0(前半1-0)ポルトガル[ジ]フビチャ・クバラツヘリア(2分)、ジョージズ・ミカウタゼ(57分)[ジ]A. Mekvabishvili(85分)[ポ]クリスティアーノ・ロナウド(28分)、ペドロ・ネト(44分)、ルベン・ネベス(53分)観衆:49,616人├初出場",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410046-410046-fl",
+          "publishedOn": "2024-06-28T10:34:48.000Z",
+          "wordCount": 2744,
+          "title": "ジョージアvsポルトガル 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410155-410155-fl",
+          "author": "Gekisaka",
+          "description": "『スカイ・スポーツ』などの欧州メディアは27日、イングランド代表のFWアンソニー・ゴードンがサイクリング中に負傷したことを伝えた。軽傷のためEUROには引き続き参加できるという。　現地報道によると、ゴードンは26日のリカバリートレーニングで自転車に乗った際に転倒したという。報道公開された翌日の練習では顎や手などに傷があることが確認されている。『インディペンデント』によるとDFマーク・グエ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410155-410155-fl",
+          "publishedOn": "2024-06-28T10:28:13.000Z",
+          "wordCount": 2580,
+          "title": "イングランド代表FWゴードン、自転車で転倒して負傷…大怪我回避でEURO参加継続「笑い話になっている」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410155/news_410155_1.jpg?time=20240628192813"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410054-410054-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第2節】(アレジアント・スタジアム)エクアドル 3-1(前半2-0)ジャマイカ[エ]ピエロ・インカピエ(13分)、レイ パエス(45分+4)、アラン ミンダ(90分+1)[ジ]ミカイル・アントニオ(54分)[ジ]ダミオン ロウ(39分)、マイケル・ヘクター(49分)、ジョエル ラティボディエール(80分)、カロイ アンダーソン(",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410054-410054-fl",
+          "publishedOn": "2024-06-28T09:20:02.000Z",
+          "wordCount": 2736,
+          "title": "エクアドルvsジャマイカ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409957-409957-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第2節】(リブストロング・スポーティング・パーク)ペルー 0-1(前半0-0)カナダ[カ]ジョナサン・デイビッド(74分)[ペ]ミゲル アラウホ(59分)[カ]リッチー ラリア(20分)[ペルー]先発GK 1 ペドロ ガレーセDF 5 カルロス・サンブラノ(79分→FW 10 クリスティアン クエバ",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409957-409957-fl",
+          "publishedOn": "2024-06-28T09:20:02.000Z",
+          "wordCount": 2747,
+          "title": "ペルーvsカナダ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409888-409888-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第1節】(SoFiスタジアム)ブラジル 0-0(前半0-0)コスタリカ[ブ]エデル・ミリトン(80分)[コ]フランシスコ カルボ(53分)、マンフレド・ウガルデ(58分)├優勝候補ブラジルがコパ・アメリカ初陣で大苦戦…コスタリカとまさかのスコアレスドロー├ビニシウス交代にネイマールは不満げ…ブラジル指揮官が釈明「交代で解決策を見つける",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409888-409888-fl",
+          "publishedOn": "2024-06-28T09:00:02.000Z",
+          "wordCount": 2745,
+          "title": "ブラジルvsコスタリカ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409787-409787-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第1節】(NRGスタジアム)メキシコ 1-0(前半0-0)ジャマイカ[メ]ヘラルド アルテアガ(69分)[メキシコ]先発GK 1 フリオ ゴンザレスDF 2 ホルヘ エドゥアルド サンチェスDF 3 セサル・モンテスDF 5 ヨハン・バスケスDF 6 ヘラルド アルテアガMF 4 エドソン アルバレス(30分→MF 7",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409787-409787-fl",
+          "publishedOn": "2024-06-28T09:00:02.000Z",
+          "wordCount": 2738,
+          "title": "メキシコvsジャマイカ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410135-410135-fl",
+          "author": "Gekisaka",
+          "description": "EURO2024を全試合生中継する『ABEMA』は28日、戸田和幸氏が決勝トーナメント1回戦・ドイツ代表対デンマーク代表の解説を務めると発表した。　 戸田氏は解説員として人気を博していたなか、昨季から自身初のJクラブ監督としてSC相模原を指揮していたが、今月18日付で解任されていた。ABEMAによれば、戸田氏はおよそ1年半ぶりの解説復帰になるという。　同試合は野村明弘アナウンサーが実況",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410135-410135-fl",
+          "publishedOn": "2024-06-28T07:20:00.000Z",
+          "wordCount": 2551,
+          "title": "戸田和幸氏が解説復帰!! EUROドイツvsデンマークで長谷部誠氏とW解説へ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410135/news_410135_1.jpeg?time=20240628161709"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410127-410127-fl",
+          "author": "Gekisaka",
+          "description": "コパ・アメリカを戦うアルゼンチン代表FWリオネル・メッシは、相手の標的になることを自覚している。スペイン『マルカ』では、メッシがその思いを口にしている。　すでにカナダ戦、チリ戦で白星を挙げたアルゼンチン。ともに出場したメッシは対戦相手から鋭いタックルを浴びた。カナダ戦ではDFモイーズ・ボンビートに、チリ戦ではDFガブリエル・スアソから「試合中ずっと苦しむことになる」と狙われた。　スアソ",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410127-410127-fl",
+          "publishedOn": "2024-06-28T03:10:15.000Z",
+          "wordCount": 2550,
+          "title": "コパ・アメリカで狙われるメッシ…2試合連続で強烈タックル食らう「数日様子を見たい」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410127/news_410127_1.jpg?time=20240628121015"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410117-410117-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第2節】(メルセデス・ベンツ・スタジアム)パナマ 2-1(前半1-1)アメリカ[パ]セサール ブラックマン(26分)、ホセ ファハルド(83分)[ア]フォラリン・バログン(22分)[パ]アダルベルト カラスキージャ(88分)[ア]ティモシー・ウェア(18分)[パ]E. Guerrero(45分)、E. Fariña(90",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410117-410117-fl",
+          "publishedOn": "2024-06-28T03:10:02.000Z",
+          "wordCount": 2746,
+          "title": "パナマvsアメリカ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410121-410121-fl",
+          "author": "Gekisaka",
+          "description": "[6.27 コパ・アメリカGL第2節 パナマ 2-1 アメリカ アトランタ]　コパ・アメリカのグループリーグ第2節が27日に行われた。パナマ代表とアメリカ代表の対戦は、パナマが2-1で勝利した。　初戦で黒星スタートとなったパナマと、初戦を白星で飾ったアメリカとの一戦は、序盤から激しいものになった。前半5分、アメリカはセットプレーの流れからMFウェストン・マッケニーがゴールネットを揺らす。",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410121-410121-fl",
+          "publishedOn": "2024-06-28T02:05:01.000Z",
+          "wordCount": 2722,
+          "title": "パナマがコパ・アメリカ第2節で勝利! 序盤から数的不利のアメリカから逆転に成功",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410121/news_410121_1.jpg?time=20240628110501"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410118-410118-fl",
+          "author": "Gekisaka",
+          "description": "[6.28 コパ・アメリカ2024グループリーグ第2節](ジャイアンツ・スタジアム)※10:00開始[ウルグアイ]先発GK 1 セルヒオ ロシェDF 4 ロナルド・アラウホDF 8 ナイタン・ナンデスDF 16 マティアス・オリベラDF 17 マティアス・ビーニャMF 5 マヌエル・ウガルテMF 7 ニコラス デ ラ クルスMF 11 ファクンド・ペリスト",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410118-410118-fl",
+          "publishedOn": "2024-06-28T01:02:02.000Z",
+          "wordCount": 2754,
+          "title": "ウルグアイvsボリビア スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410116-410116-fl",
+          "author": "Gekisaka",
+          "description": "MFフィル・フォーデンがEURO2024を戦うイングランド代表に合流する。26日にチーム離脱を伝えていた。　英『BBC』によると、フォーデンがチームを離脱した理由は第3子の出産に立ち会うため。26日に帰国して出産を見届けると、27日にはEUROが行われているドイツに帰国するようだ。　26日にはイングランドサッカー協会(FA)が「差し迫った家庭の事情」によるフォーデンの離脱を発表していた",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410116-410116-fl",
+          "publishedOn": "2024-06-27T22:53:12.000Z",
+          "wordCount": 2547,
+          "title": "フォーデンがイングランド代表復帰へ、第3子出産立ち合いで緊急帰国からチーム合流",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410116/news_410116_1.jpg?time=20240628075312"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410115-410115-fl",
+          "author": "Gekisaka",
+          "description": "[6.28 コパ・アメリカ2024グループリーグ第2節](メルセデス・ベンツ・スタジアム)※07:00開始[パナマ]先発GK 22 オルランド モスケーラDF 3 ホセ コルドバDF 15 エリク ダビスDF 23 アミル ムリージョDF 24 E. FariñaDF 25 ロデリック・ミラーMF 2 セサール ブラックマンMF 6 クリスティアン マルティネスMF 8",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410115-410115-fl",
+          "publishedOn": "2024-06-27T22:04:02.000Z",
+          "wordCount": 2737,
+          "title": "パナマvsアメリカ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410049-410049-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(フォルクスパルクシュタディオン)チェコ 1-2(前半0-0)トルコ[チ]トマーシュ・ソウチェク(66分)[ト]ハカン・チャルハノール(51分)、ジェンク・トスン(90分+4)[チ]アントニン・バラーク(20分)、T. Chorý(90分+8)[チ]アントニン・バラーク2(11分、20分)、パトリック・シック(34",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410049-410049-fl",
+          "publishedOn": "2024-06-27T13:30:02.000Z",
+          "wordCount": 2756,
+          "title": "チェコvsトルコ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410064-410064-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第2節】(SoFiスタジアム)ベネズエラ 1-0(前半0-0)メキシコ[ベ]サロモン・ロンドン(57分)[ベ]ナウエル フェラーレシ(35分)、ミゲル ナヴァーロ(64分)[メ]サンティアゴ・ヒメネス(39分)、アレクシス ベガ(64分)[ベネズエラ]先発GK 22 ラファエル ロモDF 2 ナウエル フェラー",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410064-410064-fl",
+          "publishedOn": "2024-06-27T13:00:01.000Z",
+          "wordCount": 2743,
+          "title": "ベネズエラvsメキシコ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410037-410037-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(コメルツバンク・アレーナ)スロバキア 1-1(前半1-1)ルーマニア[ス]オンドレイ・ドゥダ(24分)[ル]ラズバン・マリン(37分)[ス]オンドレイ・ドゥダ(90分+1)[ル]A. Burcă(45分+1)、N. Bancu(45分+3)、ゲオルゲ・プシュカシュ(88分)、E. Iordănescu(54",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410037-410037-fl",
+          "publishedOn": "2024-06-27T10:40:02.000Z",
+          "wordCount": 2747,
+          "title": "スロバキアvsルーマニア 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410038-410038-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(メルセデス・ベンツ・アレーナ)ウクライナ 0-0(前半0-0)ベルギー[ウ]アルテム・ドフビク(69分)[ベ]ヴァウト ファース(43分)観衆:54,000人└大混戦グループEは全4チームが勝ち点4フィニッシュ!得失点差で最下位ウクライナのみが非情の敗退[ウクライナ]先発GK 12 A. TrubinDF 3 オレク",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410038-410038-fl",
+          "publishedOn": "2024-06-27T09:20:01.000Z",
+          "wordCount": 2719,
+          "title": "ウクライナvsベルギー 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410071-410071-fl",
+          "author": "Gekisaka",
+          "description": "EURO2024のグループF第3節が26日に開催され、すでに首位通過を決めていたポルトガル代表は初出場のジョージア代表に0-2で敗れた。ジョージアは歴史的なEURO初白星を挙げ、3位で決勝トーナメントに進出。ポルトガルの選手や監督のコメントを欧州サッカー連盟(UEFA)の公式サイトが伝えている。　ポルトガルは前半2分、パスミスからのカウンターで先制ゴールを奪われると、後半12分にはPK",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410071-410071-fl",
+          "publishedOn": "2024-06-27T05:52:55.000Z",
+          "wordCount": 2552,
+          "title": "“ジャイキリ”許したポルトガル…選手や監督が敗因を指摘「集中力が低いまま試合に入った」「安易な気持ちで臨んではいけない」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410071/news_410071_1.jpg?time=20240627145255"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410055-410055-fl",
+          "author": "Gekisaka",
+          "description": "EURO2024のグループF第3節が26日に行われ、ジョージア代表はポルトガル代表を2-0で下した。優勝候補の一角を破り、初出場ながら決勝トーナメントに進出。選手や指揮官のコメントを欧州サッカー連盟(UEFA)の公式サイトが伝えている。　ジョージアは前半2分、カウンターからFWフビチャ・クバラツヘリアのゴールで先制すると、後半12分にはFWジョルジュ・ミカウターゼのPK弾で2-0。すで",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410055-410055-fl",
+          "publishedOn": "2024-06-27T05:30:59.000Z",
+          "wordCount": 2552,
+          "title": "初出場ジョージアがV候補撃破で16強へ! MOMのナポリFW「今日ベストプレーヤーはいなかった」指揮官「選手には16歳か17歳の時を思い出すよう伝えた」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410055/news_410055_1.jpg?time=20240627143059"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410062-410062-fl",
+          "author": "Gekisaka",
+          "description": "MFフィル・フォーデンがEURO2024参戦中のイングランド代表から一時的に離脱することになった。イギリス『BBC』が伝えている。　イングランドサッカー協会(FA)は26日に声明を出し、フォーデンが「差し迫った家庭の事情」で帰国することを発表。同メディアによると、パートナーの第3子出産に立ち会うためだという。　イングランドはグループCを1勝2分(勝ち点5)で首位通過。フォーデンは全3試",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410062-410062-fl",
+          "publishedOn": "2024-06-27T02:43:37.000Z",
+          "wordCount": 2547,
+          "title": "「差し迫った家庭の事情」フィル・フォーデンがイングランド代表を一時離脱",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410062/news_410062_1.jpg?time=20240627114337"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410052-410052-fl",
+          "author": "Gekisaka",
+          "description": "[6.27 コパ・アメリカ2024グループリーグ第2節](SoFiスタジアム)※10:00開始[ベネズエラ]先発GK 22 ラファエル ロモDF 2 ナウエル フェラーレシDF 3 ジョルダン・オソリオDF 4 ジョン・アランブルDF 15 ミゲル ナヴァーロMF 6 ヤンヘル・エレーラMF 7 ジェフェルソン サバリーノMF 10 ジェフェルソン ソテルドMF",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410052-410052-fl",
+          "publishedOn": "2024-06-26T23:52:02.000Z",
+          "wordCount": 2750,
+          "title": "ベネズエラvsメキシコ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410051-410051-fl",
+          "author": "Gekisaka",
+          "description": "EURO2024のグループリーグが26日に全日程を終え、決勝トーナメントに進出する16チームが決定した。　グループEではスロバキア代表とルーマニア代表が1-1、ウクライナ代表とベルギー代表が0-0のドロー。全4チームが勝ち点4で並び、得失点差で首位ルーマニア、2位ベルギー、3位スロバキアが突破を果たした。　グループFでは、初出場のジョージア代表が首位通過を決めていたポルトガル代表を2-",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410051-410051-fl",
+          "publishedOn": "2024-06-26T23:28:53.000Z",
+          "wordCount": 2635,
+          "title": "EURO2024のベスト16が出そろう! フランスとベルギーが決勝T1回戦でいきなり激突",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410051/news_410051_1.jpg?time=20240627082853"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410050-410050-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EUROグループF第3節 チェコ – トルコ ハンブルク]　EUROグループF最終節のチェコ代表対トルコ代表が26日に行われ、トルコが2-1で勝利した。この試合はチェコに2人の退場者が出るなどカードが乱れ飛び、イエローカードとレッドカードは合計で少なくとも21枚出された。『Opta』や『BBC』などは大会史上最多のカード数になったと報じている。　イシュトバーン・コバーチ主審は",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410050-410050-fl",
+          "publishedOn": "2024-06-26T22:42:43.000Z",
+          "wordCount": 2558,
+          "title": "控え選手だけで5人にイエロー…カード大乱発のチェコvsトルコ、EURO1試合最多記録を“ダブルスコア”で更新",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410050/news_410050_1.jpg?time=20240627074243"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410045-410045-fl",
+          "author": "Gekisaka",
+          "description": "[6.27 コパ・アメリカ2024グループリーグ第2節](アレジアント・スタジアム)※07:00開始[エクアドル]先発GK 22 アレクサンダー・ドミンゲス・カラバリDF 2 フェリックス トーレス カイセドDF 3 ピエロ・インカピエDF 6 ウィリアム・パチョDF 17 アンヘロ プレシアードMF 9 ジョン イボアMF 10 レイ パエスMF 16 ジェレ",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?410045-410045-fl",
+          "publishedOn": "2024-06-26T22:03:01.000Z",
+          "wordCount": 2731,
+          "title": "エクアドルvsジャマイカ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410047-410047-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EUROグループF第3節 ジョージア 2-0 ポルトガル ゲルゼンキルヘン]　EURO2024は26日、グループF第3節を行ない、ジョージア代表とポルトガル代表が対戦。初出場のジョージアが2-0の完封勝利を収めて大会初白星を獲得し、決勝トーナメント進出の快挙を成し遂げた。　すでに首位通過を決めているポルトガルは、第2節からFWクリスティアーノ・ロナウド、MFジョアン・パリーニ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410047-410047-fl",
+          "publishedOn": "2024-06-26T21:08:52.000Z",
+          "wordCount": 2718,
+          "title": "初出場ジョージアが快挙!! ポルトガル撃破でEURO初白星&決勝トーナメント進出!!",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410047/news_410047_1.jpg?time=20240627060852"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410048-410048-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EUROグループF第3節 チェコ 1–2 トルコ ハンブルク]　EURO2024は26日、グループリーグ最終日を迎えた。トルコ代表はチェコ代表に2-1で勝利し、2位で4大会ぶりの決勝トーナメント進出を決めた。チェコは最下位で敗退となった。　チェコは勝てばGL突破ができ、引き分け以下ならば敗退というはっきりとした状況。トルコは引き分け以上でGL突破となり、敗れても点差や他会場の",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410048-410048-fl",
+          "publishedOn": "2024-06-26T21:07:28.000Z",
+          "wordCount": 2728,
+          "title": "トルコがチャルハノール&トスン弾で4大会ぶり決勝T進出!! チェコは退場者&GK負傷交代アクシデント、GL最下位で幕",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410048/news_410048_1.jpg?time=20240627060728"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410039-410039-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EURO2024グループリーグ第3節](ヴェルティンス・アレーナ)※28:00開始[ジョージア]先発GK 25 ギオルギ・ママルダシュビリDF 2 O. KakabadzeDF 3 L. DvaliDF 4 グラム・カシアDF 14 ルカ・ロチョシュビリDF 15 ジョルジ・グヴェレシアニMF 6 G. KochorashviliMF 10 ギオル",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410039-410039-fl",
+          "publishedOn": "2024-06-26T19:25:01.000Z",
+          "wordCount": 2744,
+          "title": "ジョージアvsポルトガル スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410043-410043-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EUROグループE第3節 スロバキア 1-1 ルーマニア フランクフルト]　EURO2024(欧州選手権)は26日にグループリーグ第3節を行った。E組はスロバキア代表とルーマニア代表が対戦し、1-1で引き分けた。　E組は2試合を終えて4か国が同勝ち点3。得失点差で首位ルーマニア、2位ベルギー、3位スロバキア、4位ウクライナの順で並ぶ。いずれも決勝トーナメント進出の可能性を残す",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410043-410043-fl",
+          "publishedOn": "2024-06-26T18:26:04.000Z",
+          "wordCount": 2718,
+          "title": "ルーマニアがGL首位確定! スロバキア前半先制も追いつかれてドロー…両チームともに決勝Tへ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410043/news_410043_1.jpg?time=20240627032604"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410042-410042-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EUROグループE第3節 ウクライナ0-0ベルギー シュツットガルト]　4チームが勝ち点3で並ぶ大混戦のグループEは、最終節の2試合ともがスコアレスドロー。ルーマニア代表、ベルギー代表、スロバキア代表、ウクライナ代表の4チームが勝ち点4で並んだが、得失点差で最下位となったウクライナのみが敗退が決まった。　戦前の予想ではベルギー優位とする見方があったグループEだが、そのベルギー",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410042-410042-fl",
+          "publishedOn": "2024-06-26T18:07:04.000Z",
+          "wordCount": 2686,
+          "title": "大混戦グループEは全4チームが勝ち点4フィニッシュ!得失点差で最下位ウクライナのみが非情の敗退",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/411000/410042/news_410042_1.jpg?time=20240627030704"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410040-410040-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EURO2024グループリーグ第3節](フォルクスパルクシュタディオン)※28:00開始[チェコ]先発GK 1 J. StaněkDF 3 トマーシュ ホレシュDF 4 R. HranáčDF 18 L. KrejčíMF 5 ブラディミール・ツォウファルMF 7 アントニン・バラークMF 9 アダム・フロジェクMF 14 L. ProvodMF",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410040-410040-fl",
+          "publishedOn": "2024-06-26T17:58:01.000Z",
+          "wordCount": 2749,
+          "title": "チェコvsトルコ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410027-410027-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EURO2024グループリーグ第3節](メルセデス・ベンツ・アレーナ)※25:00開始[ウクライナ]先発GK 12 A. TrubinDF 3 オレクサンドル・スヴァトクDF 13 イリア・ザバルニーDF 16 ビタリー・ミコレンコDF 22 ミコラ マトヴィエンコDF 24 オレクサンドル ティムチクMF 14 H. SudakovMF 18 V.",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410027-410027-fl",
+          "publishedOn": "2024-06-26T15:02:01.000Z",
+          "wordCount": 2725,
+          "title": "ウクライナvsベルギー スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?410026-410026-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 EURO2024グループリーグ第3節](コメルツバンク・アレーナ)※25:00開始[スロバキア]先発GK 1 マルティン・ドゥーブラフカDF 2 ペテル・ペカリークDF 3 デニス・バブロDF 14 ミラン・シュクリニアルDF 16 ダヴィド ハンツコMF 8 オンドレイ・ドゥダMF 19 ユライ・クツカMF 22 スタニスラフ・ロボツ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?410026-410026-fl",
+          "publishedOn": "2024-06-26T14:56:01.000Z",
+          "wordCount": 2749,
+          "title": "スロバキアvsルーマニア スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409874-409874-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(エスプリ・アリーナ)アルバニア 0-1(前半0-1)スペイン[ス]フェラン・トーレス(13分)[ア]ネディム・バイラミ(66分)、M. Berisha(89分)[ス]ダニエル・ビビアン(90分)観衆:46,586人└首位通過を決めていたスペイン、ターンオーバーでアルバニアに完封勝利! 無傷の3連勝で決勝Tへ<出場メンハ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409874-409874-fl",
+          "publishedOn": "2024-06-26T14:20:01.000Z",
+          "wordCount": 2731,
+          "title": "アルバニアvsスペイン 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409950-409950-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(ラインエネルギーシュタディオン)イングランド 0-0(前半0-0)スロベニア[イ]キーラン・トリッピアー(17分)、マーク・グエヒ(68分)、フィル・フォーデン(77分)[ス]E. Janža(22分)、ジャカ・ビヨル(72分)観衆:41,536人└イングランド、スコアレスドローも首位通過…守り抜いたスロベニアも決勝Tへ<出場メ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409950-409950-fl",
+          "publishedOn": "2024-06-26T10:30:01.000Z",
+          "wordCount": 2747,
+          "title": "イングランドvsスロベニア 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409996-409996-fl",
+          "author": "Gekisaka",
+          "description": "アトレティコ・マドリーのディエゴ・シメオネ監督が25日に自身のインスタグラム(@simeone)を更新し、手術を無事に終えたことを報告した。　シメオネ監督は3月にホームで行われたUEFAチャンピオンズリーグ(欧州CL)のラウンド16第2戦のインテル戦で、FWメンフィス・デパイの劇的ゴールを喜んだ際に左膝を負傷。今回の投稿で「仕事には危険が伴う…私が一番好きなスポーツを楽しみ続けるために",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409996-409996-fl",
+          "publishedOn": "2024-06-26T10:30:00.000Z",
+          "wordCount": 2554,
+          "title": "CLでゴールを喜んだ瞬間に負傷…アトレティコのシメオネ監督が手術を報告",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409996/news_409996_1.jpg?time=20240626185602"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409952-409952-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(アリアンツ・アレーナ)デンマーク 0-0(前半0-0)セルビア[デ]ヨナス・ウィンド(27分)、モルテン・ヒュルマンド(30分)[セ]ニコラ・ミレンコビッチ(4分)、アレクサンダル・ミトロビッチ(83分)観衆:64,288人└GL最終節はスコアレス…ストイコビッチ率いるセルビアはEUROグループ敗退、デンマークは2位通過が決定<",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409952-409952-fl",
+          "publishedOn": "2024-06-26T09:30:02.000Z",
+          "wordCount": 2739,
+          "title": "デンマークvsセルビア 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409945-409945-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(ジグナル・イドゥナ・パルク)フランス 1-1(前半0-0)ポーランド[フ]キリアン・ムバッペ(56分)[ポ]ロベルト・レバンドフスキ(79分)[フ]アドリアン・ラビオ(43分)[ポ]ニコラ・ザレフスキ(24分)、パベル・ダビドビチ(89分)、カロル・シュビデルスキ(90分+2)、M. Probie",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409945-409945-fl",
+          "publishedOn": "2024-06-26T09:30:02.000Z",
+          "wordCount": 2748,
+          "title": "フランスvsポーランド 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409976-409976-fl",
+          "author": "Gekisaka",
+          "description": "フランス代表は25日、EURO2024のグループD第3節でポーランド代表と1-1で引き分けた。この結果、首位オーストリア代表に次ぐ2位で決勝トーナメントに進出。ディディエ・デシャン監督のコメントをアメリカ『ESPN』が伝えている。　この試合では、初戦のオーストリア戦で鼻骨を骨折したFWキリアン・ムバッペが2戦ぶりに復帰。後半11分にPKで先制ゴールを挙げたが、フランスは同34分にFWロ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409976-409976-fl",
+          "publishedOn": "2024-06-26T08:34:00.000Z",
+          "wordCount": 2551,
+          "title": "ムバッペのマスク着用の影響を語るフランス指揮官「彼の足取りはとても良かった。しかし…」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409976/news_409976_1.jpg?time=20240626164400"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409967-409967-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 コパ・アメリカGL第2節 チリ 0-1 アルゼンチン イーストラザフォード]　コパ・アメリカのグループA第2節が26日に開催され、前回王者のアルゼンチン代表がチリ代表から1-0の完封勝利。2連勝を飾ったアルゼンチンはグループリーグ突破を決めた。　初戦でカナダを2-0で下したアルゼンチンと、ペルーと0-0で引き分けたチリによる一戦。序盤からアルゼンチンがボールを保持して試合を進",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409967-409967-fl",
+          "publishedOn": "2024-06-26T03:10:25.000Z",
+          "wordCount": 2714,
+          "title": "アルゼンチンが2連勝でGL突破!! 両守護神が好守披露…終盤にラウタロがチリゴールをこじ開ける",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409967/news_409967_1.jpg?time=20240626121025"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409966-409966-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第2節】(ジャイアンツ・スタジアム)チリ 0-1(前半0-0)アルゼンチン[ア]ラウタロ・マルティネス(88分)[チ]ガブリエル スアソ(55分)、マウリシオ イスラ(82分)└アルゼンチンが2連勝でGL突破!! 両守護神が好守披露…終盤にラウタロがチリゴールをこじ開ける[チリ]先発GK 1 クラウディオ・ブラ",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409966-409966-fl",
+          "publishedOn": "2024-06-26T03:10:25.000Z",
+          "wordCount": 2740,
+          "title": "チリvsアルゼンチン 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409964-409964-fl",
+          "author": "Gekisaka",
+          "description": "アルヒラルに所属するブラジル代表FWネイマールがインタビューに応じたようだ。スペイン『マルカ』が伝えている。　昨夏、パリSGからサウジアラビア1部のアルヒラルに移籍したネイマールだが、10月にブラジル代表の一員として臨んだ北中米W杯南米予選のウルグアイ代表戦で負傷。膝の前十字靭帯断裂および半月板損傷と診断され、現在開催されているコパ・アメリカも欠場している。　スペイン『マルカ』によると",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409964-409964-fl",
+          "publishedOn": "2024-06-26T02:51:01.000Z",
+          "wordCount": 2551,
+          "title": "メッシを除いたら…ネイマール、ともにプレーした中で“最高の選手”の名前を挙げる",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409964/news_409964_1.jpg?time=20240626115101"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409961-409961-fl",
+          "author": "Gekisaka",
+          "description": "今大会限りでユニフォームを脱ぐこととなるドイツ代表MFトニ・クロースが、EUROの歴史の中で最多となる数字を残した。データサイト『Opta』が伝えている。　今季限りでの現役引退を表明しているクロースにとって、母国ドイツで開催されるEURO2024はプロサッカー選手として立つ最後の舞台。そして、稀代のマエストロは圧巻のパフォーマンスでドイツをけん引している。　開幕戦となったスコットランド",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409961-409961-fl",
+          "publishedOn": "2024-06-26T02:09:40.000Z",
+          "wordCount": 2558,
+          "title": "1位クロース、2位クロース、5位クロース…稀代のマエストロがEUROで残した驚異的な記録",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409961/news_409961_1.jpg?time=20240626110940"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409960-409960-fl",
+          "author": "Gekisaka",
+          "description": "フランス、オランダという強国と同居しながらも、オーストリア代表がグループD首位通過を果たした。チームを率いるラルフ・ラングニック監督も「信じられないね」と驚く結果となった。　第2節終了時点で勝ち点4のオランダが首位、同4のフランスが2位、オーストリアは勝ち点3の3位。そして25日に開催されたEURO2024グループリーグ第3節でオランダと対戦することとなった。　前半6分にオウンゴールで",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409960-409960-fl",
+          "publishedOn": "2024-06-26T01:20:53.000Z",
+          "wordCount": 2549,
+          "title": "フランス&オランダと同組もグループ首位通過…オーストリア指揮官も「信じられないね」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409960/news_409960_1.jpg?time=20240626102053"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409958-409958-fl",
+          "author": "Gekisaka",
+          "description": "グループ首位通過を決めながらも、試合後にはブーイングを浴びた。イングランド代表を率いるガレス・サウスゲイト監督は「異常な雰囲気だ」と語っている。英『スカイスポーツ』『BBC』が伝えた。　25日に開催されたEURO2024グループリーグ第3節でスロベニアと対戦したイングランドは、序盤からボールを保持して試合を進める。しかし、粘り強く対応する相手守備を攻略し切れず、決定機らしい決定機を創出",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409958-409958-fl",
+          "publishedOn": "2024-06-26T00:21:19.000Z",
+          "wordCount": 2544,
+          "title": "首位通過もブーイング…コップも投げつけられたイングランド指揮官「この環境は普通ではない」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409958/news_409958_1.jpg?time=20240626092119"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409956-409956-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 コパ・アメリカ2024グループリーグ第2節](ジャイアンツ・スタジアム)※10:00開始[チリ]先発GK 1 クラウディオ・ブラボDF 2 ガブリエル スアソDF 4 マウリシオ イスラDF 5 パウロ ディアスDF 16 リチノフスキMF 8 ダリオ オソリオMF 9 ビクトル ダヴィラMF 10 アレクシス・サンチェスMF 13 エリック・プルカ",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409956-409956-fl",
+          "publishedOn": "2024-06-25T23:52:01.000Z",
+          "wordCount": 2745,
+          "title": "チリvsアルゼンチン スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409949-409949-fl",
+          "author": "Gekisaka",
+          "description": "[6.26 コパ・アメリカ2024グループリーグ第2節](リブストロング・スポーティング・パーク)※07:00開始[ペルー]先発GK 1 ペドロ ガレーセDF 5 カルロス・サンブラノDF 15 ミゲル アラウホDF 22 アレキダサンダー・カレンスMF 6 マルコス ロペスMF 7 アンディ ポロMF 8 セルヒオ ペーニャMF 16 ウィルデル カルタヘナMF 23",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409949-409949-fl",
+          "publishedOn": "2024-06-25T23:38:01.000Z",
+          "wordCount": 2749,
+          "title": "ペルーvsカナダ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409955-409955-fl",
+          "author": "Gekisaka",
+          "description": "痛恨の敗戦となった。勝ち点を上積みできなかったオランダ代表はグループ3位での決勝トーナメント進出が決定。チームを率いるロナルド・クーマン監督は「相手に多くの隙を与えてしまった」と唇を噛んだ。　1勝1分けの勝ち点4でグループ首位に立つオランダは、最終節で3位のオーストリアと対戦。前半6分に先制を許しながらも、後半2分にFWコーディ・ガクポの得点で追い付いく。さらに14分に再びリードを許し",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409955-409955-fl",
+          "publishedOn": "2024-06-25T23:02:57.000Z",
+          "wordCount": 2549,
+          "title": "痛恨敗戦でグループ3位通過のオランダ…クーマン監督「次は強豪国との対戦になる」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409955/news_409955_1.jpg?time=20240626080257"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409954-409954-fl",
+          "author": "Gekisaka",
+          "description": "25日に開催された試合の結果により、クロアチア代表のEURO2024グループリーグ敗退が決定した。　24日に行われたグループリーグ第3節でイタリアと対戦したクロアチアは、後半10分にMFルカ・モドリッチの得点で先制する。しかし、終了間際の45+8分に同点弾を浴び、1-1の痛恨のドローに終わった。　3節終了時点でのクロアチアの勝ち点は2。各グループ3位の成績上位4チームがグループリーグ突",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409954-409954-fl",
+          "publishedOn": "2024-06-25T22:20:49.000Z",
+          "wordCount": 2547,
+          "title": "クロアチア、EURO2024グループリーグ敗退が決定…38歳モドリッチは代表引退か",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409954/news_409954_1.jpg?time=20240626072049"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409951-409951-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 EUROグループC第2節 デンマーク0-0セルビア ミュンヘン]　EURO2024(欧州選手権)は25日にグループリーグ第3節を行った。デンマーク代表とセルビア代表の対戦は0-0のドロー。2位デンマークはグループリーグ突破が、最下位セルビアは敗退が決まった。　C組は第2節終了時点でいまだグループ突破を決めた国は無し。1位イングランド(勝ち点4)、2位デンマーク(勝ち点2)、3",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409951-409951-fl",
+          "publishedOn": "2024-06-25T21:13:08.000Z",
+          "wordCount": 2693,
+          "title": "GL最終節はスコアレス…ストイコビッチ率いるセルビアはEUROグループ敗退、デンマークは2位通過が決定",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409951/news_409951_1.jpg?time=20240626061308"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409953-409953-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 EUROグループC第3節 イングランド 0-0 スロベニア ケルン]　EURO2024は25日、グループC第3節を行なった。イングランド代表対スロベニア代表はともにゴールが生まれずに0-0のドローに終わった。　勝ち点4のイングランドは他グループの結果により、すでに決勝トーナメント進出が決定。2引き分けのスロベニアは勝ち点2でグループリーグ最終節を迎えた。　立ち上がりはミスから",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409953-409953-fl",
+          "publishedOn": "2024-06-25T21:08:20.000Z",
+          "wordCount": 2714,
+          "title": "イングランド、スコアレスドローも首位通過…守り抜いたスロベニアも決勝Tへ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409953/news_409953_1.jpg?time=20240626060820"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409941-409941-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 EURO2024グループリーグ第3節](ラインエネルギーシュタディオン)※28:00開始[イングランド]先発GK 1 ジョーダン・ピックフォードDF 2 カイル・ウォーカーDF 5 ジョン・ストーンズDF 6 マーク・グエヒDF 12 キーラン・トリッピアーMF 4 デクラン・ライスMF 10 ジュード・ベリンガムMF 16 コナー",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409941-409941-fl",
+          "publishedOn": "2024-06-25T19:05:02.000Z",
+          "wordCount": 2749,
+          "title": "イングランドvsスロベニア スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409943-409943-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 EUROグループD第3節 フランス 1-1 ポーランド ドルトムント]　EURO2024(欧州選手権)は25日、グループリーグ第3節を行い、D組のフランス代表とポーランド代表が1-1で引き分けた。フランスは後半11分、鼻骨骨折から先発復帰したFWキリアン・ムバッペがEURO初ゴールとなる先制点をPKで記録したが、ポーランドも同34分にFWロベルト・レバンドフスキがPKを決めて",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409943-409943-fl",
+          "publishedOn": "2024-06-25T18:49:11.000Z",
+          "wordCount": 2722,
+          "title": "先発復帰のムバッペvsレバンドフスキが競演PK弾!! V候補フランスは連続ドローでGL2位通過",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409943/news_409943_1.jpg?time=20240626034911"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409942-409942-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 EUROグループD第3節 オランダ2-3オーストリア ベルリン]　EURO2024(欧州選手権)のグループD第3節で、オーストリア代表がオランダ代表を3-2で下し、グループリーグ1位通過を決めた。　1勝1分で首位のオランダと、1勝1敗で3位のオーストリアの対戦。ともに勝てばグループリーグ突破を決めることができる一戦となった。　立ち上がりに思わぬ形でスコアが動く。前半6分、オー",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409942-409942-fl",
+          "publishedOn": "2024-06-25T18:07:50.000Z",
+          "wordCount": 2706,
+          "title": "オーストリア抜群の決定力!オランダに競り勝ちグループDを逆転1位通過!!",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409942/news_409942_1.jpg?time=20240626030750"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409946-409946-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 EURO2024グループリーグ第3節](アリアンツ・アレーナ)※28:00開始[デンマーク]先発GK 1 カスパー・シュマイケルDF 2 ヨアキム・アンデルセンDF 3 ヤニク・ベスターゴーアDF 6 アンドレアス・クリステンセンMF 5 ヨアキム・メーレMF 10 クリスティアン・エリクセンMF 18 アレクサンダー バーMF 21 モルテン・ヒ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409946-409946-fl",
+          "publishedOn": "2024-06-25T17:57:01.000Z",
+          "wordCount": 2747,
+          "title": "デンマークvsセルビア スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409934-409934-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 EURO2024グループリーグ第3節](ジグナル・イドゥナ・パルク)※25:00開始[フランス]先発GK 16 マイク・メニャンDF 4 ダヨ・ウパメカノDF 5 ジュール・クンデDF 17 ウィリアン・サリバDF 22 テオ・エルナンデスMF 8 オーレリアン・チュアメニMF 13 エンゴロ・カンテMF 14 アドリアン・ラビオFW 10",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409934-409934-fl",
+          "publishedOn": "2024-06-25T16:05:02.000Z",
+          "wordCount": 2749,
+          "title": "フランスvsポーランド スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409933-409933-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 EURO2024グループリーグ第3節](オリンピアシュタディオン・ベルリン)※25:00開始[オランダ]先発GK 1 バルト・フェルブルッヘンDF 2 L. GeertruidaDF 4 フィルヒル・ファン・ダイクDF 5 ナタン・アケDF 6 ステファン・デ・フライMF 14 T. ReijndersMF 16 J. VeermanMF 24 イェ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409933-409933-fl",
+          "publishedOn": "2024-06-25T16:05:02.000Z",
+          "wordCount": 2749,
+          "title": "オランダvsオーストリア スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409936-409936-fl",
+          "author": "Gekisaka",
+          "description": "EURO2024は25日、グループリーグ第3節を行い、ここまで1勝1分のフランス代表はグループ首位通過をかけてポーランド代表と対戦する。日本時間26日午前1時のキックオフを前にスターティングメンバーが発表され、初戦のオーストリア戦(○1-0)で鼻骨を骨折し、第2戦オランダ戦(△0-0)を欠場していたFWキリアン・ムバッペが早くも先発復帰した。　一方、ポーランドも負傷明けのため2戦ともベ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409936-409936-fl",
+          "publishedOn": "2024-06-25T16:00:40.000Z",
+          "wordCount": 2755,
+          "title": "鼻骨骨折のムバッペが先発復帰!! レバンドフスキも今大会初先発で強力エース対決へ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409936/news_409936_1.jpeg?time=20240626010040"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409774-409774-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第2節】(ジグナル・イドゥナ・パルク)トルコ 0-3(前半0-2)ポルトガル[ポ]ベルナルド・シウバ(21分)、オウンゴール(28分)、ブルーノ・フェルナンデス(56分)[ト]A. Bardakcı(25分)、S. Akaydin(42分)、ゼキ・チェリク(42分)[ポ]ラファエル・レオン(39分)、ジョアン・パリーニャ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409774-409774-fl",
+          "publishedOn": "2024-06-25T15:00:02.000Z",
+          "wordCount": 2743,
+          "title": "トルコvsポルトガル 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409674-409674-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第2節】(オリンピアシュタディオン・ベルリン)ポーランド 1-3(前半1-1)オーストリア[ポ]クシシュトフ・ピョンテク(30分)[オ]G. Trauner(9分)、クリストフ・バウムガルトナー(66分)、マルコ・アルナウトビッチ(78分)[ポ]B. Slisz(53分)、ヤクブ・モデル(62分)、ロベルト・レバンドフス",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409674-409674-fl",
+          "publishedOn": "2024-06-25T14:50:01.000Z",
+          "wordCount": 2752,
+          "title": "ポーランドvsオーストリア 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409831-409831-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(メルセデス・ベンツ・アレーナ)スコットランド 0-1(前半0-0)ハンガリー[ハ]K. Csoboth(90分+10)[ス]スコット・マクトミネイ(50分)[ハ]C. Styles(18分)、ビリ・オルバン(26分)、アンドラーシュ・シェーファー(44分)、L. Kleinheisler(75分)、K. Csoboth(9",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409831-409831-fl",
+          "publishedOn": "2024-06-25T14:30:02.000Z",
+          "wordCount": 2744,
+          "title": "スコットランドvsハンガリー 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409929-409929-fl",
+          "author": "Gekisaka",
+          "description": "コスタリカ代表は24日、コパ・アメリカの初戦でブラジル代表と対戦して0-0で引き分けた。コスタリカのGKパトリック・セケイラ(イビサ)はクリーンシートの立役者として、この試合の最優秀選手賞を受賞。スペイン3部に所属する選手の活躍に各国メディアが注目している。　セケイラは2022年9月の国際親善試合・韓国戦で味方GKの退場を受けてデビューを果たしたが、2008年から守護神として君臨したG",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409929-409929-fl",
+          "publishedOn": "2024-06-25T14:06:00.000Z",
+          "wordCount": 2554,
+          "title": "ブラジル相手にクリーンシート!! スペイン3部所属のコスタリカ代表新守護神に脚光",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409929/news_409929_1.jpg?time=20240625221223"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409906-409906-fl",
+          "author": "Gekisaka",
+          "description": "ブラジル代表は25日、コパ・アメリカ初戦でコスタリカ代表と対戦し、スコアレスドローに終わった。活躍が期待されたFWビニシウス・ジュニオールが後半途中で交代すると、負傷中のため現地で観戦していたFWネイマールは不満げなリアクションを見せていた。　ブラジルはコスタリカ戦で19本のシュートを放つもゴールネットは揺らせず、無得点のままタイムアップとなった。その中で得点源のビニシウスは後半36分",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409906-409906-fl",
+          "publishedOn": "2024-06-25T12:46:20.000Z",
+          "wordCount": 2569,
+          "title": "ビニシウス交代にネイマールは不満げ…ブラジル指揮官が釈明「交代で解決策を見つけるしかなかった」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409906/news_409906_1.jpg?time=20240625214620"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409881-409881-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第1節】(NRGスタジアム)コロンビア 2-1(前半2-0)パラグアイ[コ]ダニエル・ムニョス(32分)、ジェフェルソン・レルマ(42分)[パ]フリオ・エンシソ(69分)[コ]ジェフェルソン・レルマ(14分)[パ]G. Velázquez(53分)、アドリアン クーバス(78分)、D. Garnero(90分+4)<出場メンハ",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409881-409881-fl",
+          "publishedOn": "2024-06-25T12:10:02.000Z",
+          "wordCount": 2749,
+          "title": "コロンビアvsパラグアイ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409925-409925-fl",
+          "author": "Gekisaka",
+          "description": "FW伊東純也とFW中村敬斗が所属するスタッド・ランスは25日、ルカ・エルスネル氏が来季から監督に就任することを発表した。　スタッド・ランスは今季終盤にウィリアム・スティル監督の即時退任を発表し、最後の3試合はサンバ・ディアワラコーチが臨時監督として指揮を執った。その後新監督の選定を進めていたが、今季までル・アーブルを率いた41歳のエルスネル氏が後任に決定した。　エルスネル氏はこれまでコ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409925-409925-fl",
+          "publishedOn": "2024-06-25T11:20:00.000Z",
+          "wordCount": 2558,
+          "title": "伊東&中村スタッド・ランスの新監督が決定!! 41歳ルカ・エルスネル氏が指揮へ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409925/news_409925_1.jpg?time=20240625201630"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409920-409920-fl",
+          "author": "Gekisaka",
+          "description": "レアル・マドリーは25日、DFナチョ・フェルナンデス(34)が2023-24シーズンをもって退団することを発表した。　ナチョは2001年にR・マドリーの育成組織に加入し、2010-11シーズンにラ・リーガデビューを果たした。以降もR・マドリー一筋でプロキャリアを歩み続け、今季はキャプテンを務めてリーグ優勝と欧州制覇を導いた。クラブでは公式戦364試合に出場し、26個のタイトルを獲得した",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409920-409920-fl",
+          "publishedOn": "2024-06-25T10:58:00.000Z",
+          "wordCount": 2550,
+          "title": "R・マドリーが主将DFナチョの退団を発表…ペレス会長「すべてのファンから親しまれ、認められ、称えられてきた」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409920/news_409920_1.jpg?time=20240625194759"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409916-409916-fl",
+          "author": "Gekisaka",
+          "description": "欧州サッカー連盟(UEFA)は24日、スコットランド代表対ハンガリー代表での負傷者対応について「遅れはなかった」と声明を発表した。『BBC』や『トーク・スポーツ』などが伝えている。　この試合では後半23分、ハンガリーのFWバルナバース・バルガが相手選手と激しく衝突し、スタッフが目隠しのため布を広げて取り囲むなか治療が行われた。バルガはそのまま病院に搬送され、健康状態に問題はないが顔の複",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409916-409916-fl",
+          "publishedOn": "2024-06-25T10:15:00.000Z",
+          "wordCount": 2547,
+          "title": "UEFAがハンガリーFWバルガの負傷対応に声明…選手から疑問の声も「遅れはなかった」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409916/news_409916_1.jpg?time=20240625191349"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409902-409902-fl",
+          "author": "Gekisaka",
+          "description": "アジアサッカー連盟(AFC)は25日、北中米ワールドカップアジア最終予選でmolten製の「ヴァンタッジオ5000」が公式球として使用されることを発表した。アジア2次予選まではホームの各協会がマッチボールを用意していた。　AFCはmoltenとオフィシャルグローバルパートナーを締結しており、アジア最終予選では「ヴァンタッジオ5000」のオリジナルデザインボールを採用する。AFCは公式サ",
+          "link": "https://web.gekisaka.jp/news/worldcup/detail/?409902-409902-fl",
+          "publishedOn": "2024-06-25T07:46:09.000Z",
+          "wordCount": 2558,
+          "title": "AFCが北中米W杯アジア最終予選の公式球「ヴァンタッジオ5000」を発表",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409902/news_409902_1.jpeg?time=20240625164609"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409901-409901-fl",
+          "author": "Gekisaka",
+          "description": "フランス代表のディディエ・デシャン監督は24日、FWキリアン・ムバッペが翌日のEURO2024グループD最終節・ポーランド戦への出場を希望していることを明かした。『ESPN』が伝えている。　ムバッペは17日の初戦・オーストリア戦(○1-0)で鼻を骨折し、21日のGL第2節・オランダ戦(△0-0)はベンチから試合を見届けた。ただ、翌日の非公開練習試合では2ゴール2アシストを記録したという",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409901-409901-fl",
+          "publishedOn": "2024-06-25T07:16:00.000Z",
+          "wordCount": 2549,
+          "title": "鼻骨骨折のムバッペがポーランド戦出場か…デシャン監督「復帰の準備ができている」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409901/news_409901_1.jpg?time=20240625160942"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409895-409895-fl",
+          "author": "Gekisaka",
+          "description": "バルセロナのフベニールA(U-19)に所属するDF高橋センダゴルタ仁胡(18)が今季限りで退団する見通しとなった。スペイン『スポルト』が報じている。　日本人の母親とアルゼンチン人の父親を持ち、幼少期からスペインで育った高橋。2019年にバルセロナのアカデミーに加入し、昨年夏からフベニールAでプレーしていた。　国際舞台では2021年にU-16スペイン代表に招集されたが、2022年に飛び級",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409895-409895-fl",
+          "publishedOn": "2024-06-25T05:59:13.000Z",
+          "wordCount": 2553,
+          "title": "U-19日本代表DFがバルセロナ退団へ…スペイン紙「最も辛い瞬間の1つ」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409895/news_409895_1.jpg?time=20240625145913"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409889-409889-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 コパ・アメリカGL第1節 ブラジル 0-0 コスタリカ イングルウッド]　コパ・アメリカのグループD第1節が25日に開催され、ブラジル代表とコスタリカ代表は0-0で引き分けた。第2節は29日に行われ、ブラジルはパラグアイ代表、コスタリカはコロンビア代表と戦う。　今大会、負傷のFWネイマールを欠くブラジルは開始から相手ゴールを襲うが、決め切れない時間が続いた。　前半30分には左",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409889-409889-fl",
+          "publishedOn": "2024-06-25T03:23:51.000Z",
+          "wordCount": 2716,
+          "title": "優勝候補ブラジルがコパ・アメリカ初陣で大苦戦…コスタリカとまさかのスコアレスドロー",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409889/news_409889_1.jpg?time=20240625122351"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409887-409887-fl",
+          "author": "Gekisaka",
+          "description": "フェイエノールトに所属する日本代表FW上田綺世の妻でモデルの由布菜月さんが23日、自身のインスタグラム(@yufudayo)を更新し、夫と一緒に知人の結婚式に出席したことを報告した。　2人が出席したのは、昨年に高校時代の同級生との結婚を発表したモデル・田久保夏鈴さんの結婚式。由布さんは「本当におめでとう!! 初めて2人に会ったときから今もずっと憧れです」と綴り、披露宴の席で上田とピース",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409887-409887-fl",
+          "publishedOn": "2024-06-25T02:39:35.000Z",
+          "wordCount": 2557,
+          "title": "「やばい」「きゅんとした」「最後の写真が尊い」上田綺世のモデル妻が披露した2ショットに絶賛相次ぐ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409887/news_409887_1.jpg?time=20240625113935"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409880-409880-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 コパ・アメリカ2024グループリーグ第1節](SoFiスタジアム)※10:00開始[ブラジル]先発GK 1 アリソン・ベッカーDF 2 ダニーロDF 3 エデル・ミリトンDF 4 マルキーニョスDF 16 ギレルメ アラナMF 5 ブルーノ・ギマランイスMF 8 ルーカス・パケタMF 10 ロドリゴ・ゴエスMF 11 ラフィーニャMF 15",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409880-409880-fl",
+          "publishedOn": "2024-06-25T02:20:02.000Z",
+          "wordCount": 2754,
+          "title": "ブラジルvsコスタリカ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409884-409884-fl",
+          "author": "Gekisaka",
+          "description": "クロアチア代表MFルカ・モドリッチが24日に行われたEURO2024グループB第3節のイタリア代表戦(△1-1)後、「サッカーは残酷」と落胆のコメントを残した。欧州サッカー連盟(UEFA)の公式サイトが伝えている。　モドリッチはグループリーグ突破を懸けた大一番で3試合連続のスタメン出場を果たすと、後半10分にこぼれ球を押し込み、先制ゴールを奪取。38歳289日でEURO史上最年長得点者",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409884-409884-fl",
+          "publishedOn": "2024-06-25T01:05:28.000Z",
+          "wordCount": 2549,
+          "title": "「サッカーは残酷」38歳モドリッチ、大会最年長ゴールもGL突破に黄信号…代表での進退は「今は話す時期ではない」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409884/news_409884_1.jpg?time=20240625100528"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409873-409873-fl",
+          "author": "Gekisaka",
+          "description": "[6.25 コパ・アメリカ2024グループリーグ第1節](NRGスタジアム)※07:00開始[コロンビア]先発GK 12 カミロ バルガスDF 3 ジョン・ルクミDF 17 ホアン・モヒカDF 21 ダニエル・ムニョスDF 23 ダビンソン・サンチェスMF 6 リカルド リオスMF 11 ジョン アリアスMF 16 ジェフェルソン・レルマFW 7 ルイス・デ",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409873-409873-fl",
+          "publishedOn": "2024-06-24T22:20:02.000Z",
+          "wordCount": 2752,
+          "title": "コロンビアvsパラグアイ スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409838-409838-fl",
+          "author": "Gekisaka",
+          "description": "【コパ・アメリカ2024グループリーグ第1節】(AT&Tスタジアム)アメリカ 2-0(前半2-0)ボリビア[ア]クリスティアン・プリシッチ(3分)、フォラリン・バログン(44分)[ア]ウェストン・マッケニー(49分)[ボ]レオネル フスティニアーノ(27分)、ルイス ハキン(31分)、Jesús Sagredo(90分+2)└開催国アメリカがコパ・アメリカ快勝スタ",
+          "link": "https://web.gekisaka.jp/news/copaamerica/detail/?409838-409838-fl",
+          "publishedOn": "2024-06-24T21:50:01.000Z",
+          "wordCount": 2749,
+          "title": "アメリカvsボリビア 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409877-409877-fl",
+          "author": "Gekisaka",
+          "description": "[6.24 EUROグループB第3節 アルバニア 0-1 スペイン デュッセルドルフ]　EURO2024のグループB第3節が24日に開催され、すでに首位通過を決めていたスペイン代表は3位アルバニア代表に1-0で勝利した。　前半13分、FWダニ・オルモがペナルティエリア右に綺麗なスルーパスを通し、マークを振り切ったFWフェラン・トーレスが左足でシュート。左ポストの内側を叩いてネットが揺れ、",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409877-409877-fl",
+          "publishedOn": "2024-06-24T21:35:42.000Z",
+          "wordCount": 2692,
+          "title": "首位通過を決めていたスペイン、ターンオーバーでアルバニアに完封勝利! 無傷の3連勝で決勝Tへ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409877/news_409877_1.jpg?time=20240625063542"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409876-409876-fl",
+          "author": "Gekisaka",
+          "description": "[6.24 EUROグループB第3節 クロアチア1-1イタリア ライプツィヒ]　EURO2024(欧州選手権)は24日にグループリーグ第3節を行った。B組はクロアチア代表とイタリア代表が対戦し、1-1のドロー。クロアチアは後半10分にMFルカ・モドリッチがEURO史上最年長ゴールで先制点を挙げるも、イタリアが試合終了間際にMFマッティア・ザッカーニの同点ゴールで追いついた。イタリアはグル",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409876-409876-fl",
+          "publishedOn": "2024-06-24T21:10:44.000Z",
+          "wordCount": 2703,
+          "title": "イタリアが試合終了間際弾でEUROグループ2位通過! クロアチアはモドリッチEURO史上最年長弾も追いつかれる",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409876/news_409876_1.jpg?time=20240625061044"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409870-409870-fl",
+          "author": "Gekisaka",
+          "description": "[6.24 EURO2024グループリーグ第3節](エスプリ・アリーナ)※28:00開始[アルバニア]先発GK 23 トーマス・ストラコシャDF 2 イバン・バジウDF 3 M. MitajDF 5 アルリンド アイェティDF 6 ベラト・ジムシティMF 9 J. AsaniMF 10 ネディム・バイラミMF 14 カジム ラチMF 20 イルベル・ラマ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409870-409870-fl",
+          "publishedOn": "2024-06-24T18:04:02.000Z",
+          "wordCount": 2734,
+          "title": "アルバニアvsスペイン スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409871-409871-fl",
+          "author": "Gekisaka",
+          "description": "[6.24 EURO2024グループリーグ第3節](レッドブル・アレーナ)※28:00開始[クロアチア]先発GK 1 ドミニク リヴァコビッチDF 2 ヨシプ・スタニシッチDF 3 マリン・ポングラチッチDF 4 ヨシュコ・グバルディオールDF 6 ヨシプ シュタロMF 8 マテオ・コバチッチMF 10 ルカ・モドリッチMF 11 マルセロ・ブロゾヒ",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409871-409871-fl",
+          "publishedOn": "2024-06-24T17:56:02.000Z",
+          "wordCount": 2746,
+          "title": "クロアチアvsイタリア スタメン発表",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409868-409868-fl",
+          "author": "Gekisaka",
+          "description": "バイエルンに9年間在籍するドイツ代表MFヨシュア・キミッヒに対し、5つのビッグクラブが関心を寄せているようだ。英『ミラー』や『メトロ』が伝えた。　バイエルンとキミッヒの現行の契約は25年までとなっているが、契約延長には至っていない。来年になればフリーで退団する可能性があり、契約延長を望むバイエルンも今夏の売却には前向きと見られている。『スカイドイツ』によると、キミッヒがバイエルンと合意",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409868-409868-fl",
+          "publishedOn": "2024-06-24T13:36:09.000Z",
+          "wordCount": 2550,
+          "title": "バイエルンは売却に前向きか…ドイツ代表MFキミッヒに関心寄せる5つのビッグクラブ",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409868/news_409868_1.jpg?time=20240624223609"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409866-409866-fl",
+          "author": "Gekisaka",
+          "description": "バイエルンがマンチェスター・シティのポルトガル代表MFベルナルド・シウバ獲得に興味を示しているようだ。英『デイリースター』が伝えた。　B・シウバとマンチェスター・Cの現行の契約は26年までとなっており、バイエルンは5000万ポンド(約101億円)の契約解除条項を発動させて獲得に動く可能性があるという。バイエルンの新指揮となったビンセント・コンパニ監督は、かつてマンチェスター・CでB・シ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409866-409866-fl",
+          "publishedOn": "2024-06-24T12:59:00.000Z",
+          "wordCount": 2553,
+          "title": "ターゲットはマンCの元同僚…バイエルン・コンパニ新監督が考える“完璧な補強”",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409866/news_409866_1.jpg?time=20240624205935"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409864-409864-fl",
+          "author": "Gekisaka",
+          "description": "ザルツブルク(オーストリア1部)が24日、サンフレッチェ広島MF川村拓夢の完全移籍加入を発表した。契約期間は28年までの4年間となり、背番号は16を着けることとなる。　ザルツブルクの日本人選手の獲得は三都主アレサンドロ氏、宮本恒靖氏、FW南野拓実、FW奥川雅也に続いて5人目。公式インスタグラム(@fcredbullsalzburg)や公式X(@@FCRBS_en)では、ソファに座ってポ",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409864-409864-fl",
+          "publishedOn": "2024-06-24T11:45:17.000Z",
+          "wordCount": 2572,
+          "title": "MF川村拓夢加入を歓迎するザルツブルクの“公式イラスト”にファン突っ込み「なんで」「惜しい」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409864/news_409864_1.jpg?time=20240624204517"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409863-409863-fl",
+          "author": "Gekisaka",
+          "description": "マンチェスター・ユナイテッドは今夏の移籍市場で大幅なチーム再編成を予定しており、売却対象外が伝えられる7選手以外へのオファーには耳を傾ける準備があるようだ。英『ミラー』が伝えた。　マンチェスター・Uは今季、プレミアリーグではクラブワーストとなる8位に終わり、公式戦での総失点もクラブワーストを更新。FA杯決勝でマンチェスター・Cを下してタイトルを獲得し、最後の最後で意地を見せたものの、不",
+          "link": "https://web.gekisaka.jp/news/world/detail/?409863-409863-fl",
+          "publishedOn": "2024-06-24T10:47:20.000Z",
+          "wordCount": 2558,
+          "title": "残留望むラッシュフォードも「退団可」…マンU、売却対象外リストに名を連ねる7選手",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409863/news_409863_1.jpg?time=20240624194720"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409828-409828-fl",
+          "author": "Gekisaka",
+          "description": "【EURO2024グループリーグ第3節】(コメルツバンク・アレーナ)スイス 1-1(前半1-0)ドイツ[ス]ダン・エンドイェ(28分)[ド]ニクラス・フュルクルク(90分+2)[ス]ダン・エンドイェ(25分)、グラニト・ジャカ(66分)、シルバン・ビドマー(81分)[ド]ヨナタン・ター(38分)観衆:46,685人├“スイスのジャガー”に先制被弾も…開",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409828-409828-fl",
+          "publishedOn": "2024-06-24T08:30:02.000Z",
+          "wordCount": 2750,
+          "title": "スイスvsドイツ 試合記録",
+          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409853-409853-fl",
+          "author": "Gekisaka",
+          "description": "ドイツ代表のユリアン・ナーゲルスマン監督が23日のスイス戦後、「今後のことを考えると完勝の4-0より、終盤に追いついた1-1の方がいい」とコメントした。『スカイ・スポーツ・ドイツ』が伝えている。　ドイツは2連勝で迎えたグループA最終節でカウンターから先制を許すと、0-1のまま後半アディショナルタイムを迎えた。それでも後半45+2分、クロスからFWニクラス・フュルクルクがヘディングシュー",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409853-409853-fl",
+          "publishedOn": "2024-06-24T06:08:20.000Z",
+          "wordCount": 2547,
+          "title": "土壇場ドローのドイツ代表指揮官「今後を考えると完勝の4-0より1-1の方がいい」",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409853/news_409853_1.jpg?time=20240624150820"
+        },
+        {
+          "id": "https://web.gekisaka.jp/news/detail/?409852-409852-fl",
+          "author": "Gekisaka",
+          "description": "スイス代表のMFグラニト・ジャカが23日、EURO2024グループA最終節・ドイツ代表戦で通算5回目のプレーヤー・オブ・ザ・マッチ(POTM)に輝いた。　スイスは引き分け以上でグループリーグ突破が決まる状況で、開催国のドイツと対戦。後半アディショナルタイムに同点弾を許したが、1-1のドローで勝ち点1を積み上げて2位通過を決めた。ジャカは3試合連続のフル出場となり、ミドルシュートでゴール",
+          "link": "https://web.gekisaka.jp/news/euro/detail/?409852-409852-fl",
+          "publishedOn": "2024-06-24T05:43:55.000Z",
+          "wordCount": 2549,
+          "title": "ジャカがEURO通算5回目のPOTM選出!! 1位タイのイニエスタ&C・ロナウドと1回差に迫る",
+          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/410000/409852/news_409852_1.jpg?time=20240624144355"
+        },
+        {
           "id": "https://web.gekisaka.jp/news/detail/?409671-409671-fl",
           "author": "Gekisaka",
           "description": "[6.21 EURO2024グループリーグ第2節](オリンピアシュタディオン・ベルリン)※25:00開始[ポーランド]先発GK 1 ボイチェフ・シュチェスニーDF 3 パベル・ダビドビチDF 5 ヤン・ベドナレクDF 14 ヤクブ・キビオルMF 6 J. PiotrowskiMF 10 ピオトル・ジエリンスキMF 19 プジェミスワフ フランコ",
@@ -2604,926 +3554,6 @@
           "wordCount": 2618,
           "title": "オランダ代表がEURO2024の最終メンバー26名を発表! 本大会でフランス代表らと対戦へ",
           "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408197/news_408197_1.jpg?time=20240530135751"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408192-408192-fl",
-          "author": "Gekisaka",
-          "description": "[5.29 ECL決勝 オリンピアコス 1-0 フィオレンティーナ]　オリンピアコス(ギリシャ)がUEFAヨーロッパカンファレンスリーグ(ECL)初優勝を飾った。29日に行われた決勝でフィオレンティーナ(イタリア)と対戦し、1-0で勝利。クラブ史上初の欧州主要タイトルを手にした。　ギリシャ・アテネにあるOPAPアレーナで開催されたファイナル。スコアレスで90分が終了すると、延長後半11分",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408192-408192-fl",
-          "publishedOn": "2024-05-30T00:50:57.000Z",
-          "wordCount": 2571,
-          "title": "オリンピアコスが120分の激闘を制してECL初優勝! フィオレンティーナはまたも頂点に届かず",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408192/news_408192_1.jpg?time=20240530095057"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408190-408190-fl",
-          "author": "Gekisaka",
-          "description": "バイエルンは29日、バーンリーのビンセント・コンパニ監督(38)が新指揮官に就任することを発表した。クラブ公式サイトによると、2027年までの3年契約となる。　コンパニ監督は現役時代にセンターバックを主戦場に、マンチェスター・シティやベルギー代表で活躍。2019年夏に選手兼任監督として、プロキャリアを始めた古巣アンデルレヒトに復帰した。その後、2020年夏に現役を引退して監督業に専念。",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408190-408190-fl",
-          "publishedOn": "2024-05-29T23:55:13.000Z",
-          "wordCount": 2570,
-          "title": "バイエルン新指揮官はバーンリーのコンパニ監督に決定「本当に光栄」「自分らしさを貫く」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408190/news_408190_1.jpg?time=20240530085513"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408180-408180-fl",
-          "author": "Gekisaka",
-          "description": "[5.29 国際親善試合 ソシエダ 2-0 東京V 国立]　初めての国立競技場でのプレーは48分間にとどまったものの、在籍2シーズン目を迎えたソシエダとの凱旋ツアーは充実したものになったようだ。試合後、報道陣の取材に応じたMF久保建英は「チームメートの旅の疲れなど不安もあったけど、いつもやっている自分たちのサッカーをお客さんに見せられたと思う」と満足そうに振り返った。　久保にとってはスペ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408180-408180-fl",
-          "publishedOn": "2024-05-29T14:19:16.000Z",
-          "wordCount": 2587,
-          "title": "国立凱旋ツアーに充実感にじませた久保建英、東京Vの奮闘に「みんな体力がすごいなと」「代表でも学んでいけたら」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408180/news_408180_1.jpg?time=20240529231916"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408174-408174-fl",
-          "author": "Gekisaka",
-          "description": "[5.29 国際親善試合 ソシエダ 2-0 東京V 国立]　日本ツアーで来日中のソシエダが29日、国立競技場で東京ヴェルディと対戦し、2-0で勝利した。初めて国立のピッチに立ったMF久保建英は右ウイングで後半3分までプレー。東京VはJ1リーグ戦主力の大半が欠場する中、普段は出場機会の少ない若手選手たちがスペインの強豪相手に奮闘を見せた。　ソシエダは4-3-3のシステム。GKはウナイ・マレ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408174-408174-fl",
-          "publishedOn": "2024-05-29T14:08:09.000Z",
-          "wordCount": 2632,
-          "title": "久保建英は48分間プレー! ミドル2発で国立沸かせたソシエダ、若手奮闘の東京Vに勝利",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408174/news_408174_1.jpg?time=20240529230809"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408177-408177-fl",
-          "author": "Gekisaka",
-          "description": "バルセロナから解任されたシャビ・エルナンデス監督が次期指揮官について「苦しむことになるだろう」と語った。イギリス『BBC』が報じている。　シャビ監督は今年1月にシーズン終了後の退任を表明したが、そこからチームの成績が上向いたこともあり、4月に来季続投で合意。ところが、今月に入ってクラブの財政難に関する発言がジョアン・ラポルタ会長の怒りを買ったと報じられ、急転直下の解任に至った。　バルセ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408177-408177-fl",
-          "publishedOn": "2024-05-29T13:18:55.000Z",
-          "wordCount": 2570,
-          "title": "バルセロナから解任されたシャビが警告「新監督に告ぐ。 君は…」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408177/news_408177_1.jpg?time=20240529221855"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408175-408175-fl",
-          "author": "Gekisaka",
-          "description": "バルセロナは29日、ハンジ・フリック氏(59)が新監督に就任することを発表した。クラブ公式サイトによると、契約期間は2026年6月30日までの2シーズンとなる。　フリック氏はドイツ代表で長期政権を築いたヨアヒム・レーブ氏の下、アシスタントコーチとして研鑽を積み、2019年6月にバイエルンのアシスタントコーチに就任。同年11月にニコ・コバチ氏の後任としてチームを託されると、2019-20",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408175-408175-fl",
-          "publishedOn": "2024-05-29T13:16:44.000Z",
-          "wordCount": 2568,
-          "title": "バルセロナがハンジ・フリック氏の新監督就任を発表! 契約期間は2026年6月までの2シーズン",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408175/news_408175_1.jpg?time=20240529221644"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408176-408176-fl",
-          "author": "Gekisaka",
-          "description": "ソシエダMF久保建英は国立競技場で行われた東京ヴェルディとの国際親善試合で、チーム内で最も早い後半3分に途中交代した。試合後、報道陣の取材に応じた久保によると、古傷の右太もも裏に違和感があったため、自ら交代を申し出たという。　久保は「ちょっともも裏が痛くて、でも監督もせっかくみんな(観客)が来ているので後半までは引っ張ろうと話をした」と交代の経緯を説明。その一方で「怪我をする前に交代し",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408176-408176-fl",
-          "publishedOn": "2024-05-29T13:12:46.000Z",
-          "wordCount": 2568,
-          "title": "久保建英、後半3分の途中交代はもも裏違和感「怪我をする前に交代した」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408176/news_408176_1.jpg?time=20240529221246"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408079-408079-fl",
-          "author": "Gekisaka",
-          "description": "【ラ・リーガ第38節】(ラモン・サンチェス・ピスファン)セビージャ 1-2(前半1-1)バルセロナ[セ]ユセフ・エン・ネシリ(31分)[バ]ロベルト・レバンドフスキ(15分)、フェルミン・ロペス(59分)[セ]キケ サラス(36分)、ルーカス・オカンポス(90分+3)[バ]ジョアン・カンセロ(49分)観衆:34,888人[セビーシ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408079-408079-fl",
-          "publishedOn": "2024-05-29T12:40:01.000Z",
-          "wordCount": 2735,
-          "title": "セビージャvsバルセロナ 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408170-408170-fl",
-          "author": "Gekisaka",
-          "description": "マンチェスター・ユナイテッドのエリック・テン・ハフ監督が来季からリバプールを率いるアルネ・スロット監督を皮肉った。イギリス『ミラー』が伝えている。　今季限りでユルゲン・クロップ監督が退任となるリバプールは、20日にフェイエノールトのアルネ・スロット監督と合意に至ったことを発表。6月1日から正式にリバプールの指揮官に就任する予定となっている。　テン・ハフ監督はPSVを今季エールディビジ優",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408170-408170-fl",
-          "publishedOn": "2024-05-29T11:36:08.000Z",
-          "wordCount": 2570,
-          "title": "「人々は過剰に褒め称えている」マンUのテン・ハフ監督、リバプール新指揮官が過大評価されていると主張",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408170/news_408170_1.jpg?time=20240529203608"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408163-408163-fl",
-          "author": "Gekisaka",
-          "description": "インテル・マイアミにまた1人、スター選手が加わることになるかもしれない。スペイン『アス』がポルトガル『ア・ボーラ』の報道を基に、ベンフィカに所属するアルゼンチン代表MFアンヘル・ディ・マリアのアメリカ行きの可能性を伝えている。　インテル・マイアミは昨年夏にFWリオネル・メッシを獲得。その後もMFセルヒオ・ブスケツ、DFジョルディ・アルバ、FWルイス・スアレスとスター選手が続々と加入して",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408163-408163-fl",
-          "publishedOn": "2024-05-29T08:48:54.000Z",
-          "wordCount": 2562,
-          "title": "キャリアの最後は盟友メッシと共に…ディ・マリアがインテル・マイアミ加入か",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408163/news_408163_1.jpg?time=20240529174854"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408083-408083-fl",
-          "author": "Gekisaka",
-          "description": "ソシエダは26日、日本ツアーに臨む遠征メンバーを発表した。MF久保建英も来日することが決まっている。　ソシエダは29日に国立競技場で、東京ヴェルディとの親善試合を行う。今月25日にアトレティコ・マドリー戦(●0-2)を行い、翌日に飛行機で日本へ向かったという。遠征メンバーには久保のほかMFブライス・メンデスらも名を連ねたが、EURO2024を控えるスペイン代表候補のFWミケル・オヤルサ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408083-408083-fl",
-          "publishedOn": "2024-05-29T08:41:51.000Z",
-          "wordCount": 2609,
-          "title": "久保建英ら参戦もスペイン代表組は不在…ソシエダが来日メンバーを発表",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408083/news_408083_1.jpg?time=20240529174151"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408143-408143-fl",
-          "author": "Gekisaka",
-          "description": "プレミアリーグは28日、ファン投票による2023-24シーズンのベストイレブンを発表した。　ファンは60人の候補リストからポジションごとに選手を選択して投票を実施。1クラブ最大4人までの制限をかけた上で各ポジションの得票最上位選手がベストイレブンに選出された。なお日本人のDF冨安健洋(アーセナル)、DF橋岡大樹(ルートン・タウン)、MF三笘薫(ブライトン)は候補リストに入らなかった。",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408143-408143-fl",
-          "publishedOn": "2024-05-29T06:42:47.000Z",
-          "wordCount": 2593,
-          "title": "ファン投票のプレミアリーグベストイレブンが決定!! マンC&アーセナルから“制限人数”の最多4人選出",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408143/news_408143_1.jpg?time=20240529154247"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408157-408157-fl",
-          "author": "Gekisaka",
-          "description": "今夏の移籍市場で、マンチェスター・ユナイテッドは大幅なチーム再編成を予定していると報じられる。以前までは3選手の売却対象外が伝えられたが、4人目がそのリストに名を連ねたようだ。英『メトロ』が伝えた。　FA杯決勝でマンチェスター・Cを2-1で下し、最後の最後で意地を見せたマンチェスター・U。しかし、プレミアリーグではクラブワーストを更新する8位で終え、公式戦での総失点もクラブワーストを更",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408157-408157-fl",
-          "publishedOn": "2024-05-29T04:48:09.000Z",
-          "wordCount": 2564,
-          "title": "B・フェルナンデスでも、ラッシュフォードでもない…マンUの「売却対象外」リストに名を連ねた4人目の選手",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408157/news_408157_1.jpg?time=20240529134809"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408154-408154-fl",
-          "author": "Gekisaka",
-          "description": "日本代表MF三笘薫が所属するブライトンの新監督に、前監督のグレアム・ポッター氏の名前が最有力として挙がっているようだ。地元紙『Sussex World』が伝えた。　19-20シーズンからブライトンを率いたポッター氏は、21-22シーズンに昇格後最高位となる9位に導き、スタートダッシュを成功させた22-23シーズンは6節を終えて4位の好位置につけていた。しかし、トーマス・トゥヘル監督を解",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408154-408154-fl",
-          "publishedOn": "2024-05-29T02:40:19.000Z",
-          "wordCount": 2570,
-          "title": "ブライトン新監督は前監督ポッター氏が有力と地元紙…「PLで最も危険な選手の一人」と三笘の新体制先発入りも予想",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408154/news_408154_1.jpg?time=20240529114019"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408152-408152-fl",
-          "author": "Gekisaka",
-          "description": "リバプールの新監督に就任するアルネ・スロット氏の“初仕事”は2000万ポンド(約40億円)の値札がつけられた22歳DFセップ・ファン・デン・ベルフに対する最終決断を下すことになりそうだ。英紙『ミラー』が伝えている。　今季限りでユルゲン・クロップ監督が退任し、来季からリバプールの新監督に就任することで合意に達したスロット氏。正式契約は6月1日に結ばれる予定だが、その後はチームについての多",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408152-408152-fl",
-          "publishedOn": "2024-05-29T02:23:59.000Z",
-          "wordCount": 2564,
-          "title": "評価高めた約40億円の22歳DFを売るか、残すか…最終決断迫られるリバプール新指揮官",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408152/news_408152_1.jpg?time=20240529112359"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408148-408148-fl",
-          "author": "Gekisaka",
-          "description": "レアル・マドリーに所属するイングランド代表MFジュード・ベリンガムが、ラ・リーガMVPに選出された。　今季、ドルトムントからR・マドリーに加入したベリンガムは、リーグ戦開幕4試合連続ゴールと強烈なインパクトを残す。その後も貴重な働きを続け、28試合19得点を記録してラ・リーガ制覇に大きく貢献した。　授賞式に出席できなかったベリンガムは「このような賞を頂いたことを光栄に思います。チャンピ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408148-408148-fl",
-          "publishedOn": "2024-05-28T23:42:39.000Z",
-          "wordCount": 2570,
-          "title": "ラ・リーガMVPに20歳MFベリンガム!! R・マドリー加入1年目で28試合19得点",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408148/news_408148_1.jpg?time=20240529084239"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408149-408149-fl",
-          "author": "Gekisaka",
-          "description": "トッテナムは28日、FWティモ・ベルナーのレンタル期間延長を発表した。　1996年3月6日生まれの28歳は、今季途中にライプツィヒからトッテナムに期限付き移籍で加入。スタメンの座を確保し、プレミアリーグ13試合2得点3アシストを記録した。シーズン最終盤は負傷のためにピッチに立つことはなかったが、クラブはそれまでの働きを評価したようだ。　なお、買い取りオプションが付帯しており、英『スカイ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408149-408149-fl",
-          "publishedOn": "2024-05-28T23:39:18.000Z",
-          "wordCount": 2561,
-          "title": "トッテナム、FWベルナーのレンタル期間延長を発表…今季プレミアで13試合2得点",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408149/news_408149_1.jpg?time=20240529083918"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?408129-408129-pn",
-          "author": "Gekisaka",
-          "description": "ブンデスリーガ昇降格プレーオフ第2戦が27日に行われ、ボーフム(1部)がデュッセルドルフ(2部)と対戦。2戦合計3-3でPK戦へ突入。激闘の末6-5で勝利し、残留を果たした。●海外組ガイド●ブンデスリーガ2023-24特集▶チャンピオンズリーグ決勝「ドルトムントvsレアル・マドリード」6/2(日)午前3時～WOWOWで独占生中継!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?408129-408129-pn",
-          "publishedOn": "2024-05-28T23:00:00.000Z",
-          "wordCount": 2777,
-          "title": "浅野拓磨擁するボーフムが昇降格PO制して残留! デュッセルドルフは内野貴史が痛恨のPK失敗(8枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408129/news_408129_1.jpg?time=20240529050947"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?408125-408125-pn",
-          "author": "Gekisaka",
-          "description": "スコティッシュカップは25日、決勝を開催した。2連覇を狙うセルティックは“ライバル”レンジャーズと対戦し、1-0で勝利。スコティッシュ・プレミアシップとの2冠を達成した。●海外組ガイド▶チャンピオンズリーグ決勝「ドルトムントvsレアル・マドリード」6/2(日)午前3時～WOWOWで独占生中継!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?408125-408125-pn",
-          "publishedOn": "2024-05-28T23:00:00.000Z",
-          "wordCount": 2789,
-          "title": "セルティックがレンジャーズを下してスコティッシュ杯2連覇達成! 国内2冠獲得(12枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408125/news_408125_1.jpg?time=20240529050858"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?408118-408118-pn",
-          "author": "Gekisaka",
-          "description": "FA杯は25日に決勝戦を開催した。マンチェスター・ユナイテッドはマンチェスター・シティと対戦し、2-1で勝利。8シーズンぶり13回目の優勝を飾った。●FA杯2023-24特集●プレミアリーグ2023-24特集▶チャンピオンズリーグ決勝「ドルトムントvsレアル・マドリード」6/2(日)午前3時～WOWOWで独占生中継!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?408118-408118-pn",
-          "publishedOn": "2024-05-28T23:00:00.000Z",
-          "wordCount": 2802,
-          "title": "昨季決勝カード再来…マンUがガルナチョ&メイヌー弾を守り切りFA杯優勝! 王者マンCに借りを返す(14枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408118/news_408118_1.jpg?time=20240529050753"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408145-408145-fl",
-          "author": "Gekisaka",
-          "description": "レアル・マドリーから「ジダン」がついにいなくなるようだ。現地メディア『Revelo』や『マルカ』が伝えている。　報道によると、ジネディーヌ・ジダン氏の三男であるMFテオ・ジダンが今シーズン限りで退団する見込みだという。テオは2010年にR・マドリーの育成組織に入り、現在はリザーブチームのカスティージャを主戦場としている。今季はUEFAチャンピオンズリーグ(欧州CL)のナポリ戦でメンバー",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408145-408145-fl",
-          "publishedOn": "2024-05-28T14:14:00.000Z",
-          "wordCount": 2564,
-          "title": "レアル・マドリーは24季ぶりに“ジダン不在”へ…現地メディアが着目",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408145/news_408145_1.jpg?time=20240528231312"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?408144-408144-pn",
-          "author": "Gekisaka",
-          "description": "日本ツアーで来日中のソシエダが28日、千葉県習志野市内で国際親善試合・東京ヴェルディ戦の前日練習を行った。練習見学チケットを購入した大勢のファンが見守る中、帯同メンバー20人が約1時間にわたって汗を流した。●海外組ガイド●ラ・リーガ2023-24特集▶チャンピオンズリーグ決勝「ドルトムントvsレアル・マドリード」6/2(日)午前3時～WOWOWで独占生中継!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?408144-408144-pn",
-          "publishedOn": "2024-05-28T12:44:10.000Z",
-          "wordCount": 2825,
-          "title": "久保建英擁するソシエダが来日!! 国立・東京V戦を控えて千葉で前日練習(16枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408144/news_408144_1.jpg?time=20240528214410"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408077-408077-fl",
-          "author": "Gekisaka",
-          "description": "【セリエA第38節】(オリンピコ)ラツィオ 1-1(前半0-0)サッスオーロ[ラ]マッティア・ザッカーニ(60分)[サ]マッティア・ビティ(66分)[ラ]鎌田大地(65分)、マテオ・グエンドゥジ(82分)、マッティア・ザッカーニ(88分)[サ]クリスティアン ヴォルパート(19分)観衆:56,000人└鎌田大地がフル出場したラツィオ、19位サッスオーロとドロ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408077-408077-fl",
-          "publishedOn": "2024-05-28T12:30:02.000Z",
-          "wordCount": 2742,
-          "title": "ラツィオvsサッスオーロ 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408141-408141-fl",
-          "author": "Gekisaka",
-          "description": "マンチェスター・ユナイテッドのDFルーク・ショーが27日、「クラブ軽視」と批判されていることについてインスタグラム(@lukeshaw23)で反論した。　ショーは筋肉系の怪我により、2月18日のルートン・タウン戦を最後に公式戦の出場がない。しかしイングランド代表のガレス・サウスゲート監督は今月、EURO2024の候補メンバーにショーを選出。指揮官はショーが復帰の途上にあることを示したも",
-          "link": "https://web.gekisaka.jp/news/euro/detail/?408141-408141-fl",
-          "publishedOn": "2024-05-28T12:08:00.000Z",
-          "wordCount": 2569,
-          "title": "3か月欠場もイングランド代表候補入り…ルーク・ショーが“マンU軽視論”に声明「忠誠心を疑う人がいることに憤り」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408141/news_408141_1.jpg?time=20240528204607"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408133-408133-fl",
-          "author": "Gekisaka",
-          "description": "ベルギーサッカー協会(KBVB)は28日、EURO2024に臨むベルギー代表メンバーを発表した。　ドメニコ・テデスコ監督は26人まで招集可能の中で25人を選出し、依然として2人の候補選手がいることを明かした。DFマクシム・デ・カイパーが初のA代表入りとなり、DFアクセル・ビツェルはカタールW杯以来の招集となった。　負傷明けのGKティボー・クルトワはテデスコ監督が事前に意向を示していた通",
-          "link": "https://web.gekisaka.jp/news/euro/detail/?408133-408133-fl",
-          "publishedOn": "2024-05-28T11:33:44.000Z",
-          "wordCount": 2612,
-          "title": "ベルギー代表がEUROメンバー25人を発表!! ビツェルがカタールW杯以来の復帰",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408133/news_408133_1.jpg?time=20240528203344"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408142-408142-fl",
-          "author": "Gekisaka",
-          "description": "日本ツアーで来日中のソシエダを率いるイマノル・アルグアシル監督が28日、千葉県内で報道陣の取材に応じ、MF久保建英のパリ五輪不参加に言及した。指揮官は久保の五輪不参加に自身の意向が関係しているかと問われ、「違う。クラブの意向だ」と立場を示しつつも、来季のプレシーズンへの影響については前向きな見通しを示した。　久保は今季、自身初のUEFAチャンピオンズリーグ(欧州CL)全8試合を含め、ソ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408142-408142-fl",
-          "publishedOn": "2024-05-28T11:29:29.000Z",
-          "wordCount": 2567,
-          "title": "久保建英の五輪不参加にソシエダ指揮官「クラブにとってはすごくありがたいこと」連戦疲労に配慮",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408142/news_408142_1.jpg?time=20240528202929"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407969-407969-fl",
-          "author": "Gekisaka",
-          "description": "【ラ・リーガ第38節】(アノエタ)ソシエダ 0-2(前半0-1)A・マドリー[A]サムエウ・リーノ(9分)、ヘイニウド・マンダーバ(90分+4)[A]サウール・ニゲス(90分+1)[ソ]ジョン・パチェコ(45分+2)、ブライス・メンデス(57分)、ジョン アンデル オラサガスティ(90分)[A]アーサー・フェルメーレン(41分)、コケ(45",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407969-407969-fl",
-          "publishedOn": "2024-05-28T11:20:01.000Z",
-          "wordCount": 2735,
-          "title": "ソシエダvsA・マドリー 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408137-408137-fl",
-          "author": "Gekisaka",
-          "description": "セルビアサッカー協会(FSS)は28日、EURO2024に臨むセルビア代表メンバーを発表した。　ドラガン・ストイコビッチ監督はFWアレクサンダル・ミトロビッチやFWドゥシャン・ブラホビッチといった強力ストライカーを選出した。セルビアは旧ユーゴスラビアとして臨んだ2000年以来の出場となり、グループリーグではイングランド、スロベニア、デンマークと対戦する。　以下、セルビア代表メンバー▽G",
-          "link": "https://web.gekisaka.jp/news/euro/detail/?408137-408137-fl",
-          "publishedOn": "2024-05-28T10:59:00.000Z",
-          "wordCount": 2607,
-          "title": "“ピクシー”率いるセルビア代表のEUROメンバーが決定!! 旧ユーゴ時代以来の出場",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408137/news_408137_1.jpeg?time=20240528195448"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408134-408134-fl",
-          "author": "Gekisaka",
-          "description": "セレッソ大阪は28日、DFジャスティン・ハブナーがインドネシア代表に選出されたことを発表した。　インドネシアは北中米W杯アジア2次予選のF組で現在2位となっており、突破をかけて6月6日にイラク代表と、同11日にフィリピン代表と戦う。　ハブナーはクラブを通じて「今回再び代表に選ばれた事をとても嬉しく思います。ファンの皆さんの応援はいつも力になっています。精一杯自分とファンの皆さんの為に頑",
-          "link": "https://web.gekisaka.jp/news/worldcup/detail/?408134-408134-fl",
-          "publishedOn": "2024-05-28T09:39:00.000Z",
-          "wordCount": 2563,
-          "title": "C大阪DFハブナーがインドネシア代表に選出「精一杯自分とファンの皆さんの為に頑張ってきます」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408134/news_408134_1.jpg?time=20240528183757"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408127-408127-fl",
-          "author": "Gekisaka",
-          "description": "フランスメディア『ユニオン』は27日、スタッド・ランスの新監督候補としてダビデ・アンチェロッティ氏、ジョアン・サクラメント氏、ルカ・エルスネル氏の名前を報じた。　スタッド・ランスは今季終盤にウィリアム・スティル監督の即時退任を発表し、最後の3試合はサンバ・ディアワラコーチが指揮を執った。ただディアワラ氏は来季からコーチに戻る意向を示しており、新監督が招聘される見込みとなっている。　そう",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408127-408127-fl",
-          "publishedOn": "2024-05-28T07:19:00.000Z",
-          "wordCount": 2562,
-          "title": "仏紙がスタッド・ランス新監督候補を報道…「秘密兵器」アンチェロッティJrら3人",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408127/news_408127_1.jpg?time=20240528161623"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408121-408121-fl",
-          "author": "Gekisaka",
-          "description": "ボルシアMGのパリ五輪世代FW福田師王が26日に自身のX(旧ツイッター/@shiou40)を更新し、“スーパースター”とのツーショットを披露した。　チームメイトのDF板倉滉が同日、金沢ゴーゴーカレースタジアムで社会貢献活動『Ko Creation project(KCP)』によるサッカーイベントを開催。福田はアーセナルDF冨安健洋と共にサプライズゲストとして参加していた。　福田はXの投",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408121-408121-fl",
-          "publishedOn": "2024-05-28T05:54:22.000Z",
-          "wordCount": 2578,
-          "title": "「かっこよすぎるって」「素敵なデート」福田師王が金沢で“スーパースター”と2ショット",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408121/news_408121_1.jpg?time=20240528145422"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408119-408119-fl",
-          "author": "Gekisaka",
-          "description": "マンチェスター・ユナイテッドの元フランス代表FWアントニー・マルシャルが6月末の契約満了に伴い、今季限りで退団することを表明した。アメリカのスポーツ専門チャンネル『ESPN』が報じている。　現在28歳のマルシャルは2015年にモナコから加入し、クラブ通算317試合に出場して90ゴールを記録。ここ数シーズンは怪我の影響などで出番が減少し、退団は既定路線とみられていた。　マルシャルは27日",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408119-408119-fl",
-          "publishedOn": "2024-05-28T04:59:00.000Z",
-          "wordCount": 2563,
-          "title": "マルシャルが契約満了でマンU退団へ「キャリアの新たなページをめくる時が来た」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408119/news_408119_1.jpg?time=20240528134922"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408108-408108-fl",
-          "author": "Gekisaka",
-          "description": "[5.27 昇降格PO第2戦 デュッセルドルフ 0-3(PK5-6) ボーフム]　ブンデスリーガ昇降格プレーオフ第2戦が27日に行われ、ボーフム(1部)がデュッセルドルフ(2部)との激闘の末、残留を果たした。ボーフムのFW浅野拓磨は後半13分に途中出場。デュッセルドルフではスタメン出場のMF田中碧が後半30分までプレーし、ベンチスタートだったDF内野貴史が後半38分に途中投入された。　2",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408108-408108-fl",
-          "publishedOn": "2024-05-28T04:47:40.000Z",
-          "wordCount": 2585,
-          "title": "浅野拓磨ボーフムがミラクル逆転残留!! デュッセルドルフは3点リード守れず…内野貴史PK失敗で昇格逃す",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408108/news_408108_1.jpg?time=20240528134740"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408117-408117-fl",
-          "author": "Gekisaka",
-          "description": "アルナスルのポルトガル代表FWクリスティアーノ・ロナウドが27日、サウジ・プロフェッショナルリーグの1シーズン最多得点記録を更新するとともに、自身4リーグ目となる得点王を獲得した。　C・ロナウドは27日のリーグ最終節アルイテハド戦でスタメン出場。前半アディショナルタイム3分、自陣からのロングボールに反応して裏へ抜け出すと、巧みな胸トラップから左足で決め、先制弾を奪った。後半24分には右",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408117-408117-fl",
-          "publishedOn": "2024-05-28T04:26:22.000Z",
-          "wordCount": 2562,
-          "title": "C・ロナウドがサウジリーグの最多ゴール記録更新&異なる4リーグで得点王に!",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408117/news_408117_1.jpg?time=20240528132622"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408110-408110-fl",
-          "author": "Gekisaka",
-          "description": "デュッセルドルフのダニエル・ティウーヌ監督が1部復帰を逃した試合後、ドレッシングルームで多くの選手が号泣していたことを明かした。ドイツ『キッカー』が伝えている。　今季ブンデスリーガ2部を3位で終えたデュッセルドルフは、昇降格プレーオフで1部16位のボーフムと対戦。23日に敵地で行われた第1戦を3-0で制し、大きなアドバンテージを持って27日の第2戦を迎えたが、ホームで思わぬ展開が待ち受",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408110-408110-fl",
-          "publishedOn": "2024-05-28T03:19:05.000Z",
-          "wordCount": 2581,
-          "title": "PK失敗の内野貴史が涙…1部復帰を逃したデュッセルドルフ指揮官「ドレッシングルームでみんな号泣した」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408110/news_408110_1.jpg?time=20240528121905"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408113-408113-fl",
-          "author": "Gekisaka",
-          "description": "ブンデスリーガ昇降格プレーオフ第2戦が27日に開催され、FW浅野拓磨が所属するボーフム(1部)はデュッセルドルフ(2部)を下して残留を果たした。　23日にホームで行われた第1戦を0-3で落としていたボーフムだったが、前半18分と後半21分にFWフィリップ・ホフマンがヘディングシュートを決めると、後半25分にはMFケビン・シュテーガーのPK弾で2戦合計3-3。そのまま同点で120分を終え",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408113-408113-fl",
-          "publishedOn": "2024-05-28T03:17:33.000Z",
-          "wordCount": 2568,
-          "title": "ボーフムの劇的残留に貢献した浅野拓磨「失うものがない状況って、人間強くなる」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408113/news_408113_1.jpg?time=20240528121733"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408106-408106-fl",
-          "author": "Gekisaka",
-          "description": "日本代表のFW伊東純也、FW中村敬斗が所属するスタッド・ランスは27日、今夏の日本ツアーでジュビロ磐田、清水エスパルス、FC町田ゼルビアと対戦することを新たに発表した。　7月24日にヤマハスタジアムで磐田、同27日にIAIスタジアム日本平で清水、同31日に町田GIONスタジアムで町田と対戦。また、すでに発表されているようにヴィッセル神戸ともフレンドリーマッチを行い、8月3日にノエビアス",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408106-408106-fl",
-          "publishedOn": "2024-05-27T13:33:00.000Z",
-          "wordCount": 2568,
-          "title": "伊東純也&中村敬斗所属のスタッド・ランス、新たに磐田&清水&町田との対戦を発表",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408106/news_408106_1.jpg?time=20240527213325"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408105-408105-fl",
-          "author": "Gekisaka",
-          "description": "今季限りで現役を退くレアル・マドリーのドイツ代表MFトニ・クロースがサンティアゴ・ベルナベウでのラストマッチを迎えた。　25日のラ・リーガ第38節でR・マドリーはベティスとホームで対戦。試合開始前には両チームの選手が“花道”を作り、クロースを出迎え、スタジアムに集まったファンからは大きな拍手が贈られた。　スターティングメンバーに名を連ねたクロースは後半42分にピッチを後にする。ピッチ上",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408105-408105-fl",
-          "publishedOn": "2024-05-27T12:19:50.000Z",
-          "wordCount": 2569,
-          "title": "ホームラストマッチを迎えたクロース「あの瞬間にこらえきれなくなった」と涙",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408105/news_408105_1.jpg?time=20240527211950"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408104-408104-fl",
-          "author": "Gekisaka",
-          "description": "マンチェスター・ユナイテッドのエリック・テン・ハフ監督はクラブ首脳に対し、自身を解任するのであれば、他クラブでトロフィーを勝ち取るだけだとコメントした。『ESPN』が伝えている。　今季のプレミアリーグで、クラブ歴代ワーストの8位でフィニッシュしたマンチェスター・U。今季の公式戦で喫した82失点もクラブワーストになるなど、屈辱的なシーズンを送ってきた。しかし、25日に行われたFA杯決勝で",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408104-408104-fl",
-          "publishedOn": "2024-05-27T11:40:53.000Z",
-          "wordCount": 2563,
-          "title": "FA杯制覇のマンUテン・ハフ監督「私を解任するなら別の場所でトロフィーを獲るだけ」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408104/news_408104_1.jpg?time=20240527204053"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408103-408103-fl",
-          "author": "Gekisaka",
-          "description": "スペインサッカー連盟(RFEF)は27日、EURO2024に臨むスペイン代表の候補メンバー29人を発表した。最終登録メンバーは26人となるため、今後3選手がメンバーから外れることとなる。　最多選出はバルセロナとソシエダの5選手。ラ・リーガ王者R・マドリーからはFWホセル、DFダニエル・カルバハル、DFナチョ・フェルナンデスの3選手が名を連ねた。また、FWアジョセ・ペレス(ベティス)とM",
-          "link": "https://web.gekisaka.jp/news/euro/detail/?408103-408103-fl",
-          "publishedOn": "2024-05-27T10:25:21.000Z",
-          "wordCount": 2620,
-          "title": "まずは“死の組”突破なるか…スペイン、EURO2024に向けた代表候補メンバー29人を発表",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408103/news_408103_1.jpg?time=20240527192521"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408102-408102-fl",
-          "author": "Gekisaka",
-          "description": "ラツィオに所属する日本代表MF鎌田大地に対し、プレミアリーグのクリスタル・パレスが獲得オファーを出しているようだ。『スポーツ・ウィットネス』が報じた。　昨夏、フリーとなった鎌田は1年契約(3年間の延長オプション付き)にサインをしてラツィオに加入。セリエA開幕4試合連続で先発出場を果たすも、その後は思うように出場機会をつかめなかった。しかし、3月にイゴール・トゥドール監督が就任すると状況",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408102-408102-fl",
-          "publishedOn": "2024-05-27T09:49:04.000Z",
-          "wordCount": 2566,
-          "title": "残留か、それとも…ラツィオMF鎌田大地に“恩師”率いるクリスタル・パレスがオファー",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408102/news_408102_1.jpg?time=20240527184904"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408087-408087-fl",
-          "author": "Gekisaka",
-          "description": "韓国サッカー協会(KFA)は27日、北中米W杯アジア2次予選に臨む韓国代表メンバーを発表した。7人が初招集されている。　JリーグからはGKソン・ボムグン(湘南ベルマーレ)、DFハ・チャンレ(名古屋グランパス)、FWオ・セフン(FC町田ゼルビア)の3人が選出された。ハ・チャンレとオ・セフンはA代表初招集となり、ハ・チャンレは年代別代表への招集歴がないなかでのA代表入りとなった。　キム・ド",
-          "link": "https://web.gekisaka.jp/news/worldcup/detail/?408087-408087-fl",
-          "publishedOn": "2024-05-27T08:08:49.000Z",
-          "wordCount": 2602,
-          "title": "名古屋DFハ・チャンレと町田FWオ・セフンを初招集!! J組3人選出の韓国代表メンバーが決定",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408087/news_408087_1.jpg?time=20240527170849"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408095-408095-fl",
-          "author": "Gekisaka",
-          "description": "フランクフルトのGKケビン・トラップが今季最後の対外試合でFWとして出場し、2ゴールを決めた。現地メディア『ビルト』が伝えている。　フランクフルトは今季の締めくくりとして、22日にゲルマニア1984(8部相当)との親善試合を実施。相手が格下で公式戦の終了後ということもあり、トラップは10番のユニフォームを着用して前線でプレーした。すると後半5分、ペナルティエリア内でボールを受けると左足",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408095-408095-fl",
-          "publishedOn": "2024-05-27T05:23:34.000Z",
-          "wordCount": 2572,
-          "title": "フランクフルトGK、今季最後の対外試合で2ゴールを記録!! 「新たな10番が必要な場合に備えて」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408095/news_408095_1.jpg?time=20240527142334"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408093-408093-fl",
-          "author": "Gekisaka",
-          "description": "ジローナのFWアルテム・ドフビクが24日のラ・リーガ最終節・グラナダ戦でハットトリックを達成し、得点王に輝いた。　ドフビクは第36節終了時点で21ゴールで得点ランキングのトップに立っていたが、最終節を前にした第37節でビジャレアルのFWアレクサンデル・セルロートが4点を奪って23ゴールとしたことで逆転されていた。　それでも2ゴール差で迎えた最終節、ドフビクは前半44分にPKを決めて1点",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408093-408093-fl",
-          "publishedOn": "2024-05-27T04:32:34.000Z",
-          "wordCount": 2581,
-          "title": "3強以外からの受賞は16シーズンぶり!! ジローナFWドフビクが逆転に次ぐ逆転でラ・リーガ得点王",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408093/news_408093_1.jpg?time=20240527133234"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408092-408092-fl",
-          "author": "Gekisaka",
-          "description": "ベルギー・リーグプレーオフ1最終節が26日に行われた。クラブ・ブルージュはセルクル・ブルージュに0-0で引き分けて勝ち点1を獲得し、2シーズンぶりの優勝を果たした。MF本間至恩は2節連続でベンチ入りするも出番はなかった。　クラブ・ブルージュはレギュラーシーズンを4位で終えるも、優勝を争うPO1で7勝3分と無敗を記録して逆転でリーグ王者に輝いた。今季の結果によって来季のUEFAチャンピオ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408092-408092-fl",
-          "publishedOn": "2024-05-27T04:00:00.000Z",
-          "wordCount": 2565,
-          "title": "クラブ・ブルージュが4位から“下剋上”リーグ優勝でCL出場権獲得!! 本間至恩は最終節メンバー入りも出番なし",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408092/news_408092_1.jpg?time=20240527125231"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408089-408089-fl",
-          "author": "Gekisaka",
-          "description": "[5.26 セリエA第38節 ラツィオ 1-1 サッスオーロ]　セリエA第38節が26日に行われ、MF鎌田大地が所属する7位ラツィオは本拠地で19位サッスオーロと1-1で引き分けた。7位のままシーズンを終え、来季のUEFAヨーロッパリーグ(EL)出場権を獲得。鎌田はチャンスに絡むなど存在感を示し、先発フル出場を果たした。　すでにセリエB降格が決まっていたサッスオーロをホームに迎えたラツィ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408089-408089-fl",
-          "publishedOn": "2024-05-27T03:07:55.000Z",
-          "wordCount": 2704,
-          "title": "鎌田大地がフル出場したラツィオ、19位サッスオーロとドローでEL圏内の7位フィニッシュ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408089/news_408089_1.jpg?time=20240527120755"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408088-408088-fl",
-          "author": "Gekisaka",
-          "description": "タイサッカー協会(FAT)は24日にタイ代表メンバーを発表し、MFスパチョーク(北海道コンサドーレ札幌)を選出した。　タイは北中米W杯アジア2次予選のC組で3位となっており、突破をかけて6月6日の第5節で3ポイント差の2位・中国代表と対戦する。その後同11日に最終節のシンガポール代表戦を行う予定となっている。●北中米W杯アジア2次予選特集",
-          "link": "https://web.gekisaka.jp/news/worldcup/detail/?408088-408088-fl",
-          "publishedOn": "2024-05-27T03:00:25.000Z",
-          "wordCount": 2564,
-          "title": "札幌MFスパチョークがタイ代表に選出!! 逆転突破をかけたアジア2次予選最終盤へ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408088/news_408088_1.jpeg?time=20240527120025"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408082-408082-fl",
-          "author": "Gekisaka",
-          "description": "スポルティングは26日、ポルトガル・カップ決勝でポルトと対戦し、1-2で敗れてリーグとの2冠は果たせなかった。MF守田英正は先発出場するも、味方の退場を受けて前半途中での交代となった。　スポルティングは前半20分、CKからDFジェレマイア・シント・ジュステのゴールで先制に成功した。しかし同25分にFWエバニウソンに決められて追いつかれると、同29分にはシント・ジュステが決定的な得点機会",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408082-408082-fl",
-          "publishedOn": "2024-05-27T00:29:34.000Z",
-          "wordCount": 2569,
-          "title": "守田英正、国内杯決勝は味方の退場受けて前半途中に交代…スポルティングはポルトに逆転負けで準優勝",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408082/news_408082_1.jpg?time=20240527092934"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408081-408081-fl",
-          "author": "Gekisaka",
-          "description": "アーセナルのGKアーロン・ラムズデールがプレミアリーグ昇格プレーオフ決勝にコスプレ姿で来場し、話題になっている。　今季の昇格PO決勝はサウサンプトン対リーズの顔合わせとなり、サウサンプトンが1-0で勝利してプレミアリーグへの復帰が決定。ラムズデールは両チームともに所属歴がないが試合後、ハリーポッターのキャラクターであるハグリッドに似た格好をしてスタンドに姿を表していた。　現地メディア『",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408081-408081-fl",
-          "publishedOn": "2024-05-26T23:40:00.000Z",
-          "wordCount": 2601,
-          "title": "アーセナルGKがコスプレ姿でプレミア昇格PO決勝に出没…両チーム所属歴なし、“親友”を応援か",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408081/news_408081_1.jpeg?time=20240527083019"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408080-408080-fl",
-          "author": "Gekisaka",
-          "description": "プレミアリーグ昇格プレーオフ決勝が26日にウェンブリー・スタジアムで行われ、サウサンプトンがリーズに1-0で勝利して1年でトップリーグへの復帰を果たした。　サウサンプトンは昨季のプレミアリーグで最下位となり、2011-12シーズン以来となるチャンピオンシップ(英2部相当)での戦いが決まった。迎えた今季は序盤に4連敗を喫するなど苦しむ時期もあり、自動昇格とはならず4位で昇格POへの出場と",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408080-408080-fl",
-          "publishedOn": "2024-05-26T23:04:55.000Z",
-          "wordCount": 2571,
-          "title": "プレミアリーグ昇格3チームが決定!! 最後の1枠は“ウェンブリー決戦”制したサウサンプトン",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408080/news_408080_1.jpeg?time=20240527080455"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408076-408076-fl",
-          "author": "Gekisaka",
-          "description": "[5.26 セリエA第38節](オリンピコ)※27:45開始[ラツィオ]先発GK 94 イバン・プロベデルDF 13 アレッシオ・ロマニョーリDF 34 マリオ・ヒラDF 77 アダム・マルシッチMF 3 ルカ・ペッレグリーニMF 5 マティアス・ベシーノMF 6 鎌田大地MF 20 マッティア・ザッカーニMF 23 エルセイド・ヒサイMF 65 ニ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408076-408076-fl",
-          "publishedOn": "2024-05-26T18:48:01.000Z",
-          "wordCount": 2749,
-          "title": "ラツィオvsサッスオーロ スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408075-408075-fl",
-          "author": "Gekisaka",
-          "description": "[5.26 ラ・リーガ第38節](ラモン・サンチェス・ピスファン)※28:00開始[セビージャ]先発GK 13 エルヤン ニーランDF 2 キケ サラスDF 4 セルヒオ・ラモスDF 22 L. BadéMF 3 アドリア・ペドロサMF 5 ルーカス・オカンポスMF 11 ドディ・ルケバキオMF 24 ブバカリ・スマレMF 26 フアンルMF 4",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408075-408075-fl",
-          "publishedOn": "2024-05-26T17:56:01.000Z",
-          "wordCount": 2740,
-          "title": "セビージャvsバルセロナ スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408074-408074-fl",
-          "author": "Gekisaka",
-          "description": "デンマークリーグは26日にチャンピオンシップ・ラウンド最終節を行い、ミッティランが19-20シーズン以来となる優勝を果たした。FW鈴木唯人が所属するブレンビーは首位で最終節を迎えるも、オーフスに敗れて2位に転落してシーズンを終了。来季はUEFAカンファレンスリーグに予選2回戦から参戦する。　ブレンビーはオーフス戦で先制するも、その後逆転を許してしまう。その後2-2としたが、後半33分に",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408074-408074-fl",
-          "publishedOn": "2024-05-26T17:20:06.000Z",
-          "wordCount": 2568,
-          "title": "ブレンビーが最終節で痛恨の敗戦、2位転落で優勝逃す…鈴木唯人は今季リーグ戦で9G8Aを記録",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408074/news_408074_1.jpeg?time=20240527022006"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?408065-408065-fl",
-          "author": "Gekisaka",
-          "description": "プレミアリーグは26日、マンチェスター・ユナイテッドMFアレハンドロ・ガルナチョのバイシクル弾が2023-24シーズンのバドワイザー・ゴール・オブ・ザ・シーズン(年間最優秀ゴール)に選出されたと発表した。　ガルナチョは昨年11月26日に行われたプレミアリーグ第13節のエバートン戦(○3-0)に先発出場。すると開始早々の前半3分、右サイドからのクロスがマイナス方向へ流れると、うまくステッ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?408065-408065-fl",
-          "publishedOn": "2024-05-26T12:55:00.000Z",
-          "wordCount": 2591,
-          "title": "プレミア最優秀ゴールはガルナチョのバイシクル弾「わからない。ただ、歓声を聞いてオーマイゴッドって言ったんだ」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/409000/408065/news_408065_1.jpg?time=20240526215500"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407985-407985-fl",
-          "author": "Gekisaka",
-          "description": "マンチェスター・ユナイテッドがFAカップを制した。エリック・テン・ハフ監督は自身の解任報道について言及。イギリス『スカイスポーツ』が25日に指揮官の言葉を伝えている。　FA杯は25日に決勝を行い、マンチェスター・Uはマンチェスター・シティと対戦した。マンチェスター・Uは、MFアレハンドロ・ガルナチョ、MFコビー・メイヌーのゴールで2点を先取すると、後半終了間際に1点を返されるも、2-1",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407985-407985-fl",
-          "publishedOn": "2024-05-26T02:26:15.000Z",
-          "wordCount": 2574,
-          "title": "マンチェスター・UがFA杯制覇! テン・ハフ監督は去就について言及「将来に向けたチームを構築しているところだ」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407985/news_407985_1.jpg?time=20240526112615"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407983-407983-fl",
-          "author": "Gekisaka",
-          "description": "[5.25 DFBポカール決勝 カイザースラウテルン 0-1 レバークーゼン]　DFBポカール(ドイツ杯)は25日、決勝を行った。今季のブンデスリーガを制したレバークーゼンはカイザースラウテルン(ブンデス2部)と対戦し、1-0で勝利。国内2冠を達成した。　試合は前半17分にスコアが動いた。ペナルティエリア手前でこぼれたボールにMFグラニト・ジャカが左足を振る。豪快に決めたこの1点を守り抜",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407983-407983-fl",
-          "publishedOn": "2024-05-26T01:09:40.000Z",
-          "wordCount": 2578,
-          "title": "レバークーゼンが2冠達成! ジャカ決勝弾でドイツ杯制覇、“国内無敗”で今季に幕",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407983/news_407983_1.jpg?time=20240526100940"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407981-407981-fl",
-          "author": "Gekisaka",
-          "description": "ブリーラム・ユナイテッドが3連覇を達成した。　タイ1部リーグは17日に第29節を開催し、2位バンコク・ユナイテッドはポリス・テロFCに0-3で敗れた。この結果、5ポイント差で首位を走っていたブリーラム・Uが翌18日の同節を戦う前に優勝が決定。リーグ最多となる10回目のタイトル獲得を果たした。　同クラブには、神戸、横浜FMでプレーしたタイ代表DFティーラトンや今年1月に水戸から加入したD",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407981-407981-fl",
-          "publishedOn": "2024-05-26T00:40:13.000Z",
-          "wordCount": 2564,
-          "title": "ブリーラム・Uが3連覇達成! タビナス・ジェファーソン「バスの中でタイリーグ優勝という結果に…」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407981/news_407981_1.jpg?time=20240526094013"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407978-407978-fl",
-          "author": "Gekisaka",
-          "description": "[5.25 スコティッシュカップ決勝 セルティック 1-0 レンジャーズ]　スコティッシュカップは25日、決勝を開催した。2連覇を狙うセルティックは“ライバル”レンジャーズと対戦し、1-0で勝利。スコティッシュ・プレミアシップとの2冠を達成した。　前回王者のセルティックと、2シーズンぶりの優勝でその座を奪還したいレンジャーズが激突。日本人5選手を擁するセルティックは、FW古橋亨梧、FW前",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407978-407978-fl",
-          "publishedOn": "2024-05-25T21:30:28.000Z",
-          "wordCount": 2585,
-          "title": "セルティックがスコティッシュ杯2連覇&2冠達成! アダム・イダの劇的弾で“宿敵”レンジャーズを撃破",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407978/news_407978_1.jpg?time=20240526063028"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407971-407971-fl",
-          "author": "Gekisaka",
-          "description": "[5.25 ラ・リーガ第38節](サンティアゴ・ベルナベウ)※28:00開始[レアル・マドリー]先発GK 1 ティボー・クルトワDF 2 ダニエル・カルバハルDF 6 ナチョ・フェルナンデスDF 22 アントニオ・リュディガーDF 23 フェルラン・メンディMF 5 ジュード・ベリンガムMF 8 トニ・クロースMF 12 エドゥアルド・カマ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407971-407971-fl",
-          "publishedOn": "2024-05-25T18:10:01.000Z",
-          "wordCount": 2716,
-          "title": "R・マドリーvsベティス スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407970-407970-fl",
-          "author": "Gekisaka",
-          "description": "[5.25 ラ・リーガ第38節 ソシエダ 0-2 A・マドリー]　ラ・リーガは25日、最終節の第38節を各地で行い、MF久保建英所属のソシエダはアトレティコ・マドリーに0-2で敗れた。2試合ぶり先発の久保はフル出場で持ち味を見せたが、GKヤン・オブラクのスーパーセーブに阻まれるなどノーゴール。30試合7ゴール4アシストで2023-24シーズンを終えた。　ソシエダは前節のベティス戦に勝利し",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407970-407970-fl",
-          "publishedOn": "2024-05-25T16:13:59.000Z",
-          "wordCount": 2694,
-          "title": "ソシエダ最終節はA・マドリーに敗戦…久保建英は7G4Aでシーズン閉幕、即移動で3日後の国立凱旋マッチへ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407970/news_407970_1.jpg?time=20240526011359"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407968-407968-fl",
-          "author": "Gekisaka",
-          "description": "[5.25 FA杯決勝 マンチェスター・C 1-2 マンチェスター・U]　FAカップは25日に決勝を行い、マンチェスター・シティとマンチェスター・ユナイテッドの対戦は、ユナイテッドが2-1で優勝を果たした。前半30分にMFアレハンドロ・ガルナチョが先制点を挙げ、同39分にはMFコビー・メイヌーが追加点。終盤に1点を返されるがリードを守り切り、8シーズンぶり13回目の優勝を飾った。　FA杯",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407968-407968-fl",
-          "publishedOn": "2024-05-25T15:56:29.000Z",
-          "wordCount": 2599,
-          "title": "マンUが8年ぶりのFA杯制覇! 昨季決勝カード再び…ガルナチョ&メイヌー弾を守り切り、前回王者マンCに雪辱果たす",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407968/news_407968_1.jpg?time=20240526005629"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407967-407967-fl",
-          "author": "Gekisaka",
-          "description": "チャンピオンシップ(イングランド2部)のプリマスは26日、元イングランド代表FWのウェイン・ルーニー氏(38)が新監督に就任することを発表した。　ルーニー氏は現役時代にエバートン、マンチェスター・ユナイテッド、イングランド代表などで活躍し、ユナイテッドでは歴代1位の253ゴールを記録。代表の通算出場数と通算ゴール数はともに歴代2位の数字となっている。　現役中の2020年1月にダービー・",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407967-407967-fl",
-          "publishedOn": "2024-05-25T15:44:56.000Z",
-          "wordCount": 2565,
-          "title": "ルーニー氏がイングランド2部プリマスの監督に就任「私のキャリアにおける完璧な次のステップ」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407967/news_407967_1.jpg?time=20240526004456"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407962-407962-fl",
-          "author": "Gekisaka",
-          "description": "[5.25 ラ・リーガ第38節](アノエタ)※23:15開始[ソシエダ]先発GK 1 アレックス・レミロDF 6 アリツ・エルストンドDF 17 キーラン・ティアニーDF 18 アマリ・トラオレDF 20 ジョン・パチェコMF 12 アルセン・ザハリャンMF 22 ベニャト・トゥリエンテスMF 23 ブライス・メンデスFW 7 アンデル・バレネチェ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407962-407962-fl",
-          "publishedOn": "2024-05-25T14:25:02.000Z",
-          "wordCount": 2738,
-          "title": "ソシエダvsA・マドリー スタメン発表",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407961-407961-fl",
-          "author": "Gekisaka",
-          "description": "レアル・マドリーは25日、ラ・リーガ第38節でベティスをホームに迎える。カルロ・アンチェロッティ監督が前日会見に出席し、この試合が本拠地ラストゲームとなるMFトニ・クロースについて言及した。クラブ公式サイトが伝えている。　クロースは21日、今夏のEURO2024を最後に現役を引退することを発表。以前からレアルで現役生活を終えることを希望していた中、ついにその時がやってきた。　すでにラ・",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407961-407961-fl",
-          "publishedOn": "2024-05-25T12:31:29.000Z",
-          "wordCount": 2569,
-          "title": "レアル指揮官が引退するクロースに言及「勇気ある決断」「代わりの選手を探すのは非常に難しい」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407961/news_407961_1.jpg?time=20240525213129"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407914-407914-fl",
-          "author": "Gekisaka",
-          "description": "バルセロナのシャビ・エルナンデス監督が24日に自身のインスタグラム(@xavi)を更新し、ファンに向けてメッセージを送った。　シャビ監督は1月に今季限りでの退任を表明したが、その後チームの調子が上向いたことを受け、4月に来季続投で合意。しかし、状況は再び一転し、バルセロナは今月24日に解任を発表した。クラブの財政難に関する発言がジョアン・ラポルタ会長に問題視されたとみられる。　指揮官は",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407914-407914-fl",
-          "publishedOn": "2024-05-25T07:21:16.000Z",
-          "wordCount": 2567,
-          "title": "「スタンドにいるファンの1人になる」バルセロナを去るシャビ監督がファンにメッセージ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407914/news_407914_1.jpg?time=20240525162116"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407936-407936-fl",
-          "author": "Gekisaka",
-          "description": "バルセロナが日本にルーツを持つ20歳GKの獲得を狙っているようだ。ドイツ『スカイ・スポーツ』が報じている。　スペインのビッグクラブが興味を示すのは、ドイツ人の父と日本人の母を持つ194cmの長身GK長田澪(登録名:ミオ・バックハウス)だ。　少年時代に川崎フロンターレのアカデミーに所属し、今季はブレーメン(ドイツ1部)からフォレンダム(オランダ1部)へ期限付き移籍。リーグ戦33試合に出場",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407936-407936-fl",
-          "publishedOn": "2024-05-25T06:28:38.000Z",
-          "wordCount": 2571,
-          "title": "バルセロナが元U-15日本代表の20歳GKを獲得か…海外メディア「バルサが無名GKを欲しがっている」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407936/news_407936_1.jpg?time=20240525152838"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407898-407898-fl",
-          "author": "Gekisaka",
-          "description": "リバプールのFWモハメド・サラーが24日、X(@MoSalah)で自身の新たなヘアスタイル姿を披露した。　サラーは今季の公式戦で25ゴールを記録し、7シーズン連続でクラブ内得点王に輝いた。激闘を終えてオフシーズンを迎えたなか、本人の投稿によるとトレードマークのアフロヘアを一新してモヒカン風の坊主に髪型を変更したようだ。　投稿はテキストがなく写真のみとなっていることもあり、ファンからは「",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407898-407898-fl",
-          "publishedOn": "2024-05-24T14:46:40.000Z",
-          "wordCount": 2509,
-          "title": "サラーが突然の大胆イメチェン!! “脱アフロ”にファン驚き「信じられない」「ベンゼマみたい」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407898/news_407898_1.jpg?time=20240524234640"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407897-407897-fl",
-          "author": "Gekisaka",
-          "description": "『ESPN』は23日、今季のプレミアリーグで31件のVARに関する誤審があったと伝えた。3人の元選手や監督、1人のリーグ関係者、1人の審判協会関係者で構成されるリーグの独立委員会によって判断されている。　今季のプレミアリーグでは、トッテナム対リバプールで異例の誤審が発生した。VARがオフサイドと判定された事象をチェックした結果、オンサイドで得点を認めるべきだと判明。VARは得点にすべきだ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407897-407897-fl",
-          "publishedOn": "2024-05-24T14:20:55.000Z",
-          "wordCount": 2626,
-          "title": "今季のプレミアリーグは31件のVAR関連誤審が発生…最多被害はリバプールら3チームで4回",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407897/news_407897_1.jpg?time=20240524232055"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407894-407894-fl",
-          "author": "Gekisaka",
-          "description": "バルセロナは24日、シャビ・エルナンデス監督の解任を発表した。26日の最終節・セビージャ戦が最後の指揮となる。　シャビ監督は2021-22シーズンからバルセロナを率いているが、今年1月に今季限りでの退任を発表した。しかし4月に一転して来季も引き続き指揮を執ることが決定。異例の退任撤回も「まだ終わっていないプロジェクトを作り続けていく力がある。来年は、再び、期待が高まり、大きな成功を手に",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407894-407894-fl",
-          "publishedOn": "2024-05-24T12:01:46.000Z",
-          "wordCount": 2501,
-          "title": "バルセロナがシャビ監督の解任を正式発表…退任→続投→解任と異例展開に",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407894/news_407894_1.jpg?time=20240524210146"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407891-407891-fl",
-          "author": "Gekisaka",
-          "description": "アメリカのユナイテッド・プレミアサッカーリーグで、セーブを試みたGKがゴールを破壊する珍しい事象が発生した。　珍事が生まれたのは今月19日のブリッジポートFC対ボストン・ストリートの一戦。ブリッジポートFCが1-0でリードする後半14分、FKを獲得する。キッカーが直接狙ったボールはゴール右上隅の際どいところに飛んだ。これをGKがセーブしようとジャンプしたところ、両腕がポストに直撃。その",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407891-407891-fl",
-          "publishedOn": "2024-05-24T11:15:15.000Z",
-          "wordCount": 2490,
-          "title": "GKが決死のダイブでゴール破壊…クロスバー&ポストが崩れ落ちて失点回避",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407891/news_407891_1.jpg?time=20240524201515"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407882-407882-fl",
-          "author": "Gekisaka",
-          "description": "ニューカッスルは24日、オーストラリアでAリーグ選抜と親善試合を行った。若手選手を中心とするメンバー構成で試合に臨むも、0-8と大敗を喫した。　ニューカッスルはプレミアリーグの全日程を終了後、豪州遠征を敢行している。22日にはトッテナムと対戦。主力組が出場して1-1(PK5-4)で勝利した。中1日で迎えたAリーグ選抜戦のスターティングメンバーはGKマーク・ギレスピー、DFディラン・チャ",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407882-407882-fl",
-          "publishedOn": "2024-05-24T10:30:49.000Z",
-          "wordCount": 2507,
-          "title": "プレミア7位・ニューカッスルが豪州Aリーグ選抜に0-8完敗…若手組で臨むも元C大阪FWらに屈す",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407882/news_407882_1.jpg?time=20240524193049"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407886-407886-fl",
-          "author": "Gekisaka",
-          "description": "ルーマニアサッカー連盟(FRF)は23日、コルビヌル・フネドアラがUEFAヨーロッパリーグ(EL)予選の出場を認められたことを発表した。コルビヌル・フネドアラは国内リーグの1部ライセンスを保有せず、2部リーグを戦っている。　コルビヌル・フネドアラは今季の国内カップで初優勝を飾り、来季のEL予選1回戦の出場資格を獲得した。ただ、ルーマニア1部リーグのクラブは民間団体によって経営されている",
-          "link": "https://web.gekisaka.jp/news/uel/detail/?407886-407886-fl",
-          "publishedOn": "2024-05-24T10:22:52.000Z",
-          "wordCount": 2489,
-          "title": "1部リーグライセンス不交付のルーマニア2部チーム、来季EL予選出場へ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407886/news_407886_1.jpg?time=20240524192252"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?407880-407880-pn",
-          "author": "Gekisaka",
-          "description": "オランダ・エールディビジは23日にプレーオフ1回戦を行った。FW小川航基とMF佐野航大が所属するNECはゴー・アヘッド・イーグルスと対戦。1-2で敗退した。●海外組ガイド●オランダ・エールディビジ2023-24特集▶チャンピオンズリーグ決勝「ドルトムントvsレアル・マドリード」6/2(日)午前3時～WOWOWで独占生中継!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?407880-407880-pn",
-          "publishedOn": "2024-05-24T09:24:02.000Z",
-          "wordCount": 2768,
-          "title": "NECナイメヘン佐野航大は3試合連続ゴールと躍動も…カンファレンスリーグ出場を争うPOに敗戦(10枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407880/news_407880_1.jpg?time=20240524182402"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?407875-407875-pn",
-          "author": "Gekisaka",
-          "description": "23日、ブンデスリーガは昇降格プレーオフの第1戦を行った。MF田中碧、MF内野貴史、MFアペルカンプ真大が所属するデュッセルドルフは、FW浅野拓磨の所属するボーフムと対戦し3-0で勝利した。●海外組ガイド●ブンデスリーガ2023-24特集▶チャンピオンズリーグ決勝「ドルトムントvsレアル・マドリード」6/2(日)午前3時～WOWOWで独占生中継!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?407875-407875-pn",
-          "publishedOn": "2024-05-24T09:23:13.000Z",
-          "wordCount": 2802,
-          "title": "田中碧擁するデュッセルドルフがブンデス昇格へ大きく近づく勝利! 浅野拓磨擁するボーフムは手痛い敗戦(18枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407875/news_407875_1.jpg?time=20240524182313"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407881-407881-fl",
-          "author": "Gekisaka",
-          "description": "バルセロナのシャビ・エルナンデス監督が韓国代表を率いる可能性があったようだ。スペインメディア『ムンド・デポルティーボ』が伝えている。　韓国はアジアカップ後にユルゲン・クリンスマン監督を解任するも、後任の選定に難航していまだに暫定体制が続いている。韓国サッカー協会(KFA)は当初、シャビ監督を候補リストに入れていたようだ。『ムンド・デポルティーボ』によればシャビ監督は1月に退任を発表した",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407881-407881-fl",
-          "publishedOn": "2024-05-24T08:28:56.000Z",
-          "wordCount": 2502,
-          "title": "スペインメディア、シャビ監督が韓国代表の後任候補だったと報道…すでに交渉決裂",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407881/news_407881_1.jpg?time=20240524172856"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407879-407879-fl",
-          "author": "Gekisaka",
-          "description": "バンクーバー・ホワイトキャップス(MLS/北米1部)は23日、25日にホームで行うインテル・マイアミ戦について、相手のFWリオネル・メッシ、FWルイス・スアレス、MFセルヒオ・ブスケツが遠征メンバーに入っていないことを報告した。クラブは公式サイトを通じ、場内の飲食を一律半額で販売する対応を行うことを伝えている。　GK高丘陽平が所属するバンクーバー・ホワイトキャップスはスター選手を迎える",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407879-407879-fl",
-          "publishedOn": "2024-05-24T08:06:30.000Z",
-          "wordCount": 2503,
-          "title": "チケット値上げで大入り予想も…メッシ&スアレスら欠場確定、相手のホームチームが“飲食50%引き”特別対応へ",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407879/news_407879_1.jpg?time=20240524170630"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407878-407878-fl",
-          "author": "Gekisaka",
-          "description": "ジョージアサッカー連盟(GFF)は22日、EURO2024に臨むジョージア代表メンバーを発表した。　ジョージアはEURO2024予選プレーオフ決勝でギリシャとのPK戦を制し、史上初の本大会出場権を獲得。「クバラドーナ」と称されるFWフビチャ・クバラツヘリア(ナポリ)らが招集されている。　本大会ではF組に入っており、所詮はトルコと対戦する。その後チェコと戦い、GL最終節ではポルトガルとの",
-          "link": "https://web.gekisaka.jp/news/euro/detail/?407878-407878-fl",
-          "publishedOn": "2024-05-24T07:36:35.000Z",
-          "wordCount": 2531,
-          "title": "唯一の初出場国・ジョージアがEUROに臨む代表メンバーを発表!!",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407878/news_407878_1.jpeg?time=20240524163635"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407863-407863-fl",
-          "author": "Gekisaka",
-          "description": "元日本代表キャプテンで、今月18日にフランクフルトで現役を引退した長谷部誠(40)が24日に都内で引退会見を行った。　18日の現役引退から一週間が経ったなかで、長谷部は「今も実感が湧かない」と率直に発言。「毎年のオフに入った感覚。頭は理解しようとしているが、自分の体が今すぐにでもボールを蹴りたいとうずいている」と今の思いを明かした。　22年間という長いキャリアを終えた今は「後悔はまった",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407863-407863-fl",
-          "publishedOn": "2024-05-24T04:23:29.000Z",
-          "wordCount": 2505,
-          "title": "長谷部誠が引退会見「後悔ない」も「体が今すぐにでもボールを蹴りたいとうずいている」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407863/news_407863_1.jpg?time=20240524132329"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407861-407861-fl",
-          "author": "Gekisaka",
-          "description": "アヤックスは24日、新監督にフランチェスコ・ファリオーリ氏が就任したことを発表した。契約は2027年夏までの3年間。クラブ史上初のイタリア人指揮官になるという。　ファリオーリ監督はフランス・リーグアンのニースで指揮官を務めており、リーグ戦を5位で終えていた。今シーズン限りで辞任し、キャリア4番目のクラブとしてアヤックスに渡った。21年にトルコのファティ・カラギュムリュクでリーグ史上最年",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407861-407861-fl",
-          "publishedOn": "2024-05-24T02:54:11.000Z",
-          "wordCount": 2498,
-          "title": "アヤックス新監督はクラブ史上初イタリア人…GKコーチからキャリアスタートの35歳、師はデ・ゼルビ監督",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407861/news_407861_1.jpg?time=20240524115411"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407859-407859-fl",
-          "author": "Gekisaka",
-          "description": "ブンデスリーガは23日、昇降格プレーオフの第1戦を行った。FW浅野拓磨が所属するボーフムと、MF田中碧、DF内野貴史、MFアペルカンプ真大が所属するデュッセルドルフの対戦は、デュッセルドルフが3-0で勝利した。第2戦は27日に行われる。　ブンデスリーガを16位で終えたボーフムと、2部3位で昇格に望みをつないだデュッセルドルフ。ボーフムは浅野、デュッセルドルフは田中が先発出場した。前半1",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407859-407859-fl",
-          "publishedOn": "2024-05-24T01:11:01.000Z",
-          "wordCount": 2508,
-          "title": "デュッセルドルフがブンデス昇格王手! 田中碧がボーフム浅野拓磨との日本人対決で先勝",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407859/news_407859_1.jpg?time=20240524101101"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407858-407858-fl",
-          "author": "Gekisaka",
-          "description": "オランダ・エールディビジは23日にプレーオフ1回戦を行った。FW小川航基とMF佐野航大が所属するNECはゴー・アヘッド・イーグルスと対戦。1-2で敗退した。　リーグ5位から8位まではヨーロッパ・カンファレンスリーグ(ECL)出場を懸けてプレーオフへ。NECは小川と佐野が先発出場した。　均衡が破れたのは後半12分。NECは右サイドのスローインからリスタートして大きくクロスが上がる。ファー",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407858-407858-fl",
-          "publishedOn": "2024-05-24T00:39:57.000Z",
-          "wordCount": 2508,
-          "title": "佐野航大は3試合連続ゴールも…NECはカンファレンスリーグ出場を懸けたPOで敗戦",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407858/news_407858_1.jpg?time=20240524093957"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407857-407857-fl",
-          "author": "Gekisaka",
-          "description": "FWオリビエ・ジルー(37)がフランス代表引退を表明した。6月開幕のEURO2024終了後に退くことになるという。　ジルーは2011年に代表デビューを飾ると、公式戦131試合に出場。フランス代表の歴代最多得点57ゴールの記録を保持し、18年にはロシアワールドカップ制覇に大きく貢献した。　21年にはチェルシーからミランに加入。初年度で11シーズンぶりとなるセリエA制覇に貢献した。今シーズ",
-          "link": "https://web.gekisaka.jp/news/euro/detail/?407857-407857-fl",
-          "publishedOn": "2024-05-23T23:57:18.000Z",
-          "wordCount": 2500,
-          "title": "オリビエ・ジルーがフランス代表引退を表明…EURO後に勇退「若手に道を譲る必要がある」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407857/news_407857_1.jpg?time=20240524085718"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407642-407642-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第38節】(エティハド スタジアム)マンチェスター・C 3-1(前半2-1)ウエスト・ハム[マ]フィル・フォーデン2(2分、18分)、ロドリ(59分)[ウ]モハメド・クドゥス(42分)[ウ]エドソン アルバレス(76分)観衆:55,097人└偉業! マンCがプレミアリーグ史上初4連覇! フォーデン2発&ロドリ弾でウエスト・ハム撃破<出",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407642-407642-fl",
-          "publishedOn": "2024-05-23T15:50:02.000Z",
-          "wordCount": 2662,
-          "title": "マンチェスター・Cvsウエスト・ハム 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407640-407640-fl",
-          "author": "Gekisaka",
-          "description": "【プレミアリーグ第38節】(アンフィールド)リバプール 2-0(前半2-0)ウォルバーハンプトン[リ]アレクシス・マック・アリスター(34分)、ジャレル・クアンサー(40分)[ウ]ネウソン・セメド(28分)[リ]遠藤航(60分)[ウ]トティ(45分+1)観衆:60,059人└リバプール最終戦を終えたクロップ監督、“サポーター”として帰還宣言も「開",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407640-407640-fl",
-          "publishedOn": "2024-05-23T15:50:02.000Z",
-          "wordCount": 2656,
-          "title": "リバプールvsウォルバーハンプトン 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407852-407852-fl",
-          "author": "Gekisaka",
-          "description": "イタリアサッカー連盟(FIGC)は23日、欧州選手権(EURO2024)に向けたイタリア代表候補メンバー30人を発表した　大会2連覇を狙うイタリアはグループリーグでスペイン、クロアチア、アルバニアと激突する。ルチアーノ・スパレッティ監督は候補メンバーにGKジャンルイジ・ドンナルンマ(パリSG)、FWフェデリコ・キエーザ(ユベントス)、FWジャコモ・ラスパドーリ(ナポリ)らを招集。DFリ",
-          "link": "https://web.gekisaka.jp/news/euro/detail/?407852-407852-fl",
-          "publishedOn": "2024-05-23T14:50:09.000Z",
-          "wordCount": 2563,
-          "title": "イタリア代表が2連覇を狙うEUROに向けて候補メンバー30人を発表",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407852/news_407852_1.jpg?time=20240523235009"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407646-407646-fl",
-          "author": "Gekisaka",
-          "description": "【セリエA第37節】(ジュゼッペ・メアッツァ)インテル 1-1(前半0-1)ラツィオ[イ]デンゼル・ダンフリース(87分)[ラ]鎌田大地(32分)[ラ]ニコロ・カザーレ(52分)観衆:73,148人[インテル]先発GK 1 ヤン・ゾマーDF 15 フランチェスコ・アチェルビDF 28 バンジャマン・パバールDF 95 アレッサンド",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407646-407646-fl",
-          "publishedOn": "2024-05-23T13:40:01.000Z",
-          "wordCount": 2687,
-          "title": "インテルvsラツィオ 試合記録",
-          "imageUrl": "//f.image.geki.jp/data/image/dummy_300.gif"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?407832-407832-pn",
-          "author": "Gekisaka",
-          "description": "19日、プレミアリーグは第38節を各地で開催した。マンチェスター・シティはホームでウエスト・ハムと対戦して3-1で勝利し、プレミア4連覇を達成した。●プレミアリーグ2023-24特集▶チャンピオンズリーグ決勝「ドルトムントvsレアル・マドリード」6/2(日)午前3時～WOWOWで独占生中継!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?407832-407832-pn",
-          "publishedOn": "2024-05-23T08:36:04.000Z",
-          "wordCount": 2887,
-          "title": "マンCがフォーデン2発&ロドリ弾でウエスト・ハム撃破! 最終節勝利でプレミア4連覇の偉業を達成(10枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407832/news_407832_1.jpg?time=20240523173604"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?407836-407836-pn",
-          "author": "Gekisaka",
-          "description": "19日、プレミアリーグは第38節を各地で開催した。トッテナムはシェフィールド・ユナイテッドと敵地で対戦し、3-0で勝利した。●プレミアリーグ2023-24特集▶チャンピオンズリーグ決勝「ドルトムントvsレアル・マドリード」6/2(日)午前3時～WOWOWで独占生中継!",
-          "link": "https://web.gekisaka.jp/photonews/world/detail/?407836-407836-pn",
-          "publishedOn": "2024-05-23T08:35:43.000Z",
-          "wordCount": 2886,
-          "title": "トッテナムはクルゼフスキ2発&ポロ弾でシェフィールド・ユナイテッドを粉砕! 5位フィニッシュでEL出場権確保(8枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407836/news_407836_1.jpg?time=20240523173543"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?407833-407833-pn",
-          "author": "Gekisaka",
-          "description": "UEFAヨーロッパリーグ(EL)は22日、決勝戦を開催した。レバークーゼン(ドイツ)はアタランタ(イタリア)と対戦し、0-3で敗れて準優勝。レバークーゼンは昨年5月27日のボーフム戦(●0-3)以来、361日ぶりとなる公式戦での敗戦となった。●ヨーロッパリーグ(EL)23-24特集●ブンデスリーガ2023-24特集●セリエA2023-24特集▶チャンピオンズリーグ決勝「ドルトムントvs",
-          "link": "https://web.gekisaka.jp/photonews/uel/detail/?407833-407833-pn",
-          "publishedOn": "2024-05-23T08:32:44.000Z",
-          "wordCount": 2903,
-          "title": "レバークーゼンが公式戦52試合ぶりの敗戦…アタランタに屈辱の3発完敗でEL制覇ならず(12枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407833/news_407833_1.jpg?time=20240523173244"
-        },
-        {
-          "id": "https://web.gekisaka.jp/photonews/detail/?407828-407828-pn",
-          "author": "Gekisaka",
-          "description": "UEFAヨーロッパリーグ(EL)は22日、決勝戦を開催。アタランタ(イタリア)はレバークーゼン(ドイツ)に3-0で勝利し、初優勝を飾った。なお、レバークーゼンは昨年5月27日のボーフム戦(●0-3)以来、361日ぶりとなる公式戦での敗戦となった。●ヨーロッパリーグ(EL)23-24特集●ブンデスリーガ2023-24特集●セリエA2023-24特集▶チャンピオンズリーグ決勝「ドルトムント",
-          "link": "https://web.gekisaka.jp/photonews/uel/detail/?407828-407828-pn",
-          "publishedOn": "2024-05-23T08:30:58.000Z",
-          "wordCount": 2905,
-          "title": "アタランタがレバークーゼンの無敗記録を\"51\"で止めてEL制覇! ルックマンが圧巻ハットで初タイトルもたらす(12枚)",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407828/news_407828_1.jpg?time=20240523173058"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407830-407830-fl",
-          "author": "Gekisaka",
-          "description": "UEFAヨーロッパリーグ(EL)決勝が22日に行われ、レバークーゼンを3-0で破ったアタランタがクラブ史上初の欧州タイトルを獲得した。初優勝の立役者はハットトリックのナイジェリア代表FWアデモラ・ルックマン。試合後、UEFAのプレイヤー・オブ・ザ・マッチに選出された。　ルックマンは前半12分に右からのクロスを左足で押し込むと、同26分には個人技から右足で見事なミドルシュートを突き刺し、",
-          "link": "https://web.gekisaka.jp/news/uel/detail/?407830-407830-fl",
-          "publishedOn": "2024-05-23T05:52:00.000Z",
-          "wordCount": 2504,
-          "title": "アタランタをEL初優勝に導くハット! 文句なしMOMのルックマン「人生で最高の夜」「歴史を作った」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407830/news_407830_1.jpg?time=20240523144833"
-        },
-        {
-          "id": "https://web.gekisaka.jp/news/detail/?407829-407829-fl",
-          "author": "Gekisaka",
-          "description": "日本代表MF三笘薫が所属するブライトンは23日、今夏に『ブライトン&ホーヴ・アルビオン・ジャパンツアー2024』を開催し、鹿島アントラーズ、東京ヴェルディと対戦することを発表した。日本ツアーはクラブ史上初となる。　試合会場はいずれも国立競技場。鹿島戦は7月24日(水)の19時、東京V戦は7月28日(日)の18時30分キックオフとなる。　三笘は日本凱旋にあたり、クラブを通じて「はじめに、",
-          "link": "https://web.gekisaka.jp/news/world/detail/?407829-407829-fl",
-          "publishedOn": "2024-05-23T04:39:36.000Z",
-          "wordCount": 2506,
-          "title": "ブライトンがクラブ史上初の日本ツアー開催! 三笘薫「Jリーグを代表するチームと戦うことで…」",
-          "imageUrl": "https://f.image.geki.jp/data/image/news/2560/408000/407829/news_407829_1.jpg?time=20240523133936"
         }
       ]
     }
